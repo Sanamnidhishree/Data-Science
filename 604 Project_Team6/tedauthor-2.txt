@@ -1,0 +1,4436 @@
+Author_id	Author	Num_Authors	Occupation
+A_1	A Tribe Called Red	1	
+A_2	A. Dara Dotz	1	
+A_3	A.J. Jacobs	1	
+A_4	Aakash Odedra	1	Choreographer
+A_5	Aala El-Khani	1	Humanitarian psychologist
+A_6	"Aaron Duffy , Lake Buckley , Jack Foster"	3	
+A_7	Aaron Horowitz	1	
+A_8	Aaron Huey	1	Photographer
+A_9	Aaron Koblin	1	Data artist
+A_10	Aaron Maniam	1	
+A_11	Aaron Morris	1	
+A_12	Aaron O'Connell	1	Physicist
+A_13	Aaron Reedy	1	
+A_14	Aaron Sams	1	
+A_15	Aaswath Raman	1	
+A_16	Aatish Bhatia	1	
+A_17	Abbey Williams	1	
+A_18	Abdallah Ewis	1	
+A_19	Abe Davis	1	Computer scientist
+A_20	Abha Dawesar	1	Novelist
+A_21	Abhishek Gopalka	1	
+A_22	Abigail Disney	1	
+A_23	Abigail Marsh	1	Psychologist
+A_24	Abigail Spanberger	1	
+A_25	Abigail Washburn	1	Clawhammer banjo player
+A_26	Abraham Verghese	1	Physician and author
+A_27	Achenyo Idachaba	1	Green entrepreneur
+A_28	Achim Steiner	1	
+A_29	Achin Bhowmik	1	
+A_30	Adam Alter	1	Psychologist
+A_31	Adam Carroll	1	
+A_32	Adam Clulow	1	
+A_33	Adam Cutler	1	
+A_34	Adam Davidson	1	Journalist
+A_35	Adam de la Zerda	1	"Biologist, electrical engineer"
+A_36	Adam Driver	1	Actor and Marine Corps veteran
+A_37	Adam Galinsky	1	Social psychologist
+A_38	Adam Garone	1	Moustache activist
+A_39	Adam Garske	1	
+A_40	Adam Grant	1	Organizational psychologist
+A_41	Adam Grosser	1	Venture capitalist
+A_42	Adam Kucharski	1	
+A_43	Adam Ostrow	1	Journalist
+A_44	Adam Sadowsky	1	Creative entrepreneur 
+A_45	Adam Savage	1	"Maker, critical thinker"
+A_46	Adam Spencer	1	Science communicator
+A_47	Adar Cohen	1	
+A_48	Addison Anderson	1	
+A_49	Adena Friedman	1	
+A_50	Adeola Fayehun	1	
+A_51	Adie Delaney	1	
+A_52	Aditi Gupta	1	"Social entrepreneur, co-founder of Menstrupedia"
+A_53	Aditi Shankardass	1	Neuroscientist 
+A_54	Adong Judith	1	
+A_55	Adora Svitak	1	Child prodigy
+A_56	Adriv°n Paenza	1	
+A_57	Adrian K. Haugabrook	1	
+A_58	Adrienne Mayor	1	
+A_59	Afra Raymond	1	Transparency activist
+A_60	Agnes Binagwaho	1	
+A_61	Ahmad M. Hasnah	1	
+A_62	Ahn Trio	1	Piano trio
+A_63	Ai-jen Poo	1	
+A_64	"Aicha el-Wafi , Phyllis Rodriguez"	2	
+A_65	Aicha Evans	1	
+A_66	Aimee Eubanks Davis	1	
+A_67	Aimee Mullins	1	Athlete and actor
+A_68	"Aja Monet , phillip agnew"	2	
+A_69	Ajay Banga	1	
+A_70	Ajit Narayanan	1	Visual grammar engine inventor
+A_71	Akash Manoj	1	
+A_72	"AKQA , Jung von Matt"	2	
+A_73	Akshita Agarwal	1	
+A_74	Al Gore	1	Climate advocate
+A_75	"Al Gore , Jaden Smith"	2	
+A_76	"Al Gore , Gloria Kasang Bulus , Nana Firman , Ximena Lorv?a , Tim Guinee"	5	
+A_77	"Al Roker , Al Gore , David Biello , Latif Nasser"	4	
+A_78	Al Seckel	1	Master of visual illusions
+A_79	Al Vernacchio	1	Sexuality educator
+A_80	Alaa Murabit	1	Peace expert
+A_81	Alain de Botton	1	Philosopher
+A_82	Alan Amling	1	
+A_83	Alan Crickmore	1	
+A_84	Alan Eustace	1	Stratospheric explorer
+A_85	Alan Iny	1	
+A_86	Alan Kay	1	Educator and computing pioneer
+A_87	Alan Lupack	1	
+A_88	Alan Russell	1	Medical futurist
+A_89	Alan Siegel	1	"Executive, simplicity guru"
+A_90	Alan Smith	1	Data visualisation editor
+A_91	Alanna Shaikh	1	Global health and development specialist
+A_92	Alasdair Harris	1	
+A_93	Alastair Gray	1	
+A_94	Alastair O'Neill	1	
+A_95	Alastair Parvin	1	Designer
+A_96	Alayna Vaughan	1	
+A_97	Alba Sotorra	1	
+A_98	Albert-László Barabási	1	
+A_99	Alberto Cairo	1	Physiotherapist
+A_100	Alberto Garv?n	1	
+A_101	"Alec Soth , Stacey Baker"	2	
+A_102	Alejandro Aravena	1	Urban architect
+A_103	Alejandro Chaskielberg	1	
+A_104	Alejandro Duran	1	
+A_105	Alejandro Nespral	1	
+A_106	Alejandro Sanchez Alvarado	1	
+A_107	Aleph Molinari	1	"Economist, techno-activist"
+A_108	Alessandra Orofino	1	Political mobilization activist
+A_109	Alessandro Acquisti	1	Privacy economist
+A_110	Alex Apella	1	
+A_111	Alex Edmans	1	
+A_112	Alex Gendler	1	
+A_113	Alex Honnold	1	
+A_114	Alex Kipman	1	Inventor
+A_115	Alex Laskey	1	Energy software maker
+A_116	Alex Rosenthal	1	
+A_117	"Alex Rosenthal , George Zaidan"	2	
+A_118	"Alex Rosenthal , Pall Thordarson"	2	
+A_119	Alex Smith	1	
+A_120	Alex Steffen	1	Planetary futurist
+A_121	Alex Tabarrok	1	Economist
+A_122	Alex Wissner-Gross	1	"Scientist, entrepreneur, inventor"
+A_123	Alexa Meade	1	Visual artist
+A_124	Alexander Belcredi	1	
+A_125	Alexander Betts	1	Social scientist
+A_126	Alexander Leitner	1	
+A_127	Alexander MacDonald	1	
+A_128	Alexander McLean	1	
+A_129	Alexander Tsiaras	1	Medical image maker
+A_130	Alexander Tuerpitz	1	
+A_131	Alexander Wagner	1	Economist
+A_132	Alexandra Auer	1	
+A_133	Alexandra Horowitz	1	
+A_134	Alexandra Sacks	1	
+A_135	Alexandros Charalambides	1	
+A_136	Alexis Charpentier	1	
+A_137	Alexis Gambis	1	
+A_138	Alexis Jones	1	
+A_139	Alexis Ohanian	1	Entrepreneur
+A_140	Ali Carr-Chellman	1	Instructional designer
+A_141	Ali Kashani	1	
+A_142	Alice Bows-Larkin	1	Climate scholar
+A_143	Alice Dreger	1	Historian
+A_144	Alice Goffman	1	Urban sociologist
+A_145	Alice Gorman	1	
+A_146	Alice Pailhv®s	1	
+A_147	Alice Rawsthorn	1	Design critic
+A_148	Alicia Chong Rodriguez	1	
+A_149	Alicia Eggert	1	
+A_150	"Alicia Garza , Patrisse Cullors , Opal Tometi"	3	
+A_151	Alicia Malone	1	
+A_152	Alisa Kazarina	1	
+A_153	Alisa Miller	1	"CEO, Public Radio International (PRI)"
+A_154	Alison Gopnik	1	Child development psychologist
+A_155	Alison Jackson	1	Artist
+A_156	Alison Killing	1	Architect
+A_157	Alison Ledgerwood	1	
+A_158	Alison Quirk	1	
+A_159	Alison Sander	1	
+A_160	Alix Generous	1	Advocate
+A_161	Allan Adams	1	Theoretical physicist
+A_162	Allan Jones	1	Brain scientist
+A_163	Allan Savory	1	Grassland ecosystem pioneer
+A_164	Allison Hunt	1	Marketing expert
+A_165	"Allison Ramsey , Mary Staicu"	2	
+A_166	Almudena Toral	1	
+A_167	Alok Sharma	1	
+A_168	Alvin Irby	1	
+A_169	Alwar Balasubramaniam	1	Artist
+A_170	Alyson McGregor	1	Women's health pioneer
+A_171	Alyssa Loorya	1	
+A_172	Alyssa Monks	1	Painter
+A_173	Amanda Bennett	1	Journalist
+A_174	Amanda Burden	1	Urban planner
+A_175	Amanda Gorman	1	
+A_176	Amanda Little	1	
+A_177	Amanda Mattes	1	
+A_178	Amanda Palmer	1	"Musician, blogger"
+A_179	"Amanda Palmer , Jherek Bischoff , Usman Riaz"	3	
+A_180	Amanda Schochet	1	
+A_181	Amanda Williams	1	
+A_182	Amane Dannouni	1	
+A_183	Amar Inamdar	1	
+A_184	Amara Berry	1	
+A_185	Amber Case	1	Cyborg Anthropologist 
+A_186	Amber Hikes	1	
+A_187	Amber M. Yates	1	
+A_188	Amber McReynolds	1	
+A_189	Amber Stuver	1	
+A_190	Ameera Harouda	1	Fixer
+A_191	Amel Karboul	1	
+A_192	Amelia Laytham	1	
+A_193	America Ferrera	1	
+A_194	American Family Insurance	1	
+A_195	Ami Angelowicz	1	
+A_196	Ami Klin	1	Autism researcher
+A_197	Amina J. Mohammed	1	
+A_198	Amir Nizar Zuabi	1	
+A_199	Amishi Jha	1	
+A_200	Amit Kalra	1	
+A_201	Amit Sood	1	Technologist
+A_202	Amma Y. Ghartey-Tagoe Kootin	1	
+A_203	Amory Lovins	1	"Physicist, energy guru"
+A_204	Amos Winter	1	Mechanical engineer
+A_205	Amy Adele Hasinoff	1	Communications researcher
+A_206	Amy Adkins	1	
+A_207	Amy C. Edmondson	1	
+A_208	Amy Cuddy	1	Social psychologist
+A_209	Amy Edmondson	1	
+A_210	Amy Green	1	Video game designer
+A_211	Amy Herman	1	
+A_212	"Amy Hrdina , Jesse Kroll"	2	
+A_213	Amy Lockwood	1	Global development worker
+A_214	Amy Milton	1	
+A_215	Amy Nicole Baker	1	
+A_216	Amy Padnani	1	
+A_217	Amy Price Azano	1	
+A_218	Amy Purdy	1	Pro snowboarder
+A_219	Amy Smith	1	"inventor, engineer"
+A_220	Amy Tan	1	Novelist
+A_221	Amy Webb	1	"Founder and CEO, Future Today Institute"
+A_222	Anab Jain	1	"Futurist, designer"
+A_223	Anand Agarawala	1	Interaction designer; software developer
+A_224	Anand Giridharadas	1	Writer
+A_225	Anand Varma	1	Photographer
+A_226	Ananda Shankar Jayant	1	Dancer and choreographer
+A_227	Anant Agarwal	1	Education innovator
+A_228	Ananya Grover	1	
+A_229	Anas Aremeyaw Anas	1	Undercover journalist
+A_230	Anastasia Penright	1	
+A_231	Anastasia Taylor-Lind	1	Documentary photographer
+A_232	Anders Fjellberg	1	Journalist
+A_233	Anders Ynnerman	1	Scientific visualization expert
+A_234	Andres Ruzo	1	
+A_235	Andras Forgacs	1	Bioprinting entrepreneur
+A_236	Andrea Berchowitz	1	
+A_237	Andrea Ghez	1	Astronomer
+A_238	Andrea Gibson	1	
+A_239	Andrea M. Henle	1	
+A_240	Andrea Vilallonga	1	
+A_241	Andreas Ekstrv?m	1	
+A_242	Andreas Raptopoulos	1	Airborne logistics activist
+A_243	Andreas Schleicher	1	Education surveyor
+A_244	Andreea S. Calude	1	
+A_245	Andres Lozano	1	Neurosurgeon
+A_246	Andrew Arruda	1	
+A_247	Andrew Bastawrous	1	"Eye surgeon, inventor"
+A_248	Andrew Bird	1	Musician
+A_249	Andrew Blum	1	Network author
+A_250	Andrew Connolly	1	Astronomer
+A_251	Andrew Dent	1	
+A_252	Andrew Fitzgerald	1	Editor
+A_253	Andrew Forrest	1	
+A_254	Andrew Marantz	1	
+A_255	Andrew McAfee	1	Management theorist
+A_256	Andrew McDonald	1	
+A_257	Andrew Millar	1	
+A_258	Andrew Mwenda	1	Journalist
+A_259	Andrew Nemr	1	
+A_260	Andrew Peek	1	
+A_261	Andrew Pelling	1	Biohacker
+A_262	"Andrew Pontzen , Tom Whyntie"	2	
+A_263	Andrew Solomon	1	Writer
+A_264	Andrew Stanton	1	Filmmaker
+A_265	Andrew Vanden Heuvel	1	
+A_266	Andrew Winston	1	
+A_267	Andrew Youn	1	Anti-hunger activist
+A_268	Andrew Zimmerman Jones	1	
+A_269	Andrey Vyshedskiy	1	
+A_270	Andri Snv¶r Magnason	1	
+A_271	Andy Hobsbawm	1	Internet entrepreneur
+A_272	Andy Puddicombe	1	Mindfulness expert
+A_273	Andy Yen	1	Secure email developer
+A_274	Ane Brun	1	
+A_275	Anees Bahji	1	
+A_276	Angelica Dass	1	
+A_277	Angelique Parisot-Potter	1	
+A_278	Angel Chang	1	
+A_279	Angel Hsu	1	
+A_280	Angela Belcher	1	Biological engineer
+A_281	Angela Francis	1	
+A_282	Angela Garbes	1	
+A_283	Angela Koine Flynn	1	
+A_284	Angela Lee Duckworth	1	Psychologist
+A_285	Angela Mahecha Adrar	1	
+A_286	Angela Oguntala	1	
+A_287	Angela Patton	1	Activist
+A_288	Angela Wang	1	
+A_289	Angelicque White	1	
+A_290	Angelo Vermeulen	1	"Space researcher, biologist, artist"
+A_291	Angie Murimirwa	1	
+A_292	Ani Liu	1	"Designer, artist"
+A_293	Anika Hazra	1	
+A_294	Anika Paulson	1	"Student, musician"
+A_295	Anil Ananthaswamy	1	Science writer
+A_296	Anil Gupta	1	Innovation advocate
+A_297	Anil Raj	1	
+A_298	Anil Seth	1	Cognitive neuroscientist
+A_299	Anindya Kundu	1	
+A_300	Anirudh Sharma	1	
+A_301	Anita Collins	1	
+A_302	Anja Blacha	1	
+A_303	Anjali Kumar	1	
+A_304	Anjali Tripathi	1	Astrophysicist
+A_305	Anjan Chatterjee	1	Cognitive neuroscientist
+A_306	Anjan Sundaram	1	
+A_307	Ann Cooper	1	Lunch lady
+A_308	Ann Curry	1	
+A_309	Ann Morgan	1	"Writer, blogger, author"
+A_310	Ann-Helv©n Bay	1	
+A_311	Anna Babel	1	
+A_312	Anna Deavere Smith	1	"Actor, playwright, social critic"
+A_313	Anna Heringer	1	
+A_314	Anna Malaika Tubbs	1	
+A_315	Anna Mracek Dietrich	1	Inventor
+A_316	Anna Piperal	1	
+A_317	Anna Post	1	
+A_318	Anna Rosling Ronnlund	1	
+A_319	Anna Rothschild	1	
+A_320	Anne Basting	1	
+A_321	Anne Curzan	1	
+A_322	Anne F. Broadbridge	1	
+A_323	Anne Gaskett	1	
+A_324	Anne Lamott	1	"Novelist, essayist"
+A_325	Anne Madden	1	"Microbiologist, inventor and strategist"
+A_326	Anne Marie Albano	1	
+A_327	Anne Milgram	1	Criminal justice reformer
+A_328	Anne Pasternak	1	
+A_329	Anne Scherer	1	
+A_330	Anne-Marie Slaughter	1	Public policy thinker
+A_331	Annette Heuser	1	Rating agency reformer
+A_332	"Annie Bosler , Don Greene"	2	
+A_333	Annie Lennox	1	"Activist, singer-songwriter"
+A_334	Annie Murphy Paul	1	Science author
+A_335	AnnMarie Thomas	1	Educator
+A_336	Anote Tong	1	President of the Republic of Kiribati
+A_337	Anton Garcia-Abril	1	
+A_338	Antonio Guterres	1	
+A_339	"Antara Raychaudhuri , Iseult Gillespie"	2	
+A_340	Anthony Atala	1	Surgeon
+A_341	Anthony D. Romero	1	"Attorney, public-interest activist"
+A_342	Anthony Goldbloom	1	Machine learning expert
+A_343	Anthony Hazard	1	
+A_344	Anthony Veneziale	1	
+A_345	Antionette Carroll	1	
+A_346	Antoine Gourevitch	1	
+A_347	Antonella Mei-Pochtler	1	
+A_348	Antonio Damasio	1	Neuroscientist
+A_349	Antonio Donato Nobre	1	Scientist
+A_350	Antonio Garcia Vicente	1	
+A_351	Antonio Muoz Fernandez	1	
+A_352	Antony Gormley	1	Sculptor
+A_353	Anu Puusa	1	
+A_354	Anu Sridharan	1	
+A_355	Anupam Mishra	1	Environmental activist
+A_356	Anushka Naiknaware	1	
+A_357	Aomawa Shields	1	"Astronomer, astrobiologist, actor, writer"
+A_358	Aparna Hegde	1	
+A_359	Aparna Mehta	1	
+A_360	Aparna Nancherla	1	
+A_361	Aparna Pallavi	1	
+A_362	Aparna Rao	1	Artist
+A_363	Apiorkor Seyiram Ashong-Abbey	1	
+A_364	Apollo Robbins	1	Gentleman thief
+A_365	April Gudenrath	1	
+A_366	Aracelis Girmay	1	
+A_367	Archie Crowley	1	
+A_368	Ari Wallach	1	Futurist
+A_369	Ariana Curtis	1	
+A_370	Arianna Huffington	1	Journalist
+A_371	Ariel Anbar	1	
+A_372	Ariel Garten	1	"Artist, scientist and entrepreneur"
+A_373	Ariel Waldman	1	
+A_374	Arik Hartmann	1	
+A_375	Arindam Bhattacharya	1	
+A_376	Arinjay Banerjee	1	
+A_377	Aris Venetikidis	1	Mapmaker
+A_378	Arjan Dwarshuis	1	
+A_379	Arleen Sugano	1	
+A_380	Armand D'Angour	1	
+A_381	Armando Azua-Bustos	1	Astrobiologist
+A_382	Arnav Kapur	1	
+A_383	Arturs Miksons	1	
+A_384	Arthur Benjamin	1	Mathemagician
+A_385	Arthur Brooks	1	"Social scientist, author "
+A_386	Arthur Ganson	1	Sculptor
+A_387	Arthur Potts Dawson	1	Green chef
+A_388	Arunabha Ghosh	1	
+A_389	Arunachalam Muruganantham	1	Inventor
+A_390	Arvind Gupta	1	Toymaker
+A_391	Asaf Bar-Yosef	1	
+A_392	Asali DeVan Ecclesiastes	1	
+A_393	Ash Beckham	1	Equality advocate
+A_394	Asha de Vos	1	Protector of whales
+A_395	Asher Hasan	1	Social entrepreneur
+A_396	Ashley Graham	1	
+A_397	Ashley Judd	1	"Actor, activist"
+A_398	Ashley Whillans	1	
+A_399	Ashraf Ghani	1	President-elect of Afghanistan
+A_400	Ashton Applewhite	1	"Author, activist"
+A_401	Ashton Cofer	1	Youth inventor
+A_402	Ashweetha Shetty	1	
+A_403	Ashwin Naidu	1	
+A_404	Ashwini Anburajan	1	
+A_405	Ashwini Bhandiwad	1	
+A_406	Ashwini Mrinal Bhagat	1	
+A_407	Asmeret Asefaw Berhe	1	
+A_408	Aspen Baker	1	Listener
+A_409	Astro Teller	1	"Entrepreneur, inventor, author"
+A_410	Atul Gawande	1	"Surgeon, journalist"
+A_411	Aubrey de Grey	1	Crusader against aging
+A_412	Audrey Choi	1	Sustainable investment expert
+A_413	Audrey Tang	1	
+A_414	Augie Picado	1	Border specialist
+A_415	Augusto Carballido	1	
+A_416	Auke Ijspeert	1	Roboticist
+A_417	Auret van Heerden	1	Labor-rights activist
+A_418	Austin Eubanks	1	
+A_419	Avi Reichental	1	3D printer
+A_420	Avi Rubin	1	Computer security expert
+A_421	Axel Reinaud	1	
+A_422	Ayah Bdeir	1	Engineer and artist
+A_423	Ayana Elizabeth Johnson	1	
+A_424	"Ayana Elizabeth Johnson , Jennifer Jacquet"	2	
+A_425	"Ayana Elizabeth Johnson , Megan Davis"	2	
+A_426	"Ayana Jamieson , Moya Bailey"	2	
+A_427	Ayanna Howard	1	
+A_428	"Azim Khamisa , Ples Felix"	2	
+A_429	Aziz Abu Sarah	1	Entrepreneur + educator
+A_430	Aziza Chaouni	1	Architect + ecotourism specialist
+A_431	B.E.A.T. NYC	1	
+A_432	Bv©atrice Coron	1	
+A_433	Baba Shiv	1	Neuroeconomist
+A_434	Bahia Shehab	1	Artist and historian
+A_435	Balsher Singh Sidhu	1	
+A_436	Bandi Mbubi	1	Social Justice Activist
+A_437	Barat Ali Batoor	1	Photojournalist
+A_438	Baratunde Thurston	1	
+A_439	Barbara Block	1	Marine biologist
+A_440	Barbara J. King	1	
+A_441	Barbara Natterson-Horowitz	1	Cardiologist
+A_442	Barbara Sherman	1	
+A_443	Baroness Beeban Kidron	1	
+A_444	Barry Schuler	1	Entrepreneur
+A_445	Barry Schwartz	1	Psychologist
+A_446	Bart Knols	1	Malariologist
+A_447	Bart Weetjens	1	Product developer
+A_448	Barton Seaver	1	Chef
+A_449	Bas Sudmeijer	1	
+A_450	Bassam Tariq	1	Creative spirit
+A_451	Bastian Schaefer	1	Aircraft engineer
+A_452	Beardyman	1	Beatboxer and inventor
+A_453	Beau Lotto	1	"Neuroscientist, Artist"
+A_454	"Beau Lotto , Amy O'Toole"	2	
+A_455	"Beau Lotto , Cirque du Soleil"	2	
+A_456	Beautyrest	1	
+A_457	Becca McCharen-Tran	1	
+A_458	Becci Manson	1	Photo Retoucher
+A_459	Becky Blanton	1	
+A_460	Beeban Kidron	1	Film director
+A_461	Bel Pesce	1	Entrepreneur
+A_462	Belinda Stutzman	1	
+A_463	Belle and Sebastian	1	
+A_464	Ben Ambridge	1	Psychologist
+A_465	Ben Cameron	1	Arts administrator
+A_466	Ben Cort	1	
+A_467	Ben Goldacre	1	Debunker
+A_468	Ben Kacyra	1	Digital preservationist
+A_469	Ben Katchor	1	Cartoonist
+A_470	Ben Longdon	1	
+A_471	Ben Pring	1	
+A_472	Ben Saunders	1	Arctic explorer
+A_473	Ben Wellington	1	Data scientist
+A_474	Bence Nanay	1	
+A_475	Benedetta Berti	1	International policy analyst
+A_476	"Benedetta Berti , Evelien Borgman"	2	
+A_477	Benjamin Barber	1	Political theorist
+A_478	Benjamin Grant	1	Author
+A_479	Benjamin Seibold	1	
+A_480	Benjamin Wallace	1	Author
+A_481	Benjamin Zander	1	Conductor
+A_482	Benoit Mandelbrot	1	Mathematician
+A_483	Bernie Dunlap	1	College president
+A_484	Bernie Krause	1	Natural sounds expert
+A_485	Bertrand Piccard	1	Solar adventurer
+A_486	Beth Ann Fennelly	1	
+A_487	Beth Ford	1	
+A_488	Beth Malone	1	
+A_489	"Beth Mortimer , Tarje Nissen-Meyer"	2	
+A_490	Beth Noveck	1	Open-government expert
+A_491	"Bethany Rickwald , Hayley Levitt"	2	
+A_492	Betsy Kauffman	1	
+A_493	Betsy Schwarm	1	
+A_494	Bettina Bair	1	
+A_495	Bettina Warburg	1	Blockchain entrepreneur and researcher
+A_496	Betty Hart	1	
+A_497	"Beverly , Dereck Joubert"	2	
+A_498	Bhakti Sharma	1	
+A_499	Bhu Srinivasan	1	
+A_500	Bianca Tylek	1	
+A_501	Bijan Zakeri	1	
+A_502	Bilal Bomani	1	NASA scientist
+A_503	"Bill , Melinda Gates"	2	
+A_504	Bill Bernat	1	
+A_505	Bill Burnett	1	
+A_506	Bill Clinton	1	Activist
+A_507	Bill Davenhall	1	Health and human services expert
+A_508	Bill Doyle	1	Engineer
+A_509	Bill Ford	1	"Executive chair, Ford Motor Co."
+A_510	Bill Gates	1	Philanthropist
+A_511	Bill Gross	1	Idea guy
+A_512	Bill Joy	1	Technologist and futurist
+A_513	Bill Keegan	1	
+A_514	Bill Schutt	1	
+A_515	Bill Shillito	1	
+A_516	Bill Shribman	1	
+A_517	Bill Stone	1	"Explorer, inventor and outer space dreamer"
+A_518	Bill Strickland	1	Social innovator
+A_519	Bill T. Jones	1	"Director/choreographer, dancer"
+A_520	Billie Jean King	1	Tennis legend and activist
+A_521	Billy Collins	1	Poet
+A_522	Billy Graham	1	Preacher
+A_523	Billy Samuel Mwape	1	
+A_524	Bina Venkataraman	1	
+A_525	Birke Baehr	1	Aspiring organic farmer
+A_526	BJ Miller	1	Palliative care physician
+A_527	Bjv?rn Ulvaeus	1	
+A_528	Bjorn Otto Sverdrup	1	
+A_529	Bjarke Ingels	1	Architect
+A_530	Bjorn Lomborg	1	Global prioritizer
+A_531	BLACK	1	Yo-yo champion
+A_532	Blaise Aguera y Arcas 	1	
+A_533	Blitz Bazawule	1	
+A_534	Boaz Almog	1	Quantum Researcher
+A_535	Bob Inglis	1	
+A_536	Bob Langert	1	
+A_537	Bob Mankoff	1	Cartoon editor
+A_538	Bob Nease	1	
+A_539	Bob Schneider	1	
+A_540	Bob Stein	1	
+A_541	Bob Woodward	1	
+A_542	Bobby Ghosh	1	Editor
+A_543	Bobby McFerrin	1	Musician
+A_544	Boghuma Kabisen Titanji	1	Clinical researcher
+A_545	Boniface Mwangi	1	
+A_546	Bonnie Bassler	1	Molecular biologist
+A_547	Bono	1	"Musician, activist"
+A_548	Boris Hesser	1	
+A_549	Boy Girl Banjo	1	
+A_550	Boyd Varty	1	Environmental and literacy activist
+A_551	Bozoma Saint John	1	
+A_552	Brad Troeger	1	
+A_553	"Bradley Voytek , Tim Verstynen"	2	
+A_554	Bran Ferren	1	Technology designer
+A_555	Brandon Clifford	1	
+A_556	Brandon Rodriguez	1	
+A_557	Brene Brown	1	
+A_558	Brenda Laurel	1	Designer and theorist
+A_559	Brenda Romero	1	Game designer
+A_560	Brendan Constantine	1	
+A_561	Brent Loken	1	
+A_562	Brett Hennig	1	
+A_563	Brewster Kahle	1	Digital librarian
+A_564	Brian A. Pavlac	1	
+A_565	Brian Christian	1	
+A_566	Brian Cox	1	Physicist 
+A_567	Brian D. Avery	1	
+A_568	Brian Dettmer	1	
+A_569	Brian Goldman	1	"Physician, broadcaster"
+A_570	Brian Greene	1	Physicist
+A_571	Brian Janosch	1	
+A_572	Brian Jones	1	
+A_573	Brian Kateman	1	
+A_574	Brian Little	1	Personality researcher
+A_575	Brian Olson	1	
+A_576	Brian Skerry	1	Photographer
+A_577	Briana Brownell	1	
+A_578	Bright Simons	1	
+A_579	Britt Wray	1	
+A_580	Britta Riley	1	"Artist, urban farmer"
+A_581	Brittany K. Barnett	1	
+A_582	Brittany Packnett Cunningham	1	
+A_583	Brittany Young	1	
+A_584	Brittney Cooper	1	Cultural theorist
+A_585	Bronwyn King	1	
+A_586	"Brooke Buddemeier , Jessica S. Wieder"	2	
+A_587	Bruce Aylward	1	Epidemiologist
+A_588	Bruce Bueno de Mesquita	1	Political scientist
+A_589	Bruce Feiler	1	Writer
+A_590	Bruce Friedrich	1	
+A_591	Bruce McCall	1	Humorist
+A_592	Bruce Schneier	1	Security expert
+A_593	"Bruno Bowden , Rufus Cappadocia"	2	
+A_594	Bruno Maisonnier	1	Roboticist
+A_595	Bruno Michel	1	
+A_596	Bruno Torturra	1	Livestreaming activist
+A_597	Bryan Kett	1	
+A_598	Bryan Kramer	1	
+A_599	Bryan Stevenson	1	Public-interest lawyer
+A_600	Bunker Roy	1	Educator
+A_601	Burvßin Mutlu-Pakdil	1	
+A_602	Burt Rutan	1	Aircraft engineer
+A_603	Butterscotch	1	
+A_604	C.K. Williams	1	Poet
+A_605	Cv©dric Villani	1	
+A_606	Cv©line Valv©ry	1	
+A_607	César Cuauhtémoc García Hernández	1	
+A_608	Cv©sar Hidalgo	1	
+A_609	Cady Coleman	1	
+A_610	Caitlin Doughty	1	Progressive mortician
+A_611	Caitlin Holman	1	
+A_612	"Caitlin Quattromani , Lauran Arledge"	2	
+A_613	"Caitria , Morgan O'Neill"	2	
+A_614	Cal Newport	1	
+A_615	Caleb Barlow	1	Cybercrime fighter
+A_616	Caleb Chung	1	Toy designer
+A_617	Cameron Herold	1	Entrepreneur
+A_618	Cameron Morin	1	
+A_619	Cameron Paterson	1	
+A_620	Cameron Russell	1	Model
+A_621	Cameron Sinclair	1	"Co-founder, Architecture for Humanity"
+A_622	Camilla Arndal Andersen	1	
+A_623	Camille A. Brown	1	Choreographer and educator
+A_624	"Camille Defrenne , Suzanne Simard"	2	
+A_625	Camille Langston	1	
+A_626	Camille Seaman	1	Photographer
+A_627	Camilo Ramirez	1	
+A_628	Candace Parker	1	
+A_629	Candis Watts Smith	1	
+A_630	Candy Chang	1	"Artist, designer, urban planner"
+A_631	Canwen Xu	1	
+A_632	Cara E. Yar Khan	1	
+A_633	Cara Greene Epstein	1	
+A_634	Carey Kolaja	1	
+A_635	Carin Bondar	1	Wild sex biologist
+A_636	Carina Morillo	1	Autism advocate
+A_637	Carl Honore	1	
+A_638	Carl Joshua Ncube	1	
+A_639	Carl June	1	
+A_640	Carl Safina	1	"Ecologist, writer"
+A_641	Carl Schoonover	1	Neuroscience PhD student + writer
+A_642	Carl Vause	1	
+A_643	Carl Zimmer	1	
+A_644	Carla Harris	1	
+A_645	Carlo Ratti	1	Architect and engineer
+A_646	Carlos Bautista	1	
+A_647	Carlos M. Duarte	1	
+A_648	Carlos Moreno	1	
+A_649	Carlos Reif	1	
+A_650	Carmen Jimv©nez Borja	1	
+A_651	Carne Ross	1	Diplomat
+A_652	Caro Verbeek	1	
+A_653	Carol Dweck	1	Psychologist
+A_654	"Carol Farbotko , Ingrid Boas"	2	
+A_655	Carol Fishman Cohen	1	"CEO and co-founder, iRelaunch"
+A_656	Carole Cadwalladr	1	
+A_657	Caroline Casey	1	Inclusivity activist
+A_658	Caroline Catlin	1	
+A_659	Caroline Harper	1	
+A_660	Caroline Lavelle	1	Cellist; singer-songwriter
+A_661	Caroline Paul	1	Author
+A_662	Caroline Phillips	1	Musician
+A_663	Caroline Weaver	1	
+A_664	Caroline Winterer	1	
+A_665	Carolyn Bertozzi	1	Chemical biologist
+A_666	Carolyn Freiwald	1	
+A_667	Carolyn Jones	1	Photographic ethnographer
+A_668	Carolyn Marshall	1	
+A_669	Carolyn Porco	1	Planetary scientist
+A_670	Carolyn Steel	1	Food urbanist
+A_671	Carrie Nugent	1	Asteroid hunter
+A_672	Carrie Poppy	1	"Writer, radio host, comedian"
+A_673	Carson Bruns	1	
+A_674	Carter Emmart	1	"Scientist, Artist "
+A_675	Carvens Lissaint	1	Performance artist
+A_676	Cary Fowler	1	Biodiversity archivist
+A_677	Casey Brown	1	Pricing consultant
+A_678	Casey Gerald	1	American
+A_679	Cassie Flynn	1	
+A_680	Cat Laine	1	Social entrepreneur
+A_681	Catarina Mota	1	Maker
+A_682	Catharine Young	1	
+A_683	Catherine Bracy	1	"Hacker, community manager"
+A_684	Catherine Crump	1	Attorney + privacy advocate
+A_685	Catherine Mohr	1	Roboticist
+A_686	Cathy Mulzer	1	
+A_687	Cathy O'Neil	1	"Mathematician, data scientist"
+A_688	Cecile Richards	1	
+A_689	Cedric Habiyaremye	1	
+A_690	Celeste Headlee	1	Writer and radio host
+A_691	Cella Wright	1	
+A_692	Cesar Harada	1	"Inventor, environmentalist, educator"
+A_693	Cesar Kuriyama	1	Video maker
+A_694	Chad Frischmann	1	
+A_695	Chad Orzel	1	
+A_696	Chade-Meng Tan	1	Google Fellow
+A_697	Chance Coughenour	1	Digital archaeologist
+A_698	Chand John	1	
+A_699	Charity Tillemann-Dick	1	Soprano
+A_700	Charity Wayua	1	Public sector researcher
+A_701	Charlene Li	1	
+A_702	Charles Anderson	1	Marine biologist
+A_703	Charles C. Mann	1	
+A_704	Charles Elachi	1	Planetary scientist
+A_705	Charles Fleischer	1	"Comedian, voice artist"
+A_706	Charles Hazlewood	1	Conductor
+A_707	"Charles Hazlewood , British Paraorchestra"	2	
+A_708	Charles Leadbeater	1	Innovation consultant
+A_709	Charles Limb	1	Researcher
+A_710	Charles Moore	1	Oceanographer
+A_711	Charles P. Smith	1	
+A_712	Charles Robertson	1	Emerging-markets economist
+A_713	Charlie Jane Anders	1	
+A_714	Charlie Puth	1	
+A_715	Charlie Todd	1	Comedian
+A_716	Charlotte Degot	1	
+A_717	Charly Haversat	1	
+A_718	Charmian Gooch	1	Anti-corruption activist
+A_719	"Chase LaDue , Bruce A. Schulte"	2	
+A_720	Chelsea Shields	1	"Activist, anthropologist, consultant"
+A_721	Chen Qiufan	1	
+A_722	Chera Kowalski	1	
+A_723	Cheryl Hayashi	1	Spider silk scientist
+A_724	Cheryl Holder	1	
+A_725	Chetan Bhatt	1	"Sociologist, human rights activist"
+A_726	Chetna Gala Sinha	1	
+A_727	Cheyenne Cochrane	1	Storyteller
+A_728	Chiara Decaroli	1	
+A_729	Chibeze Ezekiel	1	
+A_730	Chieh Huang	1	
+A_731	Chieko Asakawa	1	Visionary inventor
+A_732	Chika Ezeanya-Esiobu	1	
+A_733	Chika Okoro	1	
+A_734	Chiki Sarkar	1	
+A_735	Children of Palau	1	
+A_736	Chimamanda Ngozi Adichie	1	Novelist
+A_737	Chinaka Hodge	1	"Writer, educator"
+A_738	Chip Berlet	1	
+A_739	Chip Colwell	1	
+A_740	Chip Conley	1	"CEO, author"
+A_741	Chip Kidd	1	Graphic designer
+A_742	Chitra Aiyar	1	
+A_743	Chlov© Valdary	1	
+A_744	Chris A. Kniesly	1	
+A_745	Chris Abani	1	"Novelist, poet"
+A_746	Chris Anderson	1	Drone maker
+A_747	Chris Anderson (TED)	1	TED Curator
+A_748	Chris Bangle	1	Car designer
+A_749	Chris Bennett	1	
+A_750	Chris Bliss	1	Writer
+A_751	Chris Burkard	1	Surf photographer
+A_752	Chris Domas	1	Cybersecurity researcher
+A_753	Chris Downey	1	Architect
+A_754	Chris Fisher	1	
+A_755	Chris Gerdes	1	Mechanical engineer
+A_756	Chris Hadfield	1	Astronaut
+A_757	"Chris Hemsworth , Priyanka Chopra Jonas"	2	
+A_758	Chris Jordan	1	Artist
+A_759	Chris Kluwe	1	Punter and author
+A_760	Chris McKnett	1	Sustainable investment champion
+A_761	Chris Milk	1	Immersive storyteller
+A_762	Chris Nowinski	1	
+A_763	Chris Sheldrick	1	
+A_764	Chris Urmson	1	Roboticist
+A_765	Chris Vogtherr	1	
+A_766	Christen Reighter	1	
+A_767	Christer Mjaset	1	
+A_768	Christian Bailey	1	
+A_769	Christian Benimana	1	
+A_770	Christian Jarrett	1	
+A_771	Christian Moro	1	
+A_772	Christian Picciolini	1	
+A_773	Christian Rudder	1	
+A_774	Christian Schrv?ter	1	
+A_775	Christian Wickert	1	
+A_776	Christiana Figueres	1	Climate advocate
+A_777	"Christiana Figueres , Chris Anderson"	2	
+A_778	Christiane Amanpour	1	
+A_779	Christiane-Marie Abu Sarah	1	
+A_780	Christien Meindertsma	1	Artist
+A_781	Christina Agapakis	1	
+A_782	Christina Balch	1	
+A_783	Christina Costa	1	
+A_784	Christina Greer	1	
+A_785	Christina Wallace	1	
+A_786	Christina Warinner	1	Archaeological geneticist
+A_787	Christine Carter	1	
+A_788	Christine Porath	1	
+A_789	Christine Sun Kim	1	"Sound artist, composer"
+A_790	Christine Thach	1	
+A_791	Christoph Adami	1	Artificial life researcher
+A_792	Christoph Keplinger	1	
+A_793	Christoph Niemann	1	
+A_794	Christopher "moot" Poole	1	
+A_795	Christopher Ategeka	1	
+A_796	Christopher Bahl	1	
+A_797	Christopher Bell	1	Media studies scholar
+A_798	Christopher C. Deam	1	Designer
+A_799	Christopher Danielson	1	
+A_800	Christopher deCharms	1	Brain researcher
+A_801	Christopher E. Gaw	1	
+A_802	Christopher Emdin	1	Education pioneer
+A_803	Christopher McDougall	1	"Journalist, runner"
+A_804	Christopher Robichaud	1	
+A_805	Christopher Ryan	1	Psychologist
+A_806	Christopher Soghoian	1	Privacy researcher and activist
+A_807	Christopher Warner	1	
+A_808	Chrystia Freeland	1	Plutocracy chronicler
+A_809	Chrystina Russell	1	
+A_810	Chuck Murry	1	
+A_811	Chuck Nice	1	
+A_812	Chuck Plunkett	1	
+A_813	Cindy Gallop	1	
+A_814	Cindy J. Aaronson	1	
+A_815	Cindy Solomon	1	
+A_816	Cláudio Guerra	1	
+A_817	Clv©ment Vidal	1	
+A_818	Claire Bowern	1	
+A_819	Claire Malone	1	
+A_820	Claire Simeone	1	
+A_821	Claire Wardle	1	
+A_822	Clara Sousa-Silva	1	
+A_823	Clarice Phelps	1	
+A_824	Claron McFadden	1	Soprano
+A_825	Claudia Aguirre	1	
+A_826	Claudia Miner	1	
+A_827	Clay Routledge	1	
+A_828	Clay Shirky	1	Social Media Theorist
+A_829	Clemantine Wamariya	1	
+A_830	Cleo Wade	1	
+A_831	Clifford Robbins	1	
+A_832	Clifford Stoll	1	"Astronomer, educator, skeptic"
+A_833	Climate Action Tracker	1	
+A_834	Climbing PoeTree	1	
+A_835	Clint Smith	1	"Poet, educator"
+A_836	Clover Hogan	1	
+A_837	Coby Everton	1	
+A_838	Colette Pichon Battle	1	
+A_839	Colin Camerer	1	Behavioral economist
+A_840	Colin Grant	1	"Author, historian"
+A_841	Colin Powell	1	Former U.S. Secretary of State
+A_842	Colin Stokes	1	Proud dad
+A_843	Colm Kelleher	1	
+A_844	Colombe Cahen-Salvador	1	
+A_845	Congrui Jin	1	
+A_846	Conor Heffernan	1	
+A_847	Conrad Wolfram	1	Mathematician
+A_848	Constantine N. Vaporis	1	
+A_849	Conversations with People Who Hate Me	1	
+A_850	Corneille Ewango	1	Botanist and activist
+A_851	Cornelia Geppert	1	
+A_852	Cory Combs	1	
+A_853	Cosmin Mihaiu	1	Physical therapy entrepreneur
+A_854	Countdown	1	
+A_855	Countdown Summit	1	
+A_856	Courtney E. Martin	1	Journalist
+A_857	Courtney Stephens	1	
+A_858	Coya Paz Brownrigg	1	
+A_859	Craig A. Kohn	1	
+A_860	Craig Costello	1	
+A_861	Craig Silliman	1	
+A_862	Craig Venter	1	"Biologist, genetics pioneer"
+A_863	Cristin O'Keefe Aptowicz	1	
+A_864	Cristina Domenech	1	Poet and educator
+A_865	Crush Club	1	
+A_866	Crystal Martin	1	
+A_867	Crystal Rasmussen	1	
+A_868	Curtis "Wall Street" Carroll	1	Financial literacy advocate
+A_869	Curtis Austin	1	
+A_870	Cynthia Breazeal	1	Roboticist 
+A_871	"Cynthia Erivo , Gary Motley"	2	
+A_872	Cynthia Kenyon	1	"Biochemist, geneticist"
+A_873	Cynthia Ma Shwe Sin Win	1	
+A_874	Cynthia Schneider	1	Cultural diplomacy expert
+A_875	D-L Stewart	1	
+A_876	Dv©bora Mesa Molina	1	
+A_877	Daan Roosegaarde	1	Artist
+A_878	Daina Ramey Berry	1	
+A_879	Dale Dougherty	1	Tech publisher
+A_880	Dalia Mogahed	1	Muslim studies scholar
+A_881	Dallas Taylor	1	
+A_882	Dambisa Moyo	1	Global economist 
+A_883	Dame Ellen MacArthur	1	Circular economy advocate
+A_884	Dame Stephanie Shirley	1	Entrepreneur and philanthropist
+A_885	Dame Vivian Hunt	1	
+A_886	Damian Palin	1	Biological miner
+A_887	Damion Searls	1	
+A_888	Damon Brown	1	
+A_889	Damon Davis	1	Artist and filmmaker
+A_890	Damon Horowitz	1	"Philosopher, entrepreneur"
+A_891	Dan Adams	1	
+A_892	Dan Ariely	1	Behavioral economist
+A_893	Dan Barasch	1	Strategist
+A_894	Dan Barber	1	Chef
+A_895	Dan Bell	1	Filmmaker
+A_896	Dan Berkenstock	1	Satellite designer
+A_897	Dan Bricklin	1	Software pioneer
+A_898	Dan Buettner	1	"Longevity coach, explorer"
+A_899	Dan Clay	1	
+A_900	Dan Cobley	1	Online marketing whiz
+A_901	Dan Dennett	1	"Philosopher, cognitive scientist"
+A_902	Dan Finkel	1	
+A_903	Dan Gartenberg	1	
+A_904	Dan Gibson	1	
+A_905	Dan Gilbert	1	Psychologist; happiness expert
+A_906	Dan Goods	1	
+A_907	Dan Gross	1	Gun-control activist
+A_908	Dan Jv?rgensen	1	
+A_909	Dan Katz	1	
+A_910	"Dan Katz , Alex Rosenthal"	2	
+A_911	Dan Knights	1	
+A_912	Dan Kwartler	1	
+A_913	Dan Meyer	1	Educator
+A_914	Dan Pacholke	1	Prison administrator and reformer
+A_915	Dan Pallotta	1	"Author, speaker, reformer"
+A_916	Dan Phillips	1	Builder
+A_917	Dan Pink	1	Career analyst
+A_918	Dan Reinstein	1	
+A_919	Dan Reisel	1	
+A_920	Dan Sayers	1	
+A_921	Dan Schulman	1	
+A_922	Dan Van der Vieren	1	
+A_923	Dan Walker	1	
+A_924	Dana Cowin	1	
+A_925	Dana Kanze	1	
+A_926	Danae Wolfe	1	
+A_927	Daniel Alexander Jones	1	
+A_928	Daniel Bogre Udell	1	
+A_929	Daniel Dulek	1	
+A_930	Daniel Engber	1	
+A_931	Daniel Finkel	1	
+A_932	Daniel Garrie	1	
+A_933	Daniel Goldstein	1	Behavioral economist
+A_934	Daniel Goleman	1	Psychologist
+A_935	Daniel H. Cohen	1	Philosopher
+A_936	Daniel H. Pink	1	
+A_937	Daniel J. Watts	1	
+A_938	Daniel Kahneman	1	Behavioral economics founder
+A_939	Daniel Kish	1	Perceptual navigation specialist
+A_940	Daniel Kraft	1	Physician scientist
+A_941	Daniel Krawczyk	1	
+A_942	Daniel L. Schacter	1	
+A_943	Daniel Levitin	1	Neuroscientist
+A_944	Daniel Libeskind	1	Architect
+A_945	Daniel Lismore	1	
+A_946	Daniel M. Abrams	1	
+A_947	Daniel Molina	1	
+A_948	Daniel Pauly	1	Fisheries biologist
+A_949	Daniel Schnitzer	1	"Founder and Executive Director, Earthspark International"
+A_950	Daniel Sherling	1	
+A_951	"Daniel Sperling , Gil Tal"	2	
+A_952	Daniel Streicker	1	
+A_953	Daniel Suarez	1	Sci-fi author
+A_954	Daniel Susskind	1	
+A_955	Daniel Tammet	1	"Linguist, educator"
+A_956	Daniel Wolpert	1	Movement expert
+A_957	Daniela Zamudio	1	
+A_958	Daniele Quercia	1	Map researcher
+A_959	Danielle Allen	1	
+A_960	Danielle Citron	1	
+A_961	Danielle de Niese	1	Soprano
+A_962	Danielle Feinberg	1	"Director of photography, Pixar"
+A_963	Danielle N. Lee	1	
+A_964	Danielle R. Moss	1	
+A_965	Danielle Torley	1	
+A_966	Danielle Wood	1	
+A_967	Danit Peleg	1	Fashion designer
+A_968	Dannagal G. Young	1	
+A_969	Danny Dorling	1	Social geographer
+A_970	Danny Hillis	1	Computer theorist
+A_971	Dao Nguyen	1	
+A_972	Daphne Bavelier	1	Cognitive researcher
+A_973	Daphne Koller	1	Educator
+A_974	Daria van den Bercken	1	Pianist
+A_975	Darien Satterfield	1	
+A_976	Darieth Chisolm	1	
+A_977	Dario Gil	1	
+A_978	Darren Croft	1	
+A_979	Darren Walker	1	
+A_980	Darria Long	1	
+A_981	Darrick Hamilton	1	
+A_982	Dave Brain	1	Planetary scientist
+A_983	"Dave Clark , Kara Hurst"	2	
+A_984	Dave deBronkart	1	e-Patient
+A_985	Dave Eggers	1	"Author, publisher, education activist"
+A_986	Dave Isay	1	Story collector
+A_987	Dave Matthews	1	
+A_988	Dave Meslin	1	Artist and organizer
+A_989	Dave Troy	1	Technologist
+A_990	David Agus	1	Cancer Doctor
+A_991	David Anderson	1	Neurobiologist
+A_992	David Asch	1	
+A_993	David Autor	1	Economist
+A_994	David Baker	1	
+A_995	David Baron	1	Science writer
+A_996	David Biello	1	
+A_997	David Binder	1	Theater producer
+A_998	David Birch	1	Digital money and identity consultant
+A_999	David Bismark	1	Voting system designer
+A_1000	David Blaine	1	"Illusionist, endurance artist"
+A_1001	David Bolinsky	1	Medical animator
+A_1002	David Brenner	1	
+A_1003	David Brooks	1	Op-ed columnist 
+A_1004	David Burkus	1	Management researcher
+A_1005	David Byrne	1	"Musician, artist, writer"
+A_1006	"David Byrne , Ethel , Thomas Dolby"	3	
+A_1007	David Cage	1	
+A_1008	David Camarillo	1	Bioengineer
+A_1009	David Cameron	1	Politician
+A_1010	David Carroll	1	
+A_1011	David Carson	1	Type designer
+A_1012	David Casarett	1	Physician
+A_1013	David Chalmers	1	Philosopher
+A_1014	David Christian	1	Historian
+A_1015	David Damberger	1	"Engineer, Social Entrepreneur"
+A_1016	David Deutsch	1	Quantum physicist
+A_1017	David Dunning	1	
+A_1018	David Eagleman	1	Neuroscientist
+A_1019	David Epstein	1	Sports science reporter
+A_1020	David Farrell	1	
+A_1021	David Fleischer	1	
+A_1022	David Gallo	1	Oceanographer
+A_1023	David Grady	1	Information security manager
+A_1024	David Griffin	1	"Director of photography, National Geographic"
+A_1025	David Gruber	1	"Marine biologist, explorer-photographer"
+A_1026	David Hanson	1	Robotics designer
+A_1027	David Heymann	1	
+A_1028	David Hoffman	1	Filmmaker
+A_1029	David Holt	1	Folk musician
+A_1030	David Hooker	1	
+A_1031	David Ian Howe	1	
+A_1032	David Ikard	1	
+A_1033	David J. Bier	1	
+A_1034	David J. Malan	1	
+A_1035	David Katz	1	
+A_1036	David Keith	1	Environmental scientist
+A_1037	David Kelley	1	"Designer, educator"
+A_1038	David Kessler	1	
+A_1039	David Korins	1	
+A_1040	David Kwong	1	Cruciverbalist
+A_1041	David L. Hu	1	
+A_1042	David Lammy	1	
+A_1043	David Lang	1	Maker
+A_1044	David Lee	1	
+A_1045	David Lindell	1	
+A_1046	David Logan	1	Professor of management
+A_1047	David Lunney	1	
+A_1048	David Macaulay	1	Illustrator
+A_1049	David MacKay	1	Professor
+A_1050	David McCandless	1	Data journalist
+A_1051	David Merrill	1	MIT grad student
+A_1052	David Miliband	1	Refugee advocate
+A_1053	David Perry	1	Game designer
+A_1054	David Peterson	1	
+A_1055	David Pizarro	1	"Psychologist, Disgust researcher"
+A_1056	David Pogue	1	Technology columnist
+A_1057	David Puts	1	
+A_1058	David Puttnam	1	Producer
+A_1059	David R. Dow	1	Death penalty lawyer
+A_1060	David R. Liu	1	
+A_1061	David R. Williams	1	Public health sociologist
+A_1062	David Rockwell	1	"Architect, experience designer"
+A_1063	David Rothkopf	1	Foreign policy strategist
+A_1064	David S. Rose	1	Angel Investor
+A_1065	David Schwartz	1	
+A_1066	David Sedlak	1	Civil and environmental engineer
+A_1067	David Sengeh	1	Biomechatronics engineer
+A_1068	David Steindl-Rast	1	Monk
+A_1069	David Titley	1	
+A_1070	David Wallace-Wells	1	
+A_1071	David Wenham	1	
+A_1072	David Whyte	1	"Poet, author"
+A_1073	David Witzeneder	1	
+A_1074	David York	1	
+A_1075	Dawn Landes	1	Singer-songwriter
+A_1076	Dawn Lippert	1	
+A_1077	Dawn Maslar	1	
+A_1078	Dawn Wacek	1	
+A_1079	Dayananda Saraswati	1	Vedantic teacher
+A_1080	Dayo Ogunyemi	1	
+A_1081	Dean Furness	1	
+A_1082	Dean Kamen	1	Inventor
+A_1083	Dean Ornish	1	"Physician, author"
+A_1084	DeAndrea Salvador	1	
+A_1085	Deanna Pucciarelli	1	
+A_1086	Deanna Van Buren	1	
+A_1087	Deb Roy	1	Cognitive scientist
+A_1088	"Deb Willis , Hank Willis Thomas"	2	
+A_1089	Debbie Lovich	1	
+A_1090	Debbie Millman	1	
+A_1091	Deborah Gordon	1	Ecologist
+A_1092	Deborah Lipstadt	1	Historian
+A_1093	Deborah Rhodes	1	"Physician, cancer researcher"
+A_1094	Deborah Scranton	1	Filmmaker
+A_1095	Debra Jarvis	1	Chaplain + author
+A_1096	Dee Boersma	1	Conservation biologist
+A_1097	Deepa Narayan	1	
+A_1098	Deepika Kurup	1	"Inventor, student scientist"
+A_1099	Deeyah Khan	1	Filmmaker
+A_1100	Del Harvey	1	Security maven
+A_1101	Delali Bright	1	
+A_1102	Dena Simmons	1	Educator
+A_1103	Denice Frohman	1	
+A_1104	Denis Dutton	1	Philosopher
+A_1105	Denise Herzing	1	Dolphin researcher
+A_1106	Denise Zmekhol	1	
+A_1107	Dennis E. Shasha	1	
+A_1108	Dennis Hong	1	Roboticist 
+A_1109	Dennis Shasha	1	
+A_1110	Dennis vanEngelsdorp	1	Bee expert
+A_1111	Dennis Wildfogel	1	
+A_1112	Densho	1	
+A_1113	Derek Abbott	1	
+A_1114	Derek Banta	1	
+A_1115	"Derek Paravicini , Adam Ockelford"	2	
+A_1116	Derek Sarno	1	
+A_1117	Derek Sivers	1	Entrepreneur
+A_1118	Derren Brown	1	
+A_1119	Design Matters	1	
+A_1120	Design Matters with Debbie Millman	1	
+A_1121	Dessa	1	
+A_1122	Deutsche Philharmonie Merck	1	
+A_1123	Deval Patrick	1	
+A_1124	Devdutt Pattanaik	1	Mythologist
+A_1125	Devin Shuman	1	
+A_1126	Devita Davison	1	
+A_1127	Dexter Dias	1	
+A_1128	Diébédo Francis Kéré	1	Community-minded architect
+A_1129	Diana Dosik	1	
+A_1130	Diana Laufenberg	1	Educator
+A_1131	Diana Nyad	1	"Journalist, swimmer"
+A_1132	"Diana Reiss , Peter Gabriel , Neil Gershenfeld , Vint Cerf"	4	
+A_1133	Diane Allen	1	
+A_1134	Diane Benscoter	1	Deprogrammer
+A_1135	Diane J. Rayor	1	
+A_1136	Diane J. Savino	1	Senator
+A_1137	Diane Kelly	1	Biologist
+A_1138	Diane Knutson	1	
+A_1139	Diane Wolk-Rogers	1	
+A_1140	Dianna Cohen	1	Artist and activist
+A_1141	Dick M. Carpenter II	1	
+A_1142	Didier Sornette	1	Risk economist
+A_1143	Diego Prilusky	1	
+A_1144	Dilip Ratha	1	Remittances expert
+A_1145	Dimitar Sasselov	1	Astronomer
+A_1146	Dina Katabi	1	
+A_1147	Dina Zielinski	1	
+A_1148	Dixon Chibanda	1	
+A_1149	Djazia Satour	1	
+A_1150	DK Osseo-Asare	1	
+A_1151	Dolly Chugh	1	
+A_1152	Dolores Huerta	1	
+A_1153	Dominic Price	1	
+A_1154	Don Levy	1	Film executive
+A_1155	Don Norman	1	Cognitive scientist and design critic
+A_1156	Don Tapscott	1	Digital strategist
+A_1157	Donald Hoffman	1	Cognitive scientist
+A_1158	Donald Sadoway	1	Materials engineer
+A_1159	Dong Woo Jang	1	Bow designer
+A_1160	Doreen Koenning	1	
+A_1161	Doris Kearns Goodwin	1	Historian
+A_1162	Doris Kim Sung	1	Architect
+A_1163	Dorothy Roberts	1	"Professor, author and social justice advocate"
+A_1164	Dorsa Amir	1	
+A_1165	Doug Levinson	1	
+A_1166	Doug MacKay	1	
+A_1167	Doug Roble	1	
+A_1168	Douglas Adams	1	"Author, satirist"
+A_1169	Douglas Beal	1	
+A_1170	Douglas J. Casa	1	
+A_1171	Douglas L. Oliver	1	
+A_1172	Douglas Rushkoff	1	
+A_1173	Douglas Thomas	1	
+A_1174	Dr. Bernice King	1	
+A_1175	Dr. Matt J. Carlson	1	
+A_1176	Dr. Natascha M. Santos	1	
+A_1177	Dr. Phillip Atiba Goff	1	
+A_1178	"Dr. Phillip Atiba Goff , Rashad Robinson , Dr. Bernice King , Anthony D. Romero"	4	
+A_1179	Dr. Robert Talisse	1	
+A_1180	Dr. Turi King	1	
+A_1181	Dragana Rogulja	1	
+A_1182	Dread Scott	1	
+A_1183	Drew Berry	1	Biomedical animator
+A_1184	Drew Curtis	1	Web entrepreneur
+A_1185	Drew Dudley	1	Leadership educator
+A_1186	Drew Humphreys	1	
+A_1187	Drew Philp	1	
+A_1188	Drew Silverstein	1	
+A_1189	Dropbox	1	
+A_1190	Duarte Geraldino	1	Journalist
+A_1191	Duncan Cowles	1	
+A_1192	Dustin Burke	1	
+A_1193	Dustin Schroeder	1	
+A_1194	Dustin Tahmahkera	1	
+A_1195	Dustin Yellin	1	Sculptor 
+A_1196	Dwan Reece	1	
+A_1197	Dwight Stitt	1	
+A_1198	Dwinita Mosby Tyler	1	
+A_1199	Dyan deNapoli	1	Penguin expert
+A_1200	Dylan Marron	1	
+A_1201	E.O. Wilson	1	Biologist
+A_1202	Eames Demetrios	1	Artist
+A_1203	Eben Bayer	1	Green designer
+A_1204	"Ebony Roberts , Shaka Senghor"	2	
+A_1205	Ed Boyden	1	Neuroengineer
+A_1206	Ed Gavagan	1	"Designer, Storyteller"
+A_1207	Ed Ulbrich	1	Visual storyteller
+A_1208	Ed Yong	1	Science writer
+A_1209	Eddi Reader	1	Singer/songwriter
+A_1210	Eddie Jaku	1	
+A_1211	Eddie Obeng	1	Business Educator
+A_1212	Eddie Woo	1	
+A_1213	Eddy Cartaya	1	Cave Explorer
+A_1214	Eden Girma	1	
+A_1215	Edi Rama	1	Politician
+A_1216	Edith Widder	1	Marine biologist
+A_1217	Edmond Hui	1	
+A_1218	Edsel Salvav±a	1	
+A_1219	Eduardo Bricev±o	1	
+A_1220	Eduardo Paes	1	Mayor of Rio de Janeiro
+A_1221	Eduardo Saenz de Cabezon	1	
+A_1222	Edward Burtynsky	1	Photographer
+A_1223	Edward Snowden	1	Whistleblower
+A_1224	Edward Tenner	1	Historian of technology and culture
+A_1225	Edwidge Danticat	1	Author
+A_1226	Edwin Meyer	1	
+A_1227	Efosa Ojomo	1	
+A_1228	Einav Gefen	1	
+A_1229	Einav Zamir Dembin	1	
+A_1230	Einstein the Parrot	1	African grey parrot
+A_1231	eL Seed	1	Artist
+A_1232	Elaine Fong	1	
+A_1233	Elaine Morgan	1	Aquatic ape theorist
+A_1234	Eldra Jackson	1	
+A_1235	Eldridge Adams	1	
+A_1236	Eleanor Longden	1	Research psychologist
+A_1237	Eleanor Nelsen	1	
+A_1238	Eleftheria Pissadaki	1	
+A_1239	Elena Chavez Quezada	1	
+A_1240	Eleni Gabre-Madhin	1	Economist
+A_1241	"ELEW , Marcus Miller"	2	
+A_1242	Eli Beer	1	Life saver
+A_1243	Eli Pariser	1	Organizer and author
+A_1244	Elif Shafak	1	Novelist
+A_1245	Elijah Cummings	1	
+A_1246	Elisabeth Pierre	1	
+A_1247	Elise LeGrow	1	
+A_1248	Elise Payzan-LeNestour	1	
+A_1249	Elise Roy	1	"Lawyer, artist, human rights advocate"
+A_1250	Elizabeth "Zibi" Turtle	1	
+A_1251	Elizabeth Blackburn	1	
+A_1252	Elizabeth Camarillo Gutierrez	1	
+A_1253	Elizabeth Cawein	1	
+A_1254	Elizabeth Cox	1	
+A_1255	Elizabeth Diller	1	
+A_1256	Elizabeth Dunn	1	
+A_1257	Elizabeth Gilbert	1	Writer
+A_1258	Elizabeth Hellmuth Margulis	1	
+A_1259	Elizabeth Howell	1	
+A_1260	Elizabeth Leane	1	
+A_1261	Elizabeth Lesser	1	Wellness specialist
+A_1262	Elizabeth Lev	1	Art historian
+A_1263	Elizabeth Lindsey	1	"Explorer, ethnographer"
+A_1264	Elizabeth Loftus	1	False memories scholar
+A_1265	Elizabeth Lyle	1	
+A_1266	Elizabeth Murchison	1	Cancer researcher
+A_1267	Elizabeth Nyamayaro	1	Political scientist
+A_1268	Elizabeth Pisani	1	Author
+A_1269	Elizabeth Stordeur Pryor	1	
+A_1270	Elizabeth Streb	1	
+A_1271	Elizabeth Waters	1	
+A_1272	Elizabeth Wayne	1	
+A_1273	Elizabeth White	1	
+A_1274	Elizabeth Zion	1	
+A_1275	Ella Al-Shamahi	1	
+A_1276	Ellen 't Hoen	1	Medicine law expert
+A_1277	Ellen Agler	1	
+A_1278	Ellen Dunham-Jones	1	Architect
+A_1279	Ellen Gustafson	1	
+A_1280	Ellen Jorgensen	1	"Biologist, community science advocate"
+A_1281	Elliot Krane	1	Pediatric anesthesiologist
+A_1282	Elon Musk	1	Serial entrepreneur
+A_1283	Elora Hardy	1	Sustainable designer
+A_1284	Elyn Saks	1	Mental health law scholar
+A_1285	Elyse Cox	1	
+A_1286	Eman Mohammed	1	Photojournalist
+A_1287	Emeli Sande	1	
+A_1288	Emilie Wapnick	1	"Writer, coach, artist ..."
+A_1289	Emilie Weight	1	
+A_1290	Emily Anhalt	1	
+A_1291	Emily Balcetis	1	Psychologist
+A_1292	Emily Dickinson	1	
+A_1293	Emily Esfahani Smith	1	Author
+A_1294	Emily F. Rothman	1	
+A_1295	Emily King	1	
+A_1296	Emily Leproust	1	
+A_1297	Emily Levesque	1	
+A_1298	Emily Levine	1	Philosopher-comic
+A_1299	Emily Nagoski	1	
+A_1300	"Emily Nagoski , Amelia Nagoski"	2	
+A_1301	Emily Oster	1	Assumption-busting economist
+A_1302	Emily Parsons-Lord	1	Artist
+A_1303	Emily Pilloton	1	Humanitarian design activist
+A_1304	Emily Pilloton-Lam	1	
+A_1305	Emily Quinn	1	
+A_1306	Emily Zobel Marshall	1	
+A_1307	Emma Belcher	1	
+A_1308	Emma Bridgewater	1	
+A_1309	Emma Bryce	1	
+A_1310	Emma Lazarus	1	
+A_1311	Emma Marris	1	Environmental writer
+A_1312	Emma Rodero	1	
+A_1313	Emma Schachner	1	
+A_1314	Emma Teeling	1	Zoologist
+A_1315	Emmanuel Jal	1	Hip-hop artist
+A_1316	Emmanuel Schanzer	1	
+A_1317	Emmett Shear	1	
+A_1318	Emtithal Mahmoud	1	Poet
+A_1319	Enric Sala	1	Marine ecologist
+A_1320	Enrico Ramirez-Ruiz	1	
+A_1321	Enrique Pev±alosa	1	
+A_1322	Erez Garty	1	
+A_1323	Erez Yoeli	1	
+A_1324	Eric Berlow	1	Ecologist
+A_1325	"Eric Berlow , Sean Gourley"	2	
+A_1326	Eric Berridge	1	
+A_1327	Eric Dishman	1	Social scientist
+A_1328	Eric Dyer	1	
+A_1329	Eric Garcetti	1	
+A_1330	Eric Giler	1	Wireless electrician
+A_1331	Eric Hinterman	1	
+A_1332	Eric Lewis	1	Pianist
+A_1333	Eric Liu	1	Civics educator
+A_1334	Eric Mead	1	Magician
+A_1335	Eric Mibuari	1	
+A_1336	Eric Sanderson	1	Landscape ecologist
+A_1337	Eric Sannerud	1	
+A_1338	Eric Topol	1	Cardiologist and geneticist 
+A_1339	Eric Whitacre	1	"Composer, conductor"
+A_1340	Eric X. Li	1	Investor and political scientist
+A_1341	Eric Yuan	1	
+A_1342	Erica Frenkel	1	Medical technologist
+A_1343	Erica Joy Baker	1	
+A_1344	Erica Stone	1	
+A_1345	Erick Brethenoux	1	
+A_1346	Erick Wilberding	1	
+A_1347	Erik Brynjolfsson	1	Innovation researcher
+A_1348	Erik Hersman	1	Technologist
+A_1349	Erik Johansson	1	Photographer and retoucher
+A_1350	Erik Schlangen	1	Experimental micromechanics pioneer
+A_1351	Erika Cheung	1	
+A_1352	Erika Debenedictis	1	
+A_1353	Erika Gregory	1	Nuclear reformer
+A_1354	Erika Hamden	1	
+A_1355	Erika Pinheiro	1	
+A_1356	Erin Baumgartner	1	
+A_1357	Erin Marie Saltman	1	Policy researcher
+A_1358	Erin McKean	1	Dictionary editor
+A_1359	Erin Meezan	1	
+A_1360	Erin Sullivan	1	
+A_1361	Ernest Madu	1	Cardiologist
+A_1362	Ernestine Leikeki Sevidzem	1	
+A_1363	Ernesto Sirolli	1	Sustainable development expert
+A_1364	Erricka Bridgeford	1	
+A_1365	Es Devlin	1	
+A_1366	Esha Alwani	1	
+A_1367	Essam Daod	1	
+A_1368	Esta Soler	1	Violence and abuse prevention expert
+A_1369	Estelle Gibson	1	
+A_1370	Esther Choo	1	
+A_1371	Esther Duflo	1	Development economist
+A_1372	Esther Meduna	1	
+A_1373	Esther Ndichu	1	
+A_1374	Esther Perel	1	Relationship therapist
+A_1375	Esther Sullivan	1	
+A_1376	Ethan Hawke	1	
+A_1377	Ethan Lindenberger	1	
+A_1378	Ethan Lisi	1	
+A_1379	Ethan Mann	1	
+A_1380	Ethan Nadelmann	1	Drug policy reformer
+A_1381	Ethan Zuckerman	1	"Blogger, digital visionary"
+A_1382	Ethel	1	String quartet
+A_1383	Eugenia Cheng	1	
+A_1384	Euna Lee	1	
+A_1385	Euvin Naidoo	1	Investment banker
+A_1386	Eva Galperin	1	
+A_1387	Eva Vertes	1	Neuroscience and cancer researcher
+A_1388	Eva Zeisel	1	Designer
+A_1389	Eva-Maria Geigl	1	
+A_1390	Evan Grant	1	Creative technologist
+A_1391	Evan Williams	1	Twitter co-founder
+A_1392	Evan Zodl	1	
+A_1393	Eve Abrams	1	
+A_1394	Eve Ensler	1	"Playwright, activist"
+A_1395	"Eve Gaus , Vanessa Ruiz"	2	
+A_1396	Eve Pearlman	1	
+A_1397	Evelyn Glennie	1	Musician
+A_1398	Evgeny Morozov	1	Internet scientist
+A_1399	Ewandro Magalhaes	1	
+A_1400	Eythor Bender	1	Berkeley Bionics' CEO
+A_1401	Fabian Hemmert	1	Designer
+A_1402	Fabian Oefner	1	Photographer
+A_1403	Fabien Cousteau	1	Ocean explorer and environmentalist
+A_1404	Fabio Pacucci	1	
+A_1405	"Fadi Chehade , Bryn Freedman"	2	
+A_1406	Fahad Al-Attiya	1	Food security expert
+A_1407	Fahad Saeed	1	
+A_1408	Faith Jegede Cole	1	Writer
+A_1409	Faith Osier	1	
+A_1410	Fang Ruan	1	
+A_1411	Far Flung	1	
+A_1412	Far Flung with Saleem Reshamwala	1	
+A_1413	Fareed Zakaria	1	
+A_1414	Farida Nabourema	1	
+A_1415	Farish Ahmad-Noor	1	
+A_1416	Farwiza Farhan	1	
+A_1417	Fatima AlZahra'a Alatraktchi	1	
+A_1418	Fawn Qiu	1	Technologist
+A_1419	Fay Bound Alberti	1	
+A_1420	Federica Bianco	1	
+A_1421	Fei-Fei Li	1	Computer scientist
+A_1422	Feisal Abdul Rauf	1	 Chairman of the Cordoba Initiative
+A_1423	"Felice Belle , Jennifer Murphy"	2	
+A_1424	Felix Dennis	1	"Publisher, philanthropist, poet"
+A_1425	Feras Fayyad	1	
+A_1426	Fernanda Castillo	1	
+A_1427	Fernando Salem	1	
+A_1428	Fields Wicker-Miurin	1	Social entrepreneur
+A_1429	"Findlay Napier , Gillian Frame"	2	
+A_1430	Finn Lvºtzow-Holm Myrstad	1	
+A_1431	Fiona Radford	1	
+A_1432	Fiorenzo Omenetto	1	Biomedical engineer
+A_1433	First Aid Kit	1	
+A_1434	Flor de Toloache	1	
+A_1435	Florian Pinel	1	
+A_1436	Floyd E. Romesberg	1	
+A_1437	Franvßois Candelon	1	
+A_1438	Franvßoise Mouly	1	
+A_1439	France Villarta	1	
+A_1440	Frances Frei	1	
+A_1441	Frances Larson	1	Anthropologist
+A_1442	Francesca Simon-Carboni	1	
+A_1443	Francesco Sauro	1	Speleologist
+A_1444	Francis Collins	1	"Geneticist, physician"
+A_1445	Francis de los Reyes	1	"Environmental engineer, sanitation activist"
+A_1446	Francisca Mutapi	1	
+A_1447	Francisco Diez-Buzo	1	
+A_1448	Francisco Samper	1	
+A_1449	Franco Sacchi	1	Filmmaker
+A_1450	Frank Gehry	1	Architect
+A_1451	Frank Muller-Pierstorff	1	
+A_1452	Frank Warren	1	Secret keeper
+A_1453	Franklin Leonard	1	
+A_1454	Frans de Waal	1	Primatologist
+A_1455	Frans Lanting	1	Nature photographer
+A_1456	Frans von der Dunk	1	
+A_1457	Franz Freudenthal	1	Pediatric cardiologist
+A_1458	Fred Jansen	1	Space explorer
+A_1459	Fred Krupp	1	
+A_1460	Fred Swaniker	1	Educational entrepreneur
+A_1461	Frederic Kaplan	1	Digital humanities researcher
+A_1462	Frederick Balagadde	1	Inventor
+A_1463	Frederick Streeter Barrett	1	
+A_1464	Fredros Okumu	1	
+A_1465	Fredy Peccerelli	1	Forensic anthropologist
+A_1466	Freeman Dyson	1	Physicist
+A_1467	Freeman H. Shen	1	
+A_1468	Freeman Hrabowski	1	Educator
+A_1469	G. Willow Wilson	1	
+A_1470	G.T. Bynum	1	
+A_1471	"Gabby Giffords , Mark Kelly"	2	
+A_1472	Gabby Rivera	1	
+A_1473	Gabe Barcia-Colombo	1	Video sculptor
+A_1474	Gabe Zichermann	1	"Entrepreneur, author"
+A_1475	Gabriel Barcia-Colombo	1	Video sculptor
+A_1476	Gabriel Heras	1	
+A_1477	Gabriel Prieto	1	
+A_1478	Gabriela Gonzv°lez	1	
+A_1479	Gabriela Roa	1	
+A_1480	Gabrielle Walker	1	
+A_1481	Gaby Barrios	1	
+A_1482	Gail Reed	1	Cuban health care expert
+A_1483	Gala Marija Vrbanic	1	
+A_1484	Galit Ariel	1	
+A_1485	Ganesh Pai	1	
+A_1486	Gangadhar Patil	1	
+A_1487	Gareth Gaskell	1	
+A_1488	Garik Israelian	1	Astrophysicist
+A_1489	Garrett Lisi	1	Physicist
+A_1490	Garry Kasparov	1	"Grandmaster, analyst"
+A_1491	Garth Lenz	1	Photographer
+A_1492	Garth Sundem	1	
+A_1493	Gary Devore	1	
+A_1494	Gary Flake	1	Technologist
+A_1495	Gary Greenberg	1	Micro photographer
+A_1496	Gary Haugen	1	Human rights attorney
+A_1497	Gary Kovacs	1	
+A_1498	Gary Lauder	1	
+A_1499	Gary Liu	1	
+A_1500	Gary Niekerk	1	
+A_1501	Gary Slutkin	1	Epidemiologist
+A_1502	Gary Vaynerchuk	1	Entrepreneur
+A_1503	Gary Wolf	1	Journalist
+A_1504	Gaspard Koenig	1	
+A_1505	Gastv=n Acurio	1	
+A_1506	Gautam Bhan	1	
+A_1507	Gavin McCormick	1	
+A_1508	Gavin Pretor-Pinney	1	Cloudspotter
+A_1509	Gavin Schmidt	1	Climate scientist
+A_1510	Gay Gordon-Byrne	1	
+A_1511	Gayathri Vasudevan	1	
+A_1512	Gayle Tzemach Lemmon	1	Reporter
+A_1513	Gbenga Sesan	1	
+A_1514	Ge Wang	1	Music technologist
+A_1515	Geena Rocero	1	Model and activist
+A_1516	Geert Chatrou	1	Whistler
+A_1517	Gemma Jackson	1	
+A_1518	Gene Luen Yang	1	
+A_1519	Genevieve Bell	1	
+A_1520	Genevieve von Petzinger	1	Paleoanthropologist and rock art researcher
+A_1521	Geoff Emberling	1	
+A_1522	Geoff Mulgan	1	Social commentator
+A_1523	Geoffrey Canada	1	Education reformer
+A_1524	Geoffrey West	1	Theorist
+A_1525	George Ayittey	1	Economist
+A_1526	George Blair-West	1	
+A_1527	George Dyson	1	Historian of science
+A_1528	George Monbiot	1	Rewilding campaigner
+A_1529	George Papandreou	1	Former Prime Minister of Greece
+A_1530	"George Siedel , Christine Ladwig"	2	
+A_1531	George Smoot	1	Astrophysicist
+A_1532	George Steinmetz	1	
+A_1533	George Takei	1	Actor and activist
+A_1534	George Tulevski	1	Materials scientist
+A_1535	George Whitesides	1	Chemist
+A_1536	George Zaidan	1	
+A_1537	"George Zaidan , Charles Morton"	2	
+A_1538	Georges C. Benjamin	1	
+A_1539	Georges Nzongola-Ntalaja	1	
+A_1540	Georgette Mulheir	1	"CEO, Lumos"
+A_1541	Geraldine Hamilton	1	Bio researcher
+A_1542	Gerard Ryle	1	Investigative journalist
+A_1543	Gerd Gigerenzer	1	
+A_1544	German Santillan	1	
+A_1545	Gero Miesenboeck	1	Optogeneticist
+A_1546	Gerry Wright	1	
+A_1547	Gever Tulley	1	Tinkerer
+A_1548	Ghada Wali	1	
+A_1549	Giada Gerboni	1	
+A_1550	Gian Giudice	1	Theoretical physicist
+A_1551	Gianluca Ambrosetti	1	
+A_1552	Gil Weinberg	1	
+A_1553	Gil Winch	1	
+A_1554	Gilad Bino	1	
+A_1555	Giles Duley	1	Photojournalist
+A_1556	Gill Hicks	1	Survivor and activist
+A_1557	Gillian Gibb	1	
+A_1558	Gina Brillon	1	
+A_1559	Gina Cooke	1	
+A_1560	Giorgia Lupi	1	Information designer
+A_1561	Giulia Enders	1	
+A_1562	Glen Henry	1	
+A_1563	Glenn Cantave	1	
+A_1564	Glenn Greenwald	1	Journalist
+A_1565	Gloria Steinem	1	
+A_1566	Gokul Upadhyayula	1	
+A_1567	Golan Levin	1	Experimental audio-visual artist
+A_1568	Gonzalo Vilariño	1	"Lawyer, coach"
+A_1569	Gordon Brown	1	British Prime Minister
+A_1570	Gordon Hamilton	1	
+A_1571	Gowri Shankar	1	
+A_1572	Gregoire Courtine	1	
+A_1573	Grace Kim	1	Architect
+A_1574	Grady Booch	1	"Scientist, philosopher"
+A_1575	Graham Allison	1	
+A_1576	Graham Baird	1	
+A_1577	Graham Hawkes	1	Inventor
+A_1578	Graham Hill	1	Journalist
+A_1579	Graham Shaw	1	
+A_1580	Graham Worthy	1	
+A_1581	"Grantly Galland , Raiana McKinney"	2	
+A_1582	Greg Anderson	1	
+A_1583	Greg Asner	1	Airborne ecologist
+A_1584	Greg Gage	1	Neuroscientist
+A_1585	Greg Lynn	1	Designer
+A_1586	Greg Stone	1	Oceanographer
+A_1587	Gregg Garn	1	
+A_1588	Gregory Berns	1	
+A_1589	Gregory Heyworth	1	Textual scientist
+A_1590	Gregory Petsko	1	Bioengineer
+A_1591	Gregory Stock	1	"Author, thinker"
+A_1592	Greta Thunberg	1	
+A_1593	Gretchen Carlson	1	
+A_1594	"Gretchen Carlson , David Brooks"	2	
+A_1595	Guadalupe Nogues	1	
+A_1596	Guillaume Nv©ry	1	
+A_1597	Gunjan Bhardwaj	1	
+A_1598	Gus Casely-Hayford	1	
+A_1599	"Gustavo Dudamel , the Teresa Carrev±o Youth Orchestra"	2	
+A_1600	Guy Harvey	1	
+A_1601	Guy Hoffman	1	Roboticist
+A_1602	Guy Winch	1	"Psychologist, author"
+A_1603	Guy-Philippe Goldstein	1	Author
+A_1604	Gwen Yi Wong	1	
+A_1605	Gwynne Shotwell	1	
+A_1606	H.E. Ellen Johnson Sirleaf	1	
+A_1607	"Hv©lv®ne Morlon , Anna Papadopoulou"	2	
+A_1608	Haas&Hahn	1	Favela painters
+A_1609	Haaziq Kazi	1	
+A_1610	Hadi Eldebek	1	
+A_1611	Hadyn Parry	1	Biotechnology entrepreneur
+A_1612	Hailey Hardcastle	1	
+A_1613	Haimanti Roy	1	
+A_1614	Hajer Sharief	1	
+A_1615	Haley Van Dyck	1	Disrupter
+A_1616	Halima Aden	1	
+A_1617	Halla Tv=masdv=ttir	1	
+A_1618	"Halla Tv=masdv=ttir , Bryn Freedman"	2	
+A_1619	Hamdi Ulukaya	1	
+A_1620	Hamish Jolly	1	"Inventor, ocean swimmer"
+A_1621	Hanako Sawada	1	
+A_1622	Handspring Puppet Co.	1	Puppeteers
+A_1623	Hanna Rosin	1	Journalist
+A_1624	Hanna-Ilona Harmavaara	1	
+A_1625	Hannah Bürckstümmer	1	
+A_1626	Hannah Brencher	1	Letter enthusiast
+A_1627	Hannah Fry	1	Complexity theorist
+A_1628	Hannah Gadsby	1	
+A_1629	"Hans , Ola Rosling"	2	
+A_1630	"Hans Block , Moritz Riesewieck"	2	
+A_1631	Hans Rosling	1	Global health expert; data visionary
+A_1632	Hany Farid	1	
+A_1633	Harald Eia	1	
+A_1634	Harald Haas	1	Communications technology innovator
+A_1635	Hari Nef	1	
+A_1636	Harish Manwani	1	"COO, Unilever"
+A_1637	Harrison Scott Key	1	
+A_1638	Harry Baker	1	Poet
+A_1639	Harry Cliff	1	Particle physicist
+A_1640	Harsha Bhogle	1	Cricket commentator
+A_1641	Harvey Fineberg	1	Health policy expert
+A_1642	Hasan Elahi	1	Privacy artist
+A_1643	Hasan Kwame Jeffries	1	
+A_1644	Hasini Jayatilaka	1	
+A_1645	"Hawa Abdi , Deqo Mohamed"	2	
+A_1646	Hayley Levitt	1	
+A_1647	Hayley Yeates	1	
+A_1648	Heather Barnett	1	Artist
+A_1649	Heather Brooke	1	Journalist
+A_1650	Heather C. McGhee	1	
+A_1651	Heather Knight	1	Roboticist 
+A_1652	Heather Lanier	1	
+A_1653	Heather Malyuk	1	
+A_1654	Heba Shaheed	1	
+A_1655	Hector Garcia	1	Psychologist
+A_1656	Hector Lanz	1	
+A_1657	Hector Ruiz	1	CEO
+A_1658	Heidi Boisvert	1	
+A_1659	Heidi Grant	1	
+A_1660	Heidi Larson	1	
+A_1661	Heidi M. Sosik	1	
+A_1662	Helder Guimaraes	1	
+A_1663	Helen Czerski	1	Physicist
+A_1664	"Helen Farr , Jon Adams"	2	
+A_1665	Helen Fisher	1	"Anthropologist, expert on love"
+A_1666	Helen Gillet	1	
+A_1667	Helen M. Farrell	1	
+A_1668	Helen Marriage	1	
+A_1669	Helen Pearson	1	
+A_1670	Hendrik Poinar	1	Evolutionary geneticist
+A_1671	Henna-Maria Uusitupa	1	
+A_1672	Henrietta Fore	1	
+A_1673	"Henry Evans , Chad Jenkins"	2	
+A_1674	Henry Lin	1	Student scientist
+A_1675	Henry Markram	1	Neuroscientist
+A_1676	Herbie Hancock	1	Jazz legend
+A_1677	Heribert Watzke	1	Food scientist
+A_1678	Herman Narula	1	
+A_1679	Herminia Ibarra	1	
+A_1680	Hernv°n Casciari	1	
+A_1681	Hetain Patel	1	Artist
+A_1682	Hilary Cottam	1	Innovator and social entrepreneur
+A_1683	Hillel Cooperman	1	"Entrepreneur, Lego enthusiast"
+A_1684	Hindou Oumarou Ibrahim	1	
+A_1685	Hiromi Ozaki	1	
+A_1686	His Holiness Pope Francis	1	Bishop of Rome
+A_1687	His Holiness the Karmapa	1	Spiritual leader
+A_1688	Hod Lipson	1	Roboticist
+A_1689	Holley Moyes	1	
+A_1690	Holly Morris	1	Explorer and filmmaker
+A_1691	"Homaro Cantu , Ben Roche"	2	
+A_1692	Hongqiao Liu	1	
+A_1693	Honor Harger	1	Artist
+A_1694	Hortensia Jimv©nez Dv?az	1	
+A_1695	How to Be a Better Human	1	
+A_1696	Howard C. Stevenson	1	
+A_1697	Howard Rheingold	1	Digital community builder
+A_1698	Howard Taylor	1	
+A_1699	Hrishikesh Hirway	1	
+A_1700	Hu Liang	1	
+A_1701	Huang Hung	1	
+A_1702	"Huang Yi , KUKA"	2	
+A_1703	Hubertus Knabe	1	Historian
+A_1704	Hugh Evans	1	Humanitarian
+A_1705	Hugh Herr	1	Bionics designer
+A_1706	Hugo Mercier	1	
+A_1707	Hui-wen Sato	1	
+A_1708	Hyeonseo Lee	1	Activist
+A_1709	Hyunsoo Joshua No	1	
+A_1710	Iain Hutchison	1	Facial surgeon
+A_1711	Iain McGilchrist	1	Psychiatrist and writer
+A_1712	Ian Barnes	1	
+A_1713	Ian Bremmer	1	Political theorist
+A_1714	Ian Dunbar	1	Animal behaviorist
+A_1715	Ian Firth	1	
+A_1716	Ian Goldin	1	"Economist, development visionary"
+A_1717	Ian Kerner	1	
+A_1718	Ian Ritchie	1	Software entrepreneur
+A_1719	Ian Strange	1	
+A_1720	Ibram X. Kendi	1	
+A_1721	Ikv© Udv©	1	
+A_1722	Ilan Stavans	1	
+A_1723	Ilissa Ocko	1	
+A_1724	Ilona Stengel	1	
+A_1725	Ilona Szabó de Carvalho	1	Policy reformer
+A_1726	Imogen Heap	1	Musician
+A_1727	Improv Everywhere	1	Pranksters
+A_1728	IN-Q	1	
+A_1729	Ines Hercovich	1	
+A_1730	Inara George	1	Singer and songwriter
+A_1731	Indre Viskontas	1	
+A_1732	Inge Missmahl	1	Analytical psychologist
+A_1733	Ingrid Betancourt	1	"Writer, peace advocate"
+A_1734	Ingrid Fetell Lee	1	
+A_1735	Inhi Cho Suh	1	
+A_1736	iO Tillett Wright	1	Photographer
+A_1737	Ioannis Papachimonas	1	
+A_1738	Ione Wells	1	"Writer, activist"
+A_1739	Ipsita Dasgupta	1	
+A_1740	Iqbal Quadir	1	"Founder, GrameenPhone"
+A_1741	Irene Mora	1	
+A_1742	Irina Kareva	1	
+A_1743	Irma L. Olguin Jr.	1	
+A_1744	Irwin Redlener	1	"Physician, disaster-preparedness activist"
+A_1745	Isaac Lidsky	1	"Author, entrepreneur"
+A_1746	Isaac Mizrahi	1	Fashion designer
+A_1747	Isabel Allende	1	Novelist
+A_1748	Isabel Behncke	1	Primatologist
+A_1749	Isabel Wilkerson	1	
+A_1750	Isadora Kosofsky	1	
+A_1751	Ise Lyfe	1	
+A_1752	Iseult Gillespie	1	
+A_1753	Isha Datar	1	
+A_1754	Ishan Bhabha	1	
+A_1755	Ismael Nazario	1	Prison reform advocate
+A_1756	Itamar Mann	1	
+A_1757	Itay Talgam	1	Conductor and leadership expert
+A_1758	Ivan Coyote	1	"Writer, performer"
+A_1759	Ivan Krastev	1	Public intellectual
+A_1760	Ivan Oransky	1	Health reporter
+A_1761	Ivan Poupyrev	1	
+A_1762	Ivonne Roman	1	
+A_1763	Iwan Baan	1	Urban documentarian
+A_1764	Iyad Rahwan	1	Computational social scientist
+A_1765	J. Marshall Shepherd	1	
+A_1766	J. V. Maranto	1	
+A_1767	J.D. Vance	1	Author
+A_1768	J.J. Abrams	1	Filmmaker
+A_1769	Jaap de Roode	1	Biologist
+A_1770	Jac de Haan	1	
+A_1771	Jacek Utko	1	Newspaper designer
+A_1772	Jack Andraka	1	Cancer detector inventor
+A_1773	Jack Choi	1	Technologist
+A_1774	Jack Conte	1	"Musician, entrepreneur"
+A_1775	Jack Dangermond	1	
+A_1776	Jack Dorsey	1	
+A_1777	Jack Horner	1	Dinosaur digger
+A_1778	Jack Levis	1	
+A_1779	Jack Sinclair	1	
+A_1780	Jackie Gartner-Schmidt	1	
+A_1781	Jackie Savitz	1	Ocean advocate
+A_1782	Jackie Tabick	1	Spiritual leader
+A_1783	Jackson Bird	1	
+A_1784	Jackson Browne	1	Musician and activist
+A_1785	Jackson Katz	1	Anti-sexism educator
+A_1786	Jacob Collier	1	
+A_1787	Jacob Soboroff	1	
+A_1788	Jacqueline Novogratz	1	Investor and advocate for moral leadership
+A_1789	Jacqueline Woodson	1	
+A_1790	Jacques S. Abramowicz	1	
+A_1791	Jacy Reese Anthis	1	
+A_1792	Jad Abumrad	1	
+A_1793	Jae Rhim Lee	1	Artist
+A_1794	Jaime Lerner	1	City evangelist
+A_1795	Jake Barton	1	Designer and storyteller
+A_1796	Jake Wood	1	"CEO, Team Rubicon"
+A_1797	Jakob Magolan	1	
+A_1798	Jakob Trollback	1	Designer
+A_1799	Jamais Cascio	1	World-builder
+A_1800	James A. Smith	1	
+A_1801	James A. White Sr.	1	Consultant
+A_1802	James B. Glattfelder	1	Complex systems theorist
+A_1803	James Balog	1	Photographer
+A_1804	James Beacham	1	Experimental particle physicist
+A_1805	James Bickerton	1	
+A_1806	James Bridle	1	
+A_1807	James Burchfield	1	Human beatbox
+A_1808	James Cameron	1	Director
+A_1809	James Curleigh	1	
+A_1810	James Earle	1	
+A_1811	James Flynn	1	Moral philosopher
+A_1812	James Forbes	1	Preacher
+A_1813	James Geary	1	Aphorist
+A_1814	James Gillies	1	
+A_1815	James Green	1	 Space physicist
+A_1816	James Hansen	1	Climatologist
+A_1817	James Howard Kunstler	1	Social critic
+A_1818	James K. Thornton	1	
+A_1819	James Keblas	1	
+A_1820	James Kozloski	1	
+A_1821	James Logan	1	
+A_1822	James Ludwig	1	
+A_1823	James Lyne	1	Cybersecurity specialist
+A_1824	James Nachtwey	1	Photojournalist
+A_1825	James Orsulak	1	
+A_1826	James Patten	1	Interaction designer
+A_1827	James Randi	1	Skeptic and conjuror
+A_1828	James Rhee	1	
+A_1829	James Stavridis	1	Navy Admiral
+A_1830	James Surowiecki	1	Finance journalist
+A_1831	James Tanton	1	
+A_1832	James Watson	1	"Biologist, Nobel laureate"
+A_1833	James Zucker	1	
+A_1834	Jamie Bartlett	1	Social media analyst
+A_1835	Jamie C. Beard	1	
+A_1836	Jamie Drummond	1	Anti-poverty activist
+A_1837	Jamie Heywood	1	Healthcare revolutionary
+A_1838	Jamie Oliver	1	"Chef, activist"
+A_1839	Jamie Paik	1	
+A_1840	Jamil Abu-Wardeh	1	Producer
+A_1841	Jamil Zaki	1	
+A_1842	Jamila Gordon	1	
+A_1843	Jamila Lyiscott	1	Poet and educator
+A_1844	Jamila Raqib	1	Peacemaker
+A_1845	Jan Bill	1	
+A_1846	Jan Chipchase	1	User anthropologist
+A_1847	Jan Denecker	1	
+A_1848	Jan Rader	1	
+A_1849	Jan Stejskal	1	
+A_1850	Jane Chen	1	Social entrepreneur
+A_1851	Jane Fonda	1	Actor and activist
+A_1852	"Jane Fonda , Lily Tomlin"	2	
+A_1853	"Jane Fonda , Xiye Bastida"	2	
+A_1854	Jane Goodall	1	Primatologist; environmentalist
+A_1855	Jane Hirshfield	1	
+A_1856	Jane McGonigal	1	Game Designer
+A_1857	Jane Poynter	1	Biospherian
+A_1858	Jane Velkovski	1	
+A_1859	Jane Walsh	1	
+A_1860	Janell Hobson	1	
+A_1861	Janelle Peters	1	
+A_1862	Janelle Shane	1	
+A_1863	Janet Echelman	1	Artist
+A_1864	Janet Iwasa	1	Molecular animator
+A_1865	Janet Stovall	1	
+A_1866	Janette Sadik-Khan	1	City transportation expert
+A_1867	Janine Benyus	1	"Science writer, innovation consultant, conservationist"
+A_1868	Janine di Giovanni	1	Reporter
+A_1869	Janine Shepherd	1	Pilot
+A_1870	Janja Lalich	1	
+A_1871	Janna Levin	1	Physicist
+A_1872	Janne Willems	1	
+A_1873	Jared Diamond	1	Civilization scholar
+A_1874	Jared Ficklin	1	Visualizer
+A_1875	Jared Hill	1	
+A_1876	Jared Kleinert	1	
+A_1877	Jaron Lanier	1	
+A_1878	Jarrell Daniels	1	
+A_1879	Jarreth Merz	1	Filmmaker
+A_1880	Jarrett J. Krosoczka	1	Author/illustrator
+A_1881	Jasmine Cho	1	
+A_1882	Jasmine Crowe	1	
+A_1883	Jason B. Rosenthal	1	
+A_1884	Jason Clay	1	Market transformer
+A_1885	Jason deCaires Taylor	1	Sculptor
+A_1886	Jason Fried	1	Software entrepreneur
+A_1887	Jason Jay	1	
+A_1888	Jason McCue	1	Lawyer
+A_1889	Jason Pontin	1	Editor
+A_1890	Jason Robert Jaffe	1	
+A_1891	Jason Shen	1	
+A_1892	Javed Akhtar	1	
+A_1893	Javier Olivares	1	
+A_1894	Jay Bradner	1	Research scientist
+A_1895	Jay Cousins	1	
+A_1896	Jay Silver	1	Inventor
+A_1897	Jay Van Bavel	1	
+A_1898	Jay Walker	1	Entrepreneur
+A_1899	JayaShri Maathaa	1	
+A_1900	JD Schramm	1	Communicator
+A_1901	Jean-Baptiste Michel	1	Data researcher
+A_1902	"Jean-Baptiste Michel , Erez Lieberman Aiden"	2	
+A_1903	Jean-Baptiste P. Koehl	1	
+A_1904	Jean-Franvßois Bastin	1	
+A_1905	Jean-Manuel Izaret	1	
+A_1906	Jean-Paul Mari	1	Journalist and psychologist
+A_1907	Jeanne Gang	1	Architect
+A_1908	Jeanne Pinder	1	
+A_1909	Jeannette Garcia	1	
+A_1910	Jeannie Suk Gersen	1	
+A_1911	Jedidah Isler	1	Astrophysicist
+A_1912	Jeff Bezos	1	Online commerce pioneer
+A_1913	Jeff Dean	1	
+A_1914	Jeff Dekofsky	1	
+A_1915	Jeff Han	1	Human-computer interface designer
+A_1916	Jeff Hancock	1	Psychologist
+A_1917	Jeff Hawkins	1	"Computer designer, brain researcher"
+A_1918	Jeff Iliff	1	Neuroscientist
+A_1919	Jeff Kirschner	1	Entrepreneur
+A_1920	Jeff Kozak	1	
+A_1921	"Jeff Leek , Lucy McGowan"	2	
+A_1922	Jeff Skoll	1	Producer
+A_1923	Jeff Smith	1	Recovering politician
+A_1924	Jeff Speck	1	Urban planner
+A_1925	Jeff Steers	1	
+A_1926	Jeffrey A. Lockwood	1	
+A_1927	Jeffrey Brown	1	Pastor
+A_1928	Jeffrey Kluger	1	"Senior Editor, TIME Magazine"
+A_1929	Jeffrey Siegel	1	
+A_1930	Jehane Noujaim	1	Filmmaker
+A_1931	Jen Gunter	1	
+A_1932	Jenna C. Lester	1	
+A_1933	Jenna McCarthy	1	Writer
+A_1934	Jenna Schilstra	1	
+A_1935	Jenna Weiner	1	
+A_1936	"Jenni Chang , Lisa Dazols"	2	
+A_1937	Jennifer 8. Lee	1	Reporter
+A_1938	"Jennifer Aaker , Naomi Bagdonas"	2	
+A_1939	Jennifer Allison	1	
+A_1940	Jennifer B. Nuzzo	1	
+A_1941	Jennifer Brea	1	Filmmaker
+A_1942	Jennifer Doudna	1	Biologist
+A_1943	Jennifer Golbeck	1	Computer scientist
+A_1944	Jennifer Granholm	1	Former governor of Michigan
+A_1945	Jennifer Granick	1	Surveillance and cybersecurity counsel
+A_1946	Jennifer Healey	1	Research scientist
+A_1947	Jennifer Kahn	1	Science journalist
+A_1948	Jennifer L. Eberhardt	1	
+A_1949	Jennifer Lin	1	"Pianist, composer"
+A_1950	Jennifer Lu	1	
+A_1951	Jennifer Pahlka	1	Code activist
+A_1952	Jennifer Petriglieri	1	
+A_1953	Jennifer Pluznick	1	Physiologist
+A_1954	Jennifer Senior	1	Writer
+A_1955	Jennifer Vail	1	
+A_1956	Jennifer Verduin	1	
+A_1957	Jennifer Wilcox	1	
+A_1958	Jennifer Zhu Scott	1	
+A_1959	"Jenny Scheinman , Nels Cline , Todd Sickafoose"	3	
+A_1960	Jens Burchardt	1	
+A_1961	Jer Thorp	1	Data artist
+A_1962	Jeremy Brewer	1	
+A_1963	Jeremy Forbes	1	
+A_1964	Jeremy Gilley	1	Peace activist
+A_1965	Jeremy Heimans	1	Activist
+A_1966	Jeremy Howard	1	Data scientist
+A_1967	Jeremy Jackson	1	Marine ecologist
+A_1968	Jeremy Kasdin	1	Planet finder
+A_1969	Jeremy Rifkin	1	"Writer, thinker"
+A_1970	Jerome Kim	1	
+A_1971	Jerry Chow	1	
+A_1972	"Jesper Brodin , Pia Heidenmark Cook"	2	
+A_1973	Jess Kutch	1	
+A_1974	Jess Thom	1	
+A_1975	Jessa Gamble	1	Writer
+A_1976	Jesse Byock	1	
+A_1977	Jesse Schell	1	Game designer
+A_1978	Jessi Arrington	1	Designer
+A_1979	Jessica Donohue	1	
+A_1980	Jessica Garza	1	
+A_1981	Jessica Green	1	Engineer and biodiversity scientist
+A_1982	"Jessica Green , Karen Guillemin"	2	
+A_1983	Jessica Jackley	1	Microlender
+A_1984	Jessica Kerr	1	
+A_1985	Jessica Ladd	1	"Founder and CEO, Callisto"
+A_1986	Jessica McCabe	1	
+A_1987	Jessica Ochoa Hendrix	1	
+A_1988	"Jessica Oreck , Rachael Teel"	2	
+A_1989	Jessica Pryce	1	
+A_1990	Jessica Shortall	1	"Strategy consultant, social entrepreneur and author"
+A_1991	Jessica Smith	1	
+A_1992	Jessy Kate Schingler	1	
+A_1993	Ji-Hae Park	1	Violinist
+A_1994	Jia Jiang	1	"Author, blogger, entrepreneur"
+A_1995	Jiabao Li	1	
+A_1996	Jill Bolte Taylor	1	Neuroanatomist
+A_1997	Jill Dash	1	
+A_1998	Jill Farrant	1	Professor of molecular and cell biology
+A_1999	Jill Heinerth	1	Cave diver
+A_2000	Jill Seubert	1	
+A_2001	Jill Shargaa	1	Comedian + Designer
+A_2002	Jill Sobule	1	Singer/songwriter
+A_2003	"Jill Sobule , Julia Sweeney"	2	
+A_2004	Jill Tarter	1	Astronomer
+A_2005	Jim Al-Khalili	1	Quantum physicist
+A_2006	Jim Chuchu	1	
+A_2007	Jim Collins	1	
+A_2008	Jim Fallon	1	Neurobiologist
+A_2009	Jim Hagemann Snabe	1	
+A_2010	Jim Hemerling	1	Organizational change expert
+A_2011	Jim Holt	1	Writer and philosopher
+A_2012	Jim Hudspeth	1	
+A_2013	Jim Simons	1	"Philanthropist, mathematician"
+A_2014	Jim Tamm	1	
+A_2015	Jim Toomey	1	Cartoonist
+A_2016	Jim Whitehurst	1	
+A_2017	Jim Yong Kim	1	"President, World Bank Group"
+A_2018	Jimmy Carter	1	Peace activist
+A_2019	Jimmy Lin	1	Geneticist
+A_2020	Jimmy Nelson	1	Last tribes photographer
+A_2021	Jimmy Wales	1	Founder of Wikipedia
+A_2022	Jinha Lee	1	"Interface designer, engineer"
+A_2023	Jinsop Lee	1	Multi-sense designer
+A_2024	JK Rowling	1	Author
+A_2025	Jo Michael Rezes	1	
+A_2026	Joachim de Posada	1	Speaker and author
+A_2027	Joachim Horn	1	
+A_2028	Joan As Police Woman	1	
+A_2029	"Joan Blades , John Gable"	2	
+A_2030	Joan C. Williams	1	
+A_2031	Joan Halifax	1	"Author, Zen priest"
+A_2032	JoAnn Kuchera-Morin	1	Composer
+A_2033	Joanne Chory	1	
+A_2034	JoAnne S. Bass	1	
+A_2035	Joao Pedro de Magalhaes	1	
+A_2036	Jocelyne Bloch	1	Functional neurosurgeon
+A_2037	Jochen Wegner	1	
+A_2038	Jodi-Ann Burey	1	
+A_2039	Jodie Houlston-Lau	1	
+A_2040	Jody Williams	1	Nobel peace laureate
+A_2041	Joe Davis	1	
+A_2042	Joe DeRisi	1	Biochemist
+A_2043	Joe Gebbia	1	"Designer, co-founder of Airbnb"
+A_2044	Joe Kowan	1	Musician and graphic designer
+A_2045	Joe Landolina	1	medical inventor
+A_2046	Joe Lassiter	1	Energy scholar
+A_2047	Joe Madiath	1	Social entrepreneur
+A_2048	Joe Sabia	1	Storyteller
+A_2049	Joe Smith	1	Lawyer
+A_2050	Joe von Fischer	1	
+A_2051	Joel Burns	1	City councilman
+A_2052	Joel Jackson	1	
+A_2053	Joel Leon	1	
+A_2054	Joel Levine	1	Planetary and atmospheric scientist
+A_2055	Joel Selanikio	1	Health and technology activist
+A_2056	Joelle Rabow Maletis	1	
+A_2057	Joey Alexander	1	Jazz pianist
+A_2058	Johan Rockstrv?m	1	
+A_2059	Johann Hari	1	Journalist
+A_2060	Johanna Benesty	1	
+A_2061	Johanna Blakley	1	Media maven
+A_2062	Johanna Figueira	1	
+A_2063	John Amory	1	
+A_2064	John Bidden	1	
+A_2065	John Biewen	1	
+A_2066	John Bohannon	1	Science writer
+A_2067	John Bolton	1	
+A_2068	John Brenkus	1	
+A_2069	"John C. Moore , Eric Berlow"	2	
+A_2070	John C. Trimble	1	
+A_2071	John Cameron	1	
+A_2072	John Cary	1	
+A_2073	John Delaney	1	Oceanographer
+A_2074	John Doerr	1	Venture capitalist
+A_2075	"John Doerr , Hal Harvey"	2	
+A_2076	"John Doerr , Ryan Panchadsaram"	2	
+A_2077	John Francis	1	Planet walker
+A_2078	John Gerzema	1	Marketing whiz
+A_2079	John Graham-Cumming	1	Computer programmer
+A_2080	John Green	1	Writer
+A_2081	John Hardy	1	"Designer, educator"
+A_2082	John Hockenberry	1	Journalist
+A_2083	John Hodgman	1	Expert
+A_2084	John Hunter	1	Educator
+A_2085	John Kasaona	1	Conservationist
+A_2086	"John Kerry , Al Gore"	2	
+A_2087	John Kitching	1	
+A_2088	John Kluge Jr.	1	
+A_2089	John Koenig	1	Writer
+A_2090	John La Grou	1	Inventor
+A_2091	John Legend	1	"Singer, musician, composer"
+A_2092	"John Lewis , Bryan Stevenson"	2	
+A_2093	John Lloyd	1	Producer
+A_2094	John Maeda	1	Artist
+A_2095	John Marshall	1	
+A_2096	John McKown	1	
+A_2097	John McWhorter	1	Linguist
+A_2098	John O'Leary	1	
+A_2099	John Q. Walker	1	Musician and inventor
+A_2100	John Sabraw	1	
+A_2101	John Searle	1	Philosopher
+A_2102	John Soluri	1	
+A_2103	John Underkoffler	1	Interface designer
+A_2104	John Varney	1	
+A_2105	John Wilbanks	1	Data Commons Advocate
+A_2106	John Wooden	1	Coach
+A_2107	Johnny Lee	1	Human-computer interaction researcher
+A_2108	Johnny Staats	1	
+A_2109	"Johnny Staats , Davey Vaughn"	2	
+A_2110	Joi Ito	1	Relentless mind
+A_2111	Joia Mukherjee	1	
+A_2112	Jok Church	1	Cartoonist
+A_2113	Jon Bergmann	1	Educator
+A_2114	"Jon Boogz , Lil Buck"	2	
+A_2115	Jon Bowers	1	
+A_2116	Jon Gosier	1	"Investor, data scientist, entrepreneur"
+A_2117	Jon Gray	1	
+A_2118	Jon Lowenstein	1	
+A_2119	Jon M. Chu	1	
+A_2120	Jon Mooallem	1	Writer
+A_2121	Jon Nguyen	1	Engineer
+A_2122	Jon Ronson	1	Writer and filmmaker
+A_2123	Jonas Eliasson	1	Transportation specialist
+A_2124	Jonas Gahr Store	1	
+A_2125	Jonathan Butterworth	1	
+A_2126	Jonathan Drori	1	Educator
+A_2127	Jonathan Eisen	1	Biologist
+A_2128	Jonathan Foley	1	Professor
+A_2129	Jonathan Haidt	1	Social psychologist
+A_2130	Jonathan Harris	1	"Artist, storyteller, Internet anthropologist"
+A_2131	"Jonathan J. O'Sullivan , Grace E. Cunningham"	2	
+A_2132	Jonathan Klein	1	Executive
+A_2133	Jonathan Koch	1	
+A_2134	Jonathan Marks	1	"Bioethicist, lawyer"
+A_2135	Jonathan Rossiter	1	Roboticist
+A_2136	Jonathan Smith	1	
+A_2137	Jonathan Tepperman	1	Global affairs thinker
+A_2138	Jonathan Trent	1	Scientist and biofuel guru
+A_2139	Jonathan Wilker	1	
+A_2140	Jonathan Zittrain	1	Net watchdog
+A_2141	Jonny Sun	1	
+A_2142	Jordan Raskopoulos	1	
+A_2143	Jordan Wirfs-Brock	1	
+A_2144	Jordana Moore Saggese	1	
+A_2145	Jordyn Wieber	1	
+A_2146	Jorge Drexler	1	"Musician, poet"
+A_2147	Jorge Mav±es Rubio	1	
+A_2148	Jorge Ramos	1	"Journalist, news anchor"
+A_2149	Jorge Soto	1	Cancer technologist
+A_2150	Jose Americano N L F de Freitas	1	
+A_2151	Jose Andres	1	
+A_2152	Jose Antonio Abreu	1	
+A_2153	Jose Bowen	1	
+A_2154	Jose Antonio Vargas	1	
+A_2155	Jose Miguel Sokoloff	1	Anti-guerrilla creative
+A_2156	Joseph DeSimone	1	"Chemist, inventor"
+A_2157	Joseph Goffman	1	
+A_2158	Joseph Gordon-Levitt	1	
+A_2159	Joseph Isaac	1	
+A_2160	Joseph Kim	1	North Korean refugee
+A_2161	Joseph Lekuton	1	Kenyan MP
+A_2162	Joseph McGill	1	
+A_2163	Joseph Nye	1	Diplomat
+A_2164	Joseph Pine	1	Writer
+A_2165	Joseph Ravenell	1	Physician and men’s health advocate
+A_2166	Joseph Redmon	1	Computer scientist
+A_2167	Joseph Shin	1	
+A_2168	Josette Sheeran	1	Anti-hunger leader
+A_2169	Josh Giegel	1	
+A_2170	Josh Luber	1	Sneaker data expert
+A_2171	Josh Samani	1	
+A_2172	Joshua Chu-Tan	1	
+A_2173	Joshua Foer	1	Writer
+A_2174	Joshua Harvey	1	
+A_2175	Joshua Klein	1	Hacker
+A_2176	Joshua Prager	1	Journalist
+A_2177	Joshua Prince-Ramus	1	Architect
+A_2178	Joshua Silver	1	Optical innovator
+A_2179	Joshua Smith	1	Cancer fighter
+A_2180	Joshua W. Pate	1	
+A_2181	Joshua Walters	1	"Comedian, activist"
+A_2182	Jota Samper	1	
+A_2183	Joy Buolamwini	1	Poet of code
+A_2184	Joy Lin	1	
+A_2185	Joy Sun	1	Veteran aid worker
+A_2186	Joy Wolfram	1	
+A_2187	JP Rangaswami	1	Technologist
+A_2188	JR	1	Street artist
+A_2189	Juan Enriquez	1	Futurist
+A_2190	Juan López-Aranguren	1	
+A_2191	Juan Pablo Saez Gil	1	
+A_2192	Judd A. Schorr	1	
+A_2193	Jude Kelly	1	"Theater director, producer"
+A_2194	Judith Heumann	1	
+A_2195	"Judith Jamison , members of the Alvin Ailey American Dance Theater"	2	
+A_2196	Judson Brewer	1	Mindful addiction doctor
+A_2197	Judy Brewer	1	
+A_2198	Judy Cebra-Thomas	1	
+A_2199	Judy Grisel	1	
+A_2200	Judy MacDonald Johnston	1	Entrepreneur
+A_2201	Julia Bacha	1	Filmmaker
+A_2202	Julia Dhar	1	
+A_2203	Julia Espinosa	1	
+A_2204	Julia Galef	1	Writer
+A_2205	"Julia Gillard , Ngozi Okonjo-Iweala"	2	
+A_2206	Julia Kloiber	1	
+A_2207	Julia Shaw	1	
+A_2208	Julia Sweeney	1	"Actor, comedian, playwright"
+A_2209	Julia Watson	1	
+A_2210	Julian Assange	1	Whistleblower
+A_2211	Julian Baggini	1	Philosopher
+A_2212	Julian Burschka	1	
+A_2213	Julian Treasure	1	Sound consultant
+A_2214	Juliana Delgado Lopera	1	
+A_2215	Juliana Machado Ferreira	1	Biologist
+A_2216	Juliana Rotich	1	Tech entrepreneur
+A_2217	Juliane Gallina	1	
+A_2218	Julie Burstein	1	Writer and radio producer
+A_2219	Julie Chang	1	
+A_2220	Julie Cordua	1	
+A_2221	Julie Lythcott-Haims	1	"Academic, author"
+A_2222	Julie Taymor	1	"Director, designer"
+A_2223	Juliet Brophy	1	
+A_2224	Julio Gil	1	
+A_2225	Julissa Prado	1	
+A_2226	Julius Maada Bio	1	
+A_2227	Jun Wang	1	Genomics researcher
+A_2228	Juna Kollmeier	1	
+A_2229	June Tangney	1	
+A_2230	Juniper Fitzgerald	1	
+A_2231	Juno Mac	1	Sex worker and activist
+A_2232	Justin Baldoni	1	
+A_2233	Justin Davidson	1	Architecture critic
+A_2234	Justin Hall-Tipping	1	Science entrepreneur
+A_2235	Justin Schmidt	1	
+A_2236	K. Erica Dodge	1	
+A_2237	Kade Crockford	1	
+A_2238	Kaeli Swift	1	
+A_2239	Kai-Fu Lee	1	
+A_2240	"Kai-Fu Lee , Chen Qiufan"	2	
+A_2241	Kailash Satyarthi	1	Children’s rights activist
+A_2242	Kaitlyn Sadtler	1	
+A_2243	"Kaitlyn Sadtler , Elizabeth Wayne"	2	
+A_2244	"Kaitlyn Sadtler , Heather J. Faust"	2	
+A_2245	Kakenya Ntaiya	1	Educator and activist
+A_2246	Kaki King	1	Guitarist
+A_2247	Kala Fleming	1	
+A_2248	Kalika Bali	1	
+A_2249	Kamal Meattle	1	Business owner and activist
+A_2250	Kamau Gachigi	1	
+A_2251	Kanawat Senanan	1	
+A_2252	Kandice Sumner	1	Educator
+A_2253	Kang Lee	1	Developmental researcher
+A_2254	Kara Logan Berlin	1	
+A_2255	Karalee Close	1	
+A_2256	Kare Anderson	1	Writer
+A_2257	Kareem Yusuf	1	
+A_2258	Karen Armstrong	1	Religious scholar
+A_2259	Karen Bass	1	Natural history filmmaker 
+A_2260	Karen D. Davis	1	
+A_2261	Karen DeSalvo	1	
+A_2262	Karen Eber	1	
+A_2263	Karen J. Meech	1	
+A_2264	Karen L. Cox	1	
+A_2265	Karen Lellouche Tordjman	1	
+A_2266	Karen Lloyd	1	
+A_2267	Karen Scrivener	1	
+A_2268	Karen Thompson Walker	1	Novelist
+A_2269	Karen Tse	1	Anti-torture activist
+A_2270	Karim Abouelnaga	1	Education entrepreneur
+A_2271	Karima Bennoune	1	Professor of international law
+A_2272	Karin vñberg	1	
+A_2273	Karin Nilsdotter	1	
+A_2274	Karina Galperin	1	Literary scholar
+A_2275	Karissa Sanbonmatsu	1	
+A_2276	Karl Skjonnemand	1	
+A_2277	Karla Souza	1	
+A_2278	Karoli Hindriks	1	
+A_2279	Karoliina Korppoo	1	Game designer
+A_2280	Kartick Satyanarayan	1	Wildlife conservationist 
+A_2281	Kary Mullis	1	Biochemist
+A_2282	Kasha Patel	1	
+A_2283	Kashfia Rahman	1	
+A_2284	"Kashmir Hill , Surya Mattu"	2	
+A_2285	Kasiva Mutua	1	
+A_2286	Kate Adams	1	Digital storyteller
+A_2287	Kate Bowler	1	
+A_2288	Kate Darling	1	
+A_2289	Kate E. Brandt	1	
+A_2290	Kate Gardoqui	1	
+A_2291	Kate Hartman	1	Artist and technologist
+A_2292	Kate Lister	1	
+A_2293	Kate Marvel	1	Climate scientist
+A_2294	Kate Messner	1	
+A_2295	Kate Orff	1	Landscape architect
+A_2296	Kate Raworth	1	
+A_2297	Kate Slabosky	1	
+A_2298	Kate Stafford	1	Oceanographer
+A_2299	Kate Stone	1	Shepherd of electrons
+A_2300	Kate Wagner	1	
+A_2301	Katerina Kaouri	1	
+A_2302	Katharine Hayhoe	1	
+A_2303	Katharine Wilkinson	1	
+A_2304	Katherine Eban	1	
+A_2305	Katherine Fulton	1	New philanthropist
+A_2306	Katherine Hampsten	1	
+A_2307	Katherine Kuchenbecker	1	Mechanical engineer
+A_2308	Katherine Lucas	1	
+A_2309	Katherine M. Gehl	1	
+A_2310	Kathryn A. Whitehead	1	
+A_2311	Kathryn Bouskill	1	
+A_2312	Kathryn Kolbert	1	
+A_2313	Kathryn Schulz	1	Wrongologist
+A_2314	Kathy Hannun	1	
+A_2315	Kathy Hull	1	Pediatric psychologist
+A_2316	Kathy Kleiman	1	
+A_2317	Kathy Mendias	1	
+A_2318	Kathy Vinokurov	1	
+A_2319	Katie Bouman	1	Imaging scientist
+A_2320	Katie Francfort	1	
+A_2321	Katie Hinde	1	Lactation researcher
+A_2322	Katie Hood	1	
+A_2323	Katie Mack	1	
+A_2324	Katie McGinty	1	
+A_2325	Katie Paterson	1	
+A_2326	Katlego Kolanyane-Kesupile	1	
+A_2327	Katrina Spade	1	"Inventor, designer, death care advocate"
+A_2328	Kaustav Dey	1	
+A_2329	Kavita Ramdas	1	Philanthropist
+A_2330	Kay Almere Read	1	
+A_2331	Kay M. Tye	1	
+A_2332	Kay Read	1	
+A_2333	Kayla Briv´t	1	
+A_2334	Kayla Mandel Sheets	1	
+A_2335	Kayla Wolf	1	
+A_2336	Kayvon Tehranian	1	
+A_2337	Kaz	1	
+A_2338	Kedra Newsom Reeves	1	
+A_2339	Kees Moeliker	1	Ornithologist
+A_2340	Keiichiro Hirano	1	
+A_2341	Keith Barry	1	Magician
+A_2342	Keith Bellows	1	Traveler
+A_2343	Keith Chen	1	Behavioral economist
+A_2344	Keith Eggener	1	
+A_2345	Keith Kirkland	1	
+A_2346	Keith Lowe	1	
+A_2347	Keith Nolan	1	Teacher
+A_2348	Keith Payne	1	
+A_2349	Keith Weed	1	
+A_2350	Keller Rinaudo	1	Robotics entrepreneur
+A_2351	Kelli Anderson	1	"Artist, designer"
+A_2352	Kelli Jean Drinkwater	1	"Artist, activist "
+A_2353	Kelli Sandman-Hurley	1	
+A_2354	Kelli Swazey	1	Anthropologist
+A_2355	Kelly Lepley	1	
+A_2356	Kelly McGonigal	1	Health psychologist
+A_2357	Kelly Richmond Pope	1	
+A_2358	Kelly Wanser	1	
+A_2359	Kelsey Johnson	1	
+A_2360	Kelsey Leonard	1	
+A_2361	Kemi DaSilva-Ibru	1	
+A_2362	Ken Goldberg	1	Roboticist
+A_2363	Ken Jennings	1	Know-it-all
+A_2364	Ken Kamler	1	Adventure physician 
+A_2365	Kendall Spencer	1	
+A_2366	Kenichi Ebina	1	Dancer
+A_2367	Kenneth C. Davis	1	
+A_2368	Kenneth Cukier	1	Data Editor of The Economist
+A_2369	Kenneth Lacovara	1	Paleontologist
+A_2370	Kenneth Shinozuka	1	Smart product inventor
+A_2371	Kenny Coogan	1	
+A_2372	Kent Larson	1	Architect
+A_2373	Keolu Fox	1	"Geneticist, indigenous rights activist"
+A_2374	Keren Elazari	1	Cybersecurity expert
+A_2375	Kesha	1	
+A_2376	Kevin Allocca	1	YouTube trends manager
+A_2377	Kevin B. Jones	1	Cancer researcher
+A_2378	Kevin Bales	1	Anti-slavery activist
+A_2379	Kevin Bethune	1	
+A_2380	Kevin Breel	1	"Comedian, activist"
+A_2381	Kevin Briggs	1	Golden Gate guardian
+A_2382	Kevin Etter	1	
+A_2383	Kevin J. Krizek	1	
+A_2384	Kevin Kelly	1	Digital visionary
+A_2385	Kevin Njabo	1	
+A_2386	Kevin Roose	1	
+A_2387	Kevin Rudd	1	International relations expert 
+A_2388	Kevin Slavin	1	Algoworld expert
+A_2389	Kevin Stone	1	"Surgeon, inventor"
+A_2390	Kevin Surace	1	"Engineer, executive"
+A_2391	Kevin Toolis	1	
+A_2392	Khadija Gbla	1	Cross-cultural consultant
+A_2393	Khadijah Tribble	1	
+A_2394	Khalida Brohi	1	Women’s rights activist and entrepreneur
+A_2395	Khalil Ramadi	1	
+A_2396	Khulan Batkhuyag	1	
+A_2397	Kiah Williams	1	
+A_2398	Kid Cudi	1	
+A_2399	Kid President	1	Inspirer
+A_2400	Kim Gorgens	1	Neuropsychologist
+A_2401	Kim Preshoff	1	
+A_2402	"Kim Scott , Trier Bryant"	2	
+A_2403	Kim Stanley Robinson	1	
+A_2404	"Kimberlé Crenshaw , Abby Dobson"	2	
+A_2405	Kimberley Motley	1	International litigator
+A_2406	Kimberly Noble	1	
+A_2407	Kimberose	1	
+A_2408	Kings Floyd	1	
+A_2409	Kio Stark	1	Stranger enthusiast
+A_2410	Kiran Bedi	1	Corrections pioneer
+A_2411	Kiran Mazumdar-Shaw	1	
+A_2412	Kiran Sethi	1	Educator
+A_2413	Kirby Ferguson	1	Filmmaker and Remixer
+A_2414	Kirk Citron	1	Media expert 
+A_2415	Kirk Sorensen	1	"Engineer, nuclear technologist"
+A_2416	Kirsten Hall	1	
+A_2417	Kirsti Abbott	1	
+A_2418	Kirsty Duncan	1	
+A_2419	Kishore Mahbubani	1	
+A_2420	Kitra Cahana	1	Vagabond photojournalist + conceptual artist
+A_2421	Klaus Stadlmann	1	Engineer
+A_2422	Kluane Adamek	1	
+A_2423	Knut Haanaes	1	Strategist
+A_2424	Knut Ivar Bjørlykhaug	1	
+A_2425	Kola Masha	1	
+A_2426	Kostas Karpouzis	1	
+A_2427	Kotchakorn Voraakhom	1	
+A_2428	Krishna Sudhir	1	
+A_2429	Krista Donaldson	1	Engineer
+A_2430	Krista Tippett	1	Journalist
+A_2431	Kristalina Georgieva	1	
+A_2432	Kristen Ashburn	1	Photographer
+A_2433	"Kristen Bell , Giant Ant"	2	
+A_2434	Kristen Marhaver	1	Coral reef biologist
+A_2435	Kristen Wenz	1	
+A_2436	Kristi Rogers	1	
+A_2437	Kristie Ebi	1	
+A_2438	Kristie Overstreet	1	
+A_2439	"Kristiina J. Hurme , Alejandro Rico-Guevara"	2	
+A_2440	Kristin Jones	1	
+A_2441	Kristin Poinar	1	
+A_2442	Kristina Gjerde	1	High seas policy advisor
+A_2443	Kristine Tompkins	1	
+A_2444	Kriti Sharma	1	
+A_2445	Krystian Aparta	1	
+A_2446	Kwabena Boahen	1	Bioengineer
+A_2447	Kwame Anthony Appiah	1	Philosopher
+A_2448	Kwame Owusu-Kesse	1	
+A_2449	Kyle Quinn	1	
+A_2450	Kym Worthy	1	
+A_2451	Kyra Gaunt	1	
+A_2452	LvOdia Machovv°	1	
+A_2453	LADAMA	1	
+A_2454	Lakshmi Pratury	1	Connector
+A_2455	Lalitesh Katragadda	1	Engineer
+A_2456	Lana Mazahreh	1	
+A_2457	Lana Yarosh	1	
+A_2458	Laolu Senbanjo	1	"Artist, musician, lawyer, activist"
+A_2459	Lara Durgavich	1	
+A_2460	Lara Maiklem	1	
+A_2461	Lara Setrakian	1	Journalist
+A_2462	Larry Brilliant	1	"Epidemiologist, philanthropist"
+A_2463	Larry Burns	1	Automotive researcher
+A_2464	Larry Irvin	1	
+A_2465	Larry Lagerstrom	1	
+A_2466	Larry Page	1	CEO of Google
+A_2467	Larry Smith	1	"Professor of Economics, University of Waterloo"
+A_2468	Lars Brownworth	1	
+A_2469	Lars Fv¶ste	1	
+A_2470	Lars Jv?nsson	1	
+A_2471	Latif Nasser	1	Radio researcher
+A_2472	LaToya Ruby Frazier	1	Photographer
+A_2473	Laura Bates	1	
+A_2474	Laura Boushnak	1	Photographer
+A_2475	Laura Boykin	1	
+A_2476	Laura Carstensen	1	Psychologist
+A_2477	Laura Fox	1	
+A_2478	Laura Galante	1	Cyberspace analyst
+A_2479	Laura Indolfi	1	Biomedical entrepreneur
+A_2480	Laura L. Dunn	1	
+A_2481	Laura Lane	1	
+A_2482	Laura Robinson	1	Ocean scientist
+A_2483	Laura Rovner	1	
+A_2484	Laura Schulz	1	Cognitive scientist
+A_2485	Laura Snyder	1	Science historian
+A_2486	Laura Tenenbaum	1	
+A_2487	Laura Trice	1	"Counselor, coach and baker"
+A_2488	Laura Vanderkam	1	Author
+A_2489	Laura Wright	1	
+A_2490	Laurel Braitman	1	Science Historian + Writer
+A_2491	Lauren Esposito	1	
+A_2492	"Lauren Hodge , Shree Bose , Naomi Shah"	3	
+A_2493	Lauren Pharr	1	
+A_2494	Lauren Sallan	1	
+A_2495	Lauren Zalaznick	1	Media executive
+A_2496	Laurence Hurst	1	
+A_2497	Laurie Garrett	1	Science journalist
+A_2498	Laurie Santos	1	Cognitive psychologist
+A_2499	Lawrence Lessig	1	Legal activist
+A_2500	Laxmi Parida	1	
+A_2501	LB Hannahs	1	
+A_2502	Lea Gaslowitz	1	
+A_2503	Leah Buechley	1	Designer
+A_2504	"Leah Chase , Pat Mitchell"	2	
+A_2505	Leah Garces	1	
+A_2506	Leah Georges	1	
+A_2507	"Leah Lagos , Jaspal Ricky Singh"	2	
+A_2508	Leana Wen	1	"Emergency physician, public health advocate"
+A_2509	Lee Cronin	1	Chemist
+A_2510	Lee Hotz	1	Journalist
+A_2511	Lee Mokobe	1	Poet
+A_2512	Lee Smolin	1	Physicist
+A_2513	Lee Thomas	1	
+A_2514	LeeAnn Renninger	1	
+A_2515	Lei Li	1	
+A_2516	Leila Hoteit	1	Women's advocate
+A_2517	Leila Pirhaji	1	
+A_2518	Leila Seth	1	
+A_2519	Leila Takayama	1	
+A_2520	Leland Melvin	1	
+A_2521	Lemn Sissay	1	Poet and playwright
+A_2522	Lemon Andersen	1	Poet and actor
+A_2523	Lena Dumont	1	
+A_2524	Lennart Green	1	Close-up card magician
+A_2525	Leo Igwe	1	
+A_2526	Leo Q. Wan	1	
+A_2527	Leon Marchal	1	
+A_2528	Leonard Susskind	1	Physicist
+A_2529	Leonora Neville	1	
+A_2530	Leor Weinberger	1	
+A_2531	Lera Boroditsky	1	
+A_2532	Lesley Hazleton	1	"Writer, psychologist"
+A_2533	Leslie Dodson	1	Reporter
+A_2534	Leslie Herod	1	
+A_2535	Leslie Kenna	1	
+A_2536	Leslie Morgan Steiner	1	Writer
+A_2537	Leslie Perlow	1	
+A_2538	Leslie T. Chang	1	Journalist
+A_2539	Let It Happen	1	
+A_2540	Leticia Gasca	1	
+A_2541	Levon Biss	1	
+A_2542	Lewis Carroll	1	
+A_2543	Lewis Pugh	1	Coldwater swimmer
+A_2544	Leyla Acaroglu	1	Sustainability strategist
+A_2545	Leymah Gbowee	1	"Peace activist, Nobelist"
+A_2546	Li Wei Tan	1	
+A_2547	Li-Huei Tsai	1	
+A_2548	Liam Young	1	
+A_2549	Lian Pin Koh	1	Drones ecologist
+A_2550	Lidia Yuknavitch	1	Author
+A_2551	Liene Ozoli˜Üa	1	
+A_2552	Lieven Scheire	1	
+A_2553	Lili Haydn	1	
+A_2554	Lillian Faderman	1	
+A_2555	Lina Marieth Hoyos	1	
+A_2556	Linda Cliatt-Wayman	1	High school principal
+A_2557	Linda Hill	1	Management professor
+A_2558	Linda Liukas	1	"Programmer, storyteller and illustrator"
+A_2559	Linda Zhang	1	
+A_2560	Lindiwe Mazibuko	1	
+A_2561	Lindsay Amer	1	
+A_2562	Lindsay Malloy	1	
+A_2563	Lindsay Morcom	1	
+A_2564	Lindy Lou Isonhood	1	
+A_2565	Linus Torvalds	1	Software engineer
+A_2566	Lisa Bu	1	Passionate reader
+A_2567	Lisa Dyson	1	Sustainability crusader
+A_2568	Lisa Feldman Barrett	1	
+A_2569	Lisa Gansky	1	Entrepreneur
+A_2570	Lisa Genova	1	"Neuroscientist, novelist"
+A_2571	Lisa Godwin	1	
+A_2572	Lisa Harouni	1	3D printing entrepreneur
+A_2573	"Lisa Jackson , Liz Ogbu"	2	
+A_2574	Lisa Janae Bacon	1	
+A_2575	Lisa Krause	1	
+A_2576	Lisa Kristine	1	Photographer
+A_2577	Lisa Margonelli	1	Writer
+A_2578	Lisa Mosconi	1	
+A_2579	Lisa Nip	1	Synthetic biologist 
+A_2580	Lisa Seacat DeLuca	1	
+A_2581	Lisa Winer	1	
+A_2582	Lisa-Marie Johnston	1	
+A_2583	Liu Bolin	1	Artist
+A_2584	Liu Thai Ker	1	
+A_2585	Liv Boeree	1	
+A_2586	Liz Coleman	1	College president
+A_2587	Liz Diller	1	Designer
+A_2588	Liz Fosslien	1	
+A_2589	Liz Hajek	1	Geoscientist
+A_2590	Liz Kleinrock	1	
+A_2591	Liz Ogbu	1	
+A_2592	Liz Powers	1	
+A_2593	Liza Donnelly	1	Cartoonist 
+A_2594	Lizzie Velv°squez	1	
+A_2595	Lizzo	1	
+A_2596	Lloyd Pendleton	1	
+A_2597	Lloyd Treinish	1	
+A_2598	Lord Nicholas Stern	1	Climate economist
+A_2599	Lorenzo Garcia-Amaya	1	
+A_2600	Loretta J. Ross	1	
+A_2601	Loretta Napoleoni	1	Macroeconomist
+A_2602	Lori Gottlieb	1	
+A_2603	Lorie Wigle	1	
+A_2604	Lorin Swint Matthews	1	
+A_2605	Lorna Davis	1	
+A_2606	Lorrie Faith Cranor	1	Security researcher
+A_2607	Lou Serico	1	
+A_2608	Louie Schwartzberg	1	Filmmaker
+A_2609	Louise Fresco	1	Food and agriculture expert
+A_2610	Louise Leakey	1	Paleoanthropologist
+A_2611	Luc de Brabandere	1	
+A_2612	Luca Turin	1	Nose
+A_2613	Lucas C. Majure	1	
+A_2614	Lucas Husted	1	
+A_2615	Lucas Joppa	1	
+A_2616	Lucas Raspall	1	
+A_2617	Lucianne Walkowicz	1	Stellar astronomer
+A_2618	Lucien Engelen	1	Healthcare innovator
+A_2619	Lucius	1	
+A_2620	Lucy Clayton	1	
+A_2621	Lucy Cooke	1	
+A_2622	Lucy Farey-Jones	1	
+A_2623	Lucy Hone	1	
+A_2624	Lucy Kalanithi	1	Caregiver
+A_2625	Lucy King	1	
+A_2626	Lucy Marcil	1	
+A_2627	Lucy McRae	1	Body architect 
+A_2628	Ludwick Marishane	1	Entrepreneur
+A_2629	Luhan Yang	1	
+A_2630	Luis H. Zayas	1	
+A_2631	Luis von Ahn	1	Computer scientist
+A_2632	Luis Zambrano	1	
+A_2633	Luisa Neubauer	1	
+A_2634	Luka Seamus Wright	1	
+A_2635	"Luka Seamus Wright , Imogen Ellen Napper"	2	
+A_2636	Lukas Rieppel	1	
+A_2637	Luke Sital-Singh	1	
+A_2638	Luke Syson	1	Curator
+A_2639	Luma Mufleh	1	Refugee activist
+A_2640	Luvvie Ajayi Jones	1	
+A_2641	Lux Narayan	1	Entrepreneur
+A_2642	Lynn Rothschild	1	
+A_2643	Lynne Elvins	1	
+A_2644	Lyra McKee	1	
+A_2645	LZ Granderson	1	Journalist
+A_2646	M Jackson	1	
+A_2647	Mv=nica Ramv?rez	1	
+A_2648	Ma Jun	1	
+A_2649	Ma Yansong	1	
+A_2650	Maajid Nawaz	1	Anti-extremism activist
+A_2651	Mac Barnett	1	Children's book author
+A_2652	Mac Stone	1	Photographer
+A_2653	Macinley Butson	1	
+A_2654	Mackenzie Dalrymple	1	
+A_2655	Madame Gandhi	1	
+A_2656	"Madame Gandhi , Amber Galloway-Gallego"	2	
+A_2657	Madeleine Albright	1	Former US Secretary of State
+A_2658	Madhavi Venkatesan	1	
+A_2659	Madhumita Murgia	1	
+A_2660	Madison McFerrin	1	
+A_2661	Mads Tang-Christensen	1	
+A_2662	Mae Jemison	1	"Astronaut, engineer, entrepreneur, physician and educator"
+A_2663	Maeve Higgins	1	
+A_2664	Magatte Wade	1	
+A_2665	Magda Sayeg	1	Textile artist
+A_2666	Magnus Larsson	1	Dune architect
+A_2667	Mahendra Singhi	1	
+A_2668	Mahir Can kucuk	1	
+A_2669	Mai Lan	1	
+A_2670	Mainak Mazumdar	1	
+A_2671	Maira Kalman	1	"Illustrator, author"
+A_2672	Maisie Williams	1	
+A_2673	Majd Mashharawi	1	
+A_2674	MaJiKer	1	
+A_2675	Majora Carter	1	Activist for environmental justice
+A_2676	Makhtoum Abdalla	1	
+A_2677	Makiko Eda	1	
+A_2678	Malala Yousafzai	1	
+A_2679	Malcolm Gladwell	1	Writer
+A_2680	Malcolm London	1	"Poet, performer, activist"
+A_2681	Malcolm McLaren	1	Provocateur
+A_2682	Malika Whitley	1	
+A_2683	Mallika Sarabhai	1	"Dancer, actor, activist"
+A_2684	Mallory Freeman	1	
+A_2685	Malte Spitz	1	"Politician, data activist"
+A_2686	Manal al-Sharif	1	Women’s rights activist
+A_2687	Manav Subodh	1	
+A_2688	Mandv´ Holford	1	
+A_2689	Mandy Len Catron	1	Writer
+A_2690	Mani Vajipey	1	
+A_2691	Manoush Zomorodi	1	Tech podcaster
+A_2692	Manu Prakash	1	"Physicist, inventor"
+A_2693	Manuel Lima	1	Data visualization researcher
+A_2694	Manwar Ali	1	Peace activist
+A_2695	Marv?a Neira	1	
+A_2696	Marv?a Teresa Kumar	1	
+A_2697	Mara Mintzer	1	
+A_2698	Marah J. Hardt	1	
+A_2699	Marc Abrahams	1	Science humorist
+A_2700	Marc Bamuthi Joseph	1	
+A_2701	Marc Fagelson	1	
+A_2702	Marc Goodman	1	Global Security Futurist
+A_2703	Marc Koska	1	Inventor
+A_2704	Marc Kushner	1	Architect
+A_2705	Marc Pachter	1	Cultural Historian
+A_2706	Marc Raibert	1	Roboticist
+A_2707	Marcel Dicke	1	Ecological entomologist
+A_2708	Marcelo Mena	1	
+A_2709	Marcin Jakubowski	1	Farmer and technologist
+A_2710	Marco A. Sotomayor	1	
+A_2711	Marco Alverv†	1	
+A_2712	Marco Annunziata	1	Economist
+A_2713	Marco Tempest	1	Techno-illusionist
+A_2714	Marcos Aguiar	1	
+A_2715	Marcus Adrian	1	
+A_2716	Marcus Bullock	1	
+A_2717	Marcus Byrne	1	Entomologist
+A_2718	Marcus du Sautoy	1	Mathematician
+A_2719	Margaret Bourdeaux	1	"Physician, global health policy analyst"
+A_2720	Margaret Gould Stewart	1	User experience master
+A_2721	Margaret Heffernan	1	Management thinker
+A_2722	Margaret Mitchell	1	
+A_2723	Margaret Morris	1	
+A_2724	Margaret Wertheim	1	Figurer
+A_2725	Margrethe Vestager	1	
+A_2726	Maria Bezaitis	1	Computer engineer
+A_2727	Maria Dubovitskaya	1	
+A_2728	Maria Golubeva	1	
+A_2729	Maria Popova	1	
+A_2730	Maria Van Kerkhove	1	
+A_2731	Marian Bantjes	1	"Designer, illustrator, typographer"
+A_2732	Marian Wright Edelman	1	
+A_2733	Mariana Atencio	1	
+A_2734	Mariana Lin	1	
+A_2735	Mariana Mazzucato	1	Innovation economist
+A_2736	Marianne Schwarz	1	
+A_2737	Mariano Sigman	1	Neuroscientist
+A_2738	"Mariano Sigman , Dan Ariely"	2	
+A_2739	Marie Brodsky	1	
+A_2740	Marie Howe	1	
+A_2741	Marie Wallace	1	
+A_2742	Marily Oppezzo	1	
+A_2743	Marilyn Waring	1	
+A_2744	Marina Abramoviƒá	1	
+A_2745	Mario Paluzzi	1	
+A_2746	Marisa Fick-Jordan	1	"Craft artist, product designer"
+A_2747	Marjan van Aubel	1	
+A_2748	"Marjee Chmiel , Trevor Owens"	2	
+A_2749	Mark Applebaum	1	Composer
+A_2750	Mark Bezos	1	"Activist, volunteer firefighter"
+A_2751	Mark Bittman	1	Food writer
+A_2752	Mark Changizi	1	
+A_2753	Mark Forsyth	1	Writer
+A_2754	Mark Halliday	1	
+A_2755	Mark Jackson	1	
+A_2756	Mark Kendall	1	Biomedical engineer
+A_2757	Mark Liddell	1	
+A_2758	Mark Lytle	1	
+A_2759	Mark Modesti	1	
+A_2760	Mark Pagel	1	Evolutionary biologist
+A_2761	Mark Plotkin	1	Amazonian ethnobotanist
+A_2762	"Mark Pollock , Simone George"	2	
+A_2763	Mark Raymond	1	Architect
+A_2764	Mark Robinson	1	
+A_2765	"Mark Robinson , Alex Gendler"	2	
+A_2766	Mark Ronson	1	Music producer and DJ
+A_2767	Mark Roth	1	"Biochemist, cell biologist"
+A_2768	"Mark Ruffalo , Don Cheadle"	2	
+A_2769	Mark Shaw	1	Macroencapsulator
+A_2770	Mark Tyndall	1	
+A_2771	Markham Nolan	1	Journalist
+A_2772	Marko Russiver	1	
+A_2773	Markus Fischer	1	Designer
+A_2774	Markus Lorenz	1	
+A_2775	Markus Mutz	1	
+A_2776	Marla Spivak	1	Bees scholar
+A_2777	Marlene Daut	1	
+A_2778	Marlene Zuk	1	Evolutionary biologist
+A_2779	Marlon Peterson	1	Human justice advocate
+A_2780	Marta Peirano	1	
+A_2781	Martha Minow	1	
+A_2782	Martha Redbone	1	
+A_2783	Martin Danoesastro	1	
+A_2784	Martin Ford	1	
+A_2785	Martin Hanczyc	1	Chemist
+A_2786	Martin Hilpert	1	
+A_2787	Martin Jacques	1	"Writer, columnist"
+A_2788	Martin Pistorius	1	"Author, designer"
+A_2789	Martin Rees	1	Astrophysicist
+A_2790	Martin Reeves	1	Strategist
+A_2791	Martin Seligman	1	Psychologist
+A_2792	Martin Villeneuve	1	"Graphic artist, director"
+A_2793	Martina Flor	1	
+A_2794	Martine Rothblatt	1	Transhumanist
+A_2795	Maru˜°a Brada	1	
+A_2796	Marvin Minsky	1	AI pioneer
+A_2797	Marwa Al-Sabouni	1	Architect
+A_2798	Mary Bassett	1	New York City Health Commissioner
+A_2799	Mary Ellen Hannibal	1	
+A_2800	Mary L. Gray	1	
+A_2801	Mary Lou Jepsen	1	Screen engineer
+A_2802	Mary Maker	1	
+A_2803	Mary Norris	1	Copy editor
+A_2804	Mary Roach	1	Writer
+A_2805	Mary Robinson	1	Global leader
+A_2806	Maryn McKenna	1	Public health journalist
+A_2807	Masako Tamaki	1	
+A_2808	Masha Gershman	1	
+A_2809	Massimo Banzi	1	Physical Computing Guru
+A_2810	Mathias Basner	1	
+A_2811	Mathias Jud	1	Artist
+A_2812	Mathieu Lamiaux	1	
+A_2813	Mathieu Lehanneur	1	Designer
+A_2814	Matilda Ho	1	
+A_2815	Matt Anticole	1	
+A_2816	Matt Beane	1	
+A_2817	Matt Cutts	1	Technologist
+A_2818	Matt Goldman	1	
+A_2819	Matt Kenyon	1	New media artist
+A_2820	Matt Killingsworth	1	Happiness researcher
+A_2821	Matt Langione	1	
+A_2822	Matt Mills	1	Technologist
+A_2823	Matt Mullenweg	1	
+A_2824	"Matt Porter , Margaret Hamilton"	2	
+A_2825	Matt Ridley	1	Rational optimist
+A_2826	Matt Russo	1	
+A_2827	Matt Trombley	1	
+A_2828	Matt Walker	1	
+A_2829	Matt Weinstein	1	Motivational speaker
+A_2830	Matteo Fadel	1	
+A_2831	Matteo Salvadore	1	
+A_2832	Matthew A. Wilson	1	
+A_2833	Matthew Borths	1	
+A_2834	Matthew Carter	1	Type designer
+A_2835	Matthew Childs	1	"Marketer, rock climber"
+A_2836	Matthew Mazzotta	1	
+A_2837	Matthew O'Reilly	1	Emergency medical technician
+A_2838	Matthew Shifrin	1	
+A_2839	Matthew White	1	Brass virtuoso
+A_2840	Matthew Williams	1	Special Olympics International Sargent Shriver Global Messenger
+A_2841	Matthew Winkler	1	
+A_2842	Matthias Mullenbeck	1	
+A_2843	Matthieu Ricard	1	"Monk, author, photographer"
+A_2844	Maurice Conti	1	"Designer, futurist"
+A_2845	Maurizio Seracini	1	Art diagnostician
+A_2846	Max Hawkins	1	
+A_2847	Max Little	1	Applied mathematician
+A_2848	Max Rashbrooke	1	
+A_2849	Max Tegmark	1	
+A_2850	May El-Khalil	1	Founder of the Beirut Marathon
+A_2851	Maya Beiser	1	Cellist
+A_2852	Maya Penn	1	"Entrepreneur, animator, philanthropist ..."
+A_2853	Maysoon Zayid	1	Comedian and writer 
+A_2854	Maz Jobrani	1	Comedian
+A_2855	McKenna Pope	1	Teen activist
+A_2856	Mechai Viravaidya	1	Public health expert
+A_2857	Meera Vijayann	1	Citizen journalist
+A_2858	Meg Jacobs	1	
+A_2859	Meg Jay	1	Clinical psychologist
+A_2860	"Megan Campisi , Pen-Pen Chen"	2	
+A_2861	Megan Kamerick	1	Reporter
+A_2862	Megan McArthur	1	
+A_2863	Megan Ming Francis	1	
+A_2864	Megan Parker	1	
+A_2865	Megan Phelps-Roper	1	"Writer, activist"
+A_2866	Megan Washington	1	Musician
+A_2867	Megan Wilkens	1	
+A_2868	Mehdi Ordikhani-Seyedlar	1	Neuroscientist
+A_2869	Mehret Mandefro	1	
+A_2870	Mei Lin Neo	1	
+A_2871	Meklit Hadero	1	Singer-songwriter
+A_2872	Mel Robbins	1	
+A_2873	Mel Rosenberg	1	
+A_2874	Melanie E. Peffer	1	
+A_2875	Melanie Nezer	1	
+A_2876	"Melati , Isabel Wijsen"	2	
+A_2877	Melati Wijsen	1	
+A_2878	Melinda Babits	1	
+A_2879	Melinda Briana Epler	1	
+A_2880	Melinda Gates	1	Philanthropist
+A_2881	Melissa Fleming	1	Voice for refugees
+A_2882	Melissa Garren	1	Marine biologist
+A_2883	Melissa Marquez	1	
+A_2884	Melissa Marshall	1	Communications teacher
+A_2885	Melissa Walker	1	Creative arts therapist
+A_2886	Mellody Hobson	1	Investment expert
+A_2887	Melody Smith	1	
+A_2888	Melvin Russell	1	"Chief of the Community Partnership Division, Baltimore Police Department"
+A_2889	Melvin Sanicas	1	
+A_2890	Memory Banda	1	Activist
+A_2891	Mena Trott	1	"Blogger; cofounder, Six Apart"
+A_2892	Mennat El Ghalid	1	
+A_2893	Menno Schilthuizen	1	
+A_2894	Meron Gribetz	1	"Founder and CEO, Meta"
+A_2895	Merve Emre	1	
+A_2896	Mia Birdsong	1	Family activist
+A_2897	Mia Nacamulli	1	
+A_2898	"Miao Wang , Alok Sharma , Nigel Topping"	3	
+A_2899	Micah Eames	1	
+A_2900	Michael Anti	1	Blogger
+A_2901	Michael Archer	1	Paleontologist
+A_2902	Michael Arntfield	1	
+A_2903	Michael Benton	1	
+A_2904	Michael Bierut	1	"Designer, critic"
+A_2905	Michael Bodekaer	1	Entrepreneur
+A_2906	Michael Botticelli	1	Drug policy expert
+A_2907	Michael C. Bush	1	
+A_2908	Michael Corballis	1	
+A_2909	Michael Dickinson	1	Biologist
+A_2910	Michael Fey	1	
+A_2911	Michael Green	1	Architect
+A_2912	Michael Hansmeyer	1	Computational architect
+A_2913	Michael Hendryx	1	
+A_2914	Michael Kimmel	1	Sociologist
+A_2915	Michael Levin	1	
+A_2916	Michael Mauser	1	
+A_2917	Michael McDaniel	1	Graphic designer
+A_2918	Michael Merzenich	1	Neuroscientist
+A_2919	Michael Metcalfe	1	Financial expert
+A_2920	Michael Mieni	1	
+A_2921	Michael Molina	1	
+A_2922	Michael Moschen	1	Juggler
+A_2923	Michael Murphy	1	Designer
+A_2924	Michael Nielsen	1	Physicist
+A_2925	Michael Norton	1	Social science researcher
+A_2926	Michael Patrick Lynch	1	Philosopher
+A_2927	Michael Pawlyn	1	Architect
+A_2928	Michael Pollan	1	Environmental writer
+A_2929	Michael Porter	1	Business strategist
+A_2930	Michael Pritchard	1	Inventor
+A_2931	Michael R. Stiff	1	
+A_2932	Michael Rain	1	
+A_2933	Michael Ringel	1	
+A_2934	Michael Rubinstein	1	"Research scientist, Google"
+A_2935	Michael S. A. Graziano	1	
+A_2936	Michael S.A. Graziano	1	
+A_2937	Michael Sandel	1	Political philosopher
+A_2938	Michael Shellenberger	1	Climate policy expert
+A_2939	Michael Shermer	1	Skeptic
+A_2940	Michael Silverstein	1	
+A_2941	Michael Specter	1	Writer
+A_2942	Michael Stevens	1	YouTube educator
+A_2943	Michael Tilson Thomas	1	"Musician, Conductor"
+A_2944	Michael Tubbs	1	
+A_2945	Michael Uslan	1	
+A_2946	Michel Dugon	1	
+A_2947	Michel Laberge	1	Plasma physicist
+A_2948	Michele L. Sullivan	1	Social innovator
+A_2949	Michele Wucker	1	
+A_2950	Michelle Borkin	1	physicist
+A_2951	Michelle Brown	1	
+A_2952	Michelle Greene	1	
+A_2953	Michelle Knox	1	
+A_2954	Michelle Kuo	1	
+A_2955	Michelle Mehrtens	1	
+A_2956	Michelle Obama	1	First Lady of the United States
+A_2957	Mick Cornett	1	Mayor
+A_2958	Mick Ebeling	1	Entrepreneur
+A_2959	Mick Mountz	1	"CEO, Kiva Systems"
+A_2960	Miguel Alcubierre	1	
+A_2961	Miguel Nicolelis	1	Neuroscientist
+A_2962	Mihaly Csikszentmihalyi	1	Positive psychologist
+A_2963	Miho Janvier	1	
+A_2964	Mikael Cho	1	
+A_2965	Mikael Fogelstrom	1	
+A_2966	Mike Biddle	1	Plastics recycler
+A_2967	"Mike Brady , Dion Drew"	2	
+A_2968	Mike Brown	1	
+A_2969	Mike Cannon-Brookes	1	
+A_2970	Mike Davis	1	
+A_2971	Mike deGruy	1	Filmmaker
+A_2972	Mike Gil	1	
+A_2973	Mike Kinney	1	
+A_2974	Mike Matas	1	Software engineer
+A_2975	Mike O'Sullivan	1	
+A_2976	Mike Robbins	1	
+A_2977	Mike Rowe	1	TV host
+A_2978	Mike Schwartz	1	
+A_2979	Mike Sempert	1	
+A_2980	Mike Velings	1	Entrepreneur and conservationist
+A_2981	Mikhail Zygar	1	
+A_2982	Mikko Hypponen	1	Cybersecurity expert
+A_2983	Mileha Soneji	1	Product designer
+A_2984	Milton Glaser	1	Graphic designer
+A_2985	Min Kym	1	
+A_2986	Min Zhu	1	
+A_2987	Mina Bissell	1	Cancer Researcher
+A_2988	Minda Dentler	1	
+A_2989	Mindy Fullilove	1	
+A_2990	Mindy Scheier	1	
+A_2991	Ming Luke	1	
+A_2992	Mira Calix	1	
+A_2993	Miracle Jones	1	
+A_2994	Miriam Zoila Pv©rez	1	
+A_2995	Miru Kim	1	Photographer and explorer
+A_2996	Misha Glenny	1	Underworld investigator
+A_2997	Mitch Resnick	1	Computer scientist
+A_2998	Mitch Zeller	1	
+A_2999	Mitchell Besser	1	HIV/AIDS fighter
+A_3000	Mitchell Joachim	1	"Architect, designer"
+A_3001	Mitchell Katz	1	
+A_3002	Miwa Matreyek	1	Multimedia artist
+A_3003	Mohamad Jebara	1	
+A_3004	Mohamed Ali	1	Human rights advocate
+A_3005	Mohamed Hijri	1	Biologist
+A_3006	Mohammad Modarres	1	
+A_3007	Molly Crockett	1	Neuroscientist
+A_3008	Molly Stevens	1	Biomaterials researcher
+A_3009	Molly Webster	1	
+A_3010	Molly Winter	1	Designer
+A_3011	Molly Wright	1	
+A_3012	Mona Chalabi	1	Data journalist
+A_3013	monday.com	1	
+A_3014	Monica Araya	1	Climate advocate
+A_3015	Monica Byrne	1	Author and playwright
+A_3016	Monica Johnson	1	
+A_3017	Monica Lewinsky	1	Social activist
+A_3018	Monica Menesini	1	
+A_3019	Monica Palacio	1	
+A_3020	Monika Blaumueller	1	
+A_3021	Monika Bulaj	1	Photographer
+A_3022	Monique W. Morris	1	
+A_3023	Moreangels Mbizah	1	
+A_3024	Morgan Spurlock	1	Filmmaker
+A_3025	Morgan Vague	1	
+A_3026	Morgana Bailey	1	Human resources professional
+A_3027	Moriba Jah	1	
+A_3028	Morley	1	Singer-songwriter
+A_3029	Morra Aarons-Mele	1	
+A_3030	Moshe Safdie	1	Architect
+A_3031	Moshe Szyf	1	Epigeneticist
+A_3032	Mostafa Minawi	1	
+A_3033	Mother London	1	
+A_3034	Mounia Akl	1	
+A_3035	Muhammed Idris	1	
+A_3036	Mundano	1	Graffiti artist + activist
+A_3037	Munir Virani	1	"Raptor biologist, wildlife photographer"
+A_3038	Murat Dalkilinç	1	
+A_3039	Murray Gell-Mann	1	Physicist
+A_3040	Musimbi Kanyoro	1	
+A_3041	Muslim Sahib	1	
+A_3042	Mustafa Akyol	1	Journalist
+A_3043	Muthoni Drummer Queen	1	
+A_3044	Mwende "FreeQuency" Katwiwa	1	
+A_3045	Myles Allen	1	
+A_3046	Myriam Sidibe	1	Public-health expert
+A_3047	Nv©stor Guerra	1	
+A_3048	Nabiha Saklayen	1	
+A_3049	Nabila Alibhai	1	
+A_3050	Nadia Al-Sakkaf	1	Journalist
+A_3051	Nadia Kalman	1	
+A_3052	Nadia Lopez	1	Educator
+A_3053	Nadine Burke Harris	1	Pediatrician
+A_3054	Nadine Hachach-Haram	1	
+A_3055	Nadjia Yousif	1	
+A_3056	Nadya Bartol	1	
+A_3057	Nadya Mason	1	
+A_3058	Nagin Cox	1	Spacecraft operations engineer
+A_3059	Naif Al-Mutawa	1	"Creator, The 99"
+A_3060	Naima Penniman	1	
+A_3061	Nalini Nadkarni	1	Tree researcher
+A_3062	Nancy Duarte	1	"CEO, presentation designer"
+A_3063	Nancy Etcoff	1	Evolutionary psychologist
+A_3064	Nancy Frates	1	Mother + ALS Advocate
+A_3065	Nancy Kanwisher	1	Brain researcher
+A_3066	Nancy Lublin	1	Activist
+A_3067	Nancy N. Chen	1	
+A_3068	Nancy Rabalais	1	
+A_3069	Nandan Nilekani	1	Technologist and visionary
+A_3070	Nanfu Wang	1	
+A_3071	Naoko Ishii	1	
+A_3072	Naomi Klein	1	"Author, Activist "
+A_3073	Naomi McDougall Jones	1	
+A_3074	Naomi Mwaura	1	
+A_3075	Naomi Oreskes	1	Historian of science
+A_3076	Naomi Shimada	1	
+A_3077	"Nassim Assefi , Brian A. Levine"	2	
+A_3078	Natalie Fee	1	
+A_3079	Natalie Fratto	1	
+A_3080	Natalie Gunn	1	
+A_3081	Natalie Jeremijenko	1	Artist and engineer
+A_3082	Natalie MacMaster	1	Fiddler
+A_3083	Natalie Merchant	1	Singer/songwriter
+A_3084	Natalie Panek	1	"Rocket scientist, explorer"
+A_3085	Natalie Warne	1	Activist
+A_3086	Natalya St. Clair	1	
+A_3087	Natasha Hurley-Walker	1	Astronomer
+A_3088	Natasha Tsakos	1	Artist
+A_3089	Nate Garvis	1	Civic thought leader
+A_3090	Nate Silver	1	Statistician
+A_3091	Nathalia Holt	1	
+A_3092	Nathalie Cabrol	1	Planetary explorer
+A_3093	Nathalie Miebach	1	Artist
+A_3094	Nathan D. Horowitz	1	
+A_3095	Nathan Ide	1	
+A_3096	Nathan Myhrvold	1	Polymath
+A_3097	Nathan S. Jacobs	1	
+A_3098	Nathan Wolfe	1	Virus hunter
+A_3099	Nathaniel Kahn	1	Filmmaker
+A_3100	Natsai Audrey Chieza	1	
+A_3101	Naturally 7	1	A capella ensemble
+A_3102	Naufal Mukumi	1	
+A_3103	Navi Radjou	1	Innovation strategist
+A_3104	Ndidi Nwuneli	1	
+A_3105	Neal Katyal	1	
+A_3106	"Ned Blackhawk , Jeffrey D. Means"	2	
+A_3107	Negin Farsad	1	"Comedian, filmmaker"
+A_3108	"Neha Madhira , Haley Stack"	2	
+A_3109	Neha Narula	1	Currency futurist
+A_3110	Neil Burgess	1	Neuroscientist
+A_3111	Neil Gershenfeld	1	"Physicist, personal fab pioneer"
+A_3112	Neil Harbisson	1	Sonochromatic Cyborg Artist
+A_3113	Neil MacGregor	1	Director of The British Museum
+A_3114	Neil Pasricha	1	"Director, The Institute for Global Happiness"
+A_3115	Neil R. Jeyasingam	1	
+A_3116	Neil Turok	1	"Physicist, education activist"
+A_3117	Nellie McKay	1	Singer/songwriter
+A_3118	Nemonte Nenquimo	1	
+A_3119	Neri Oxman	1	"Architect, designer"
+A_3120	Netta Schramm	1	
+A_3121	Newton Aduaka	1	Filmmaker
+A_3122	Neylan McBaine	1	
+A_3123	Ngozi Okonjo-Iweala	1	Economist
+A_3124	Niall Ferguson	1	Historian
+A_3125	Nic Marks	1	Happiness researcher
+A_3126	Nicaila Matthews Okome	1	
+A_3127	Nicholas Christakis	1	"Physician, social scientist"
+A_3128	Nicholas Negroponte	1	Tech visionary
+A_3129	Nick Bostrom	1	Philosopher
+A_3130	"Nick Caruso , Dani Rabaiotti"	2	
+A_3131	Nick Hanauer	1	"Venture capitalist, author"
+A_3132	Nick Pizzo	1	
+A_3133	Nick Sears	1	Inventor
+A_3134	"Nick Turner , Whitney Pennington Rodgers"	2	
+A_3135	Nick Veasey	1	X-ray visionary
+A_3136	Nicki Beaman Griffin	1	
+A_3137	Nicola Jones	1	
+A_3138	Nicola Sturgeon	1	
+A_3139	Nicolas Perony	1	Animal scientist
+A_3140	Nicole Avena	1	
+A_3141	Nicole Maines	1	
+A_3142	"Nicole Paris , Ed Cage"	2	
+A_3143	Nicole Wilson	1	
+A_3144	Niels Diffrient	1	Designer
+A_3145	Niels van Namen	1	
+A_3146	Nigel Hughes	1	
+A_3147	Nigel Marsh	1	Author and marketer
+A_3148	Nigel Topping	1	
+A_3149	Nighat Dad	1	
+A_3150	Niki Okuk	1	Entrepreneur
+A_3151	Nikki Clifton	1	
+A_3152	Nikki Sanchez	1	
+A_3153	Nikki Webber Allen	1	
+A_3154	Nikolai Begg	1	Mechanical engineer
+A_3155	Nilay Kulkarni	1	
+A_3156	Nili Gilbert	1	
+A_3157	Nilofer Merchant	1	"Corporate director, author"
+A_3158	Nimisha Jain	1	
+A_3159	"Nina Dolvik Brochmann , Ellen Stokken Dahl"	2	
+A_3160	Nina Fedoroff	1	Molecular biologist
+A_3161	Nina G. Jablonski	1	
+A_3162	Nina Jablonski	1	Anthropologist
+A_3163	Nina Klietsch	1	
+A_3164	Nina Medvinskaya	1	
+A_3165	Nina Tandon	1	Tissue engineering researcher
+A_3166	Nina Westbrook	1	
+A_3167	Nir Eyal	1	
+A_3168	Nirmalya Kumar	1	Professor
+A_3169	Niro Sivanathan	1	
+A_3170	Nirupa Rao	1	
+A_3171	Nisha Anand	1	
+A_3172	Nita Farahany	1	
+A_3173	Nithya Ramanathan	1	
+A_3174	Niti Bhan	1	
+A_3175	Nitish Padmanaban	1	
+A_3176	Nivruti Rai	1	
+A_3177	Nizar Ibrahim	1	Paleontologist
+A_3178	Nkosilathi Nyathi	1	
+A_3179	Nnedi Okorafor	1	
+A_3180	"Noa Kageyama , Pen-Pen Chen"	2	
+A_3181	Noah Charney	1	
+A_3182	Noah Feldman	1	Constitutional law scholar
+A_3183	Noah R. Bressman	1	
+A_3184	Noah Tavlin	1	
+A_3185	Noah Wilson-Rich	1	Beekeeper
+A_3186	Noah Zandan	1	
+A_3187	Noel Bairey Merz	1	Physician
+A_3188	Noeline Kirabo	1	
+A_3189	Noelle Martin	1	
+A_3190	Nomava Zanazo	1	
+A_3191	Nonny de la Pena	1	
+A_3192	Nora Atkinson	1	
+A_3193	Nora Brown	1	
+A_3194	Nora Flanagan	1	
+A_3195	Nora McInerny	1	
+A_3196	Nora York	1	"Singer, performance artist"
+A_3197	Noreena Hertz	1	Economist
+A_3198	Noriko Arai	1	AI expert
+A_3199	Norma Pimentel	1	
+A_3200	Norman Foster	1	Architect
+A_3201	Norman Lear	1	"Producer, activist"
+A_3202	Norman Spack	1	Endocrinologist
+A_3203	Noy Thrupkaew	1	Global journalist
+A_3204	NWHunter	1	
+A_3205	Nyle DiMarco	1	
+A_3206	Nyra Jordan	1	
+A_3207	Ocean Ramsey	1	
+A_3208	Oded Shoseyov	1	Nanobiotechnologist
+A_3209	Ofer Levy	1	
+A_3210	OK Go	1	
+A_3211	Olafur Eliasson	1	Sculptor of light and space
+A_3212	Ole Scheeren	1	Architect
+A_3213	Olga Yurkova	1	
+A_3214	Oliver Elfenbaum	1	
+A_3215	Oliver Jeffers	1	
+A_3216	Oliver Sacks	1	Neurological anthropologist
+A_3217	Olivia Affuso	1	
+A_3218	Olivia Arthur	1	
+A_3219	Olivia Remes	1	
+A_3220	Olivia Tyler	1	
+A_3221	Olivier Scalabre	1	Industrial systems thinker
+A_3222	Olúfe´?mi Táíwò 	1	
+A_3223	OluTimehin Adegbeye	1	"Writer, activist"
+A_3224	Olympia Della Flora	1	
+A_3225	Omar Ahmad	1	"Technologist, city councilman"
+A_3226	Onora O'Neill	1	Philosopher
+A_3227	Onyx Ashanti	1	Beatjazz inventor and controllerist
+A_3228	Oren Yakobovich	1	Human-rights activist
+A_3229	Orisanmi Burton	1	
+A_3230	Ory Okolloh	1	Blogger and activist
+A_3231	Oscar Schwartz	1	Writer and poet
+A_3232	Oskar Eustis	1	
+A_3233	Ozawa Bineshi Albert	1	
+A_3234	Ozlem Cekic	1	
+A_3235	P.J. Parmar	1	
+A_3236	P.W. Singer	1	Military analyst
+A_3237	Peter Fankhauser	1	
+A_3238	Pablo Santa Cruz	1	
+A_3239	Paco de Leon	1	
+A_3240	Paddy Ashdown	1	Diplomat
+A_3241	Pam Warhurst	1	"Cofounder, Incredible Edible"
+A_3242	Pamela Meyer	1	Lie detector
+A_3243	Pamela Ronald	1	Plant geneticist
+A_3244	Pamelia Kurstin	1	Theremin player
+A_3245	Pankaj Ghemawat	1	Globalization researcher
+A_3246	Panti Bliss	1	
+A_3247	Paola Antonelli	1	Design curator
+A_3248	Paolo Bortolameolli	1	
+A_3249	Paolo Cardini	1	Designer
+A_3250	Parag Khanna	1	Global strategist
+A_3251	Pardis Parker	1	
+A_3252	Pardis Sabeti	1	Computational geneticist
+A_3253	"Pardis Sabeti , Christian Happi"	2	
+A_3254	Parul Sehgal	1	Literary critic
+A_3255	Pat Crowley	1	
+A_3256	Pat Mitchell	1	
+A_3257	Patience Mthunzi	1	Laser scientist
+A_3258	Patrv?cia Medici	1	
+A_3259	Patrice Gordon	1	
+A_3260	Patrice Thompson	1	
+A_3261	Patricia Burchat	1	Particle physicist
+A_3262	Patricia Kuhl	1	Language 
+A_3263	Patricia Ryan	1	
+A_3264	Patrick Awuah	1	University founder
+A_3265	Patrick Chappatte	1	Editorial cartoonist
+A_3266	Patrick Ferrucci	1	
+A_3267	Patrick Forth	1	
+A_3268	Patrick Lencioni	1	
+A_3269	Patrick Lin	1	
+A_3270	Patrick McGinnis	1	
+A_3271	PatrickJMT	1	
+A_3272	Patsy Rodenburg	1	Acting and voice coach
+A_3273	"Pattie Maes , Pranav Mistry"	2	
+A_3274	Patty McCord	1	
+A_3275	Paul A. Kramer	1	
+A_3276	Paul Bennett	1	"Designer; creative director, Ideo"
+A_3277	Paul Bloom	1	Psychologist
+A_3278	Paul Cater Deaton	1	
+A_3279	Paul Collier	1	Economist
+A_3280	Paul Conneally	1	Aid worker
+A_3281	Paul Debevec	1	Computer graphics pioneer
+A_3282	Paul Ewald	1	Evolutionary biologist
+A_3283	Paul Franklin	1	
+A_3284	Paul Gilding	1	Writer
+A_3285	Paul Greenberg	1	Author
+A_3286	Paul Hessburg	1	
+A_3287	Paul Kemp-Robertson	1	Advertising expert
+A_3288	Paul Knoepfler	1	Biologist
+A_3289	Paul Lewis	1	Journalist
+A_3290	Paul MacCready	1	Engineer
+A_3291	"Paul McEuen , Marc Miskin"	2	
+A_3292	Paul Moller	1	Inventor
+A_3293	Paul Nicklen	1	Polar photographer
+A_3294	Paul O'Connell	1	
+A_3295	Paul Pholeros	1	Architect
+A_3296	Paul Piff	1	Social psychologist
+A_3297	Paul Romer	1	"Chief Economist and Senior Vice President, World Bank"
+A_3298	Paul Root Wolpe	1	Ethicist
+A_3299	Paul Rothemund	1	DNA origamist
+A_3300	Paul Rucker	1	
+A_3301	Paul S. Kindstedt	1	
+A_3302	Paul Sereno	1	Paleontologist
+A_3303	Paul Snelgrove	1	Marine biologist
+A_3304	Paul Stamets	1	Mycologist
+A_3305	Paul Tasner	1	
+A_3306	Paul Tudor Jones II	1	Investor
+A_3307	Paul Zak	1	Neuroeconomist
+A_3308	Paula Hammond	1	Medical researcher and educator 
+A_3309	Paula Johnson	1	Women's-health expert
+A_3310	Paula Scher	1	Designer at play
+A_3311	Paula Stone Williams	1	
+A_3312	"Paula Stone Williams , Jonathan Williams"	2	
+A_3313	Pavan Sukhdev	1	Environmental economist
+A_3314	Pawan Sinha	1	Visual neuroscientist
+A_3315	"Pazit Cahlon , Alex Gendler"	2	
+A_3316	Peachy Liv	1	
+A_3317	Pearl Arredondo	1	Teacher
+A_3318	Pedro Brugarolas	1	
+A_3319	Peggy Andover	1	
+A_3320	Peggy Chan	1	
+A_3321	Peggy McIntosh	1	
+A_3322	Peggy Orenstein	1	"Journalist, author"
+A_3323	Peggy Weil	1	
+A_3324	Pekka Hv§mv§lv§inen	1	
+A_3325	Penelope Boston	1	Cave scientist
+A_3326	Penny Chisholm	1	
+A_3327	Per Espen Stoknes	1	
+A_3328	Pere Estupinyv†	1	
+A_3329	Peta Greenfield	1	
+A_3330	"Peta Greenfield , Alex Gendler"	2	
+A_3331	Pete Alcorn	1	Media exec
+A_3332	Pete Buttigieg	1	
+A_3333	Peter Attia	1	Surgeon
+A_3334	Peter Beck	1	
+A_3335	Peter Biddle	1	
+A_3336	Peter Bohacek	1	
+A_3337	Peter Calthorpe	1	Urban designer
+A_3338	Peter Diamandis	1	Space activist
+A_3339	Peter Donnelly	1	Mathematician; statistician
+A_3340	Peter Doolittle	1	Educational psychology professor
+A_3341	Peter Eigen	1	"Founder, Transparency International"
+A_3342	Peter Gabriel	1	"Musician, activist"
+A_3343	Peter Haas	1	Building activist
+A_3344	Peter Harris	1	
+A_3345	Peter Hirshberg	1	"Entrepreneur, marketer"
+A_3346	Peter Kirn	1	
+A_3347	Peter Mende-Siedlecki	1	
+A_3348	Peter Molyneux	1	Game changer
+A_3349	Peter Norvig	1	Computer scientist
+A_3350	Peter Ouko	1	
+A_3351	Peter Paccone	1	
+A_3352	Peter Reinhart	1	Baker
+A_3353	Peter Saul	1	"Doctor, intensive care specialist"
+A_3354	Peter Singer	1	"Philosopher, ethicist"
+A_3355	Peter Tyack	1	Behavioral ecologist
+A_3356	Peter van Manen	1	Electronic systems expert
+A_3357	Peter van Uhm	1	General
+A_3358	Peter Ward	1	Paleontologist
+A_3359	Peter Weinstock	1	Pediatric ICU doctor
+A_3360	Petter Johansson	1	
+A_3361	Phil Borges	1	Photographer
+A_3362	Phil Hansen	1	Multimedia artist
+A_3363	Phil Plait	1	Astronomer
+A_3364	Phil Tetlow	1	
+A_3365	Philip A. Chan	1	
+A_3366	Philip Evans	1	Consultant
+A_3367	Philip Freeman	1	
+A_3368	Philip K. Howard	1	Legal activist
+A_3369	Philip Krinks	1	
+A_3370	Philip Lubin	1	
+A_3371	"Philip Renaud , Kenneth Kostel"	2	
+A_3372	Philip Rosedale	1	Entrepreneur
+A_3373	Philip Zimbardo	1	Psychologist
+A_3374	Philipp Gerbert	1	
+A_3375	Philippa Neave	1	Electoral consultant
+A_3376	Philippe Petit	1	High-wire artist
+A_3377	Philippe Starck	1	Designer
+A_3378	Phillip Picardi	1	
+A_3379	Pia Mancini	1	Democracy activist
+A_3380	Pico Iyer	1	Global author
+A_3381	Pierre Barreau	1	
+A_3382	Pierre Thiam	1	Chef
+A_3383	Pilobolus	1	Dance company
+A_3384	Poet Ali	1	
+A_3385	Poppy Crum	1	
+A_3386	"Prajakta Koli , Hannah Stocking"	2	
+A_3387	Pranav Mistry	1	"Director of research, Samsung Research America"
+A_3388	Prateek Singh	1	
+A_3389	Pratik Aghor	1	
+A_3390	Pratik Shah	1	
+A_3391	Prince Royce	1	
+A_3392	Prince William	1	
+A_3393	Priscilla Chomba-Kinywa	1	
+A_3394	Priscilla Pemu	1	
+A_3395	Priti Krishtel	1	
+A_3396	Priya Parker	1	
+A_3397	"Priya Vulchi , Winona Guo"	2	
+A_3398	Priyanka Jain	1	
+A_3399	Prosanta Chakrabarty	1	Ichthyologist
+A_3400	Prumsodun Ok	1	
+A_3401	Puqun Li	1	
+A_3402	Qi Wu ??	1	
+A_3403	Qi Zhang	1	Organist
+A_3404	Qiuqing Tai	1	
+A_3405	"Qudus Onikeku , The QTribe"	2	
+A_3406	Quixotic Fusion	1	Performance ensemble
+A_3407	Quyen Nguyen	1	Surgeon
+A_3408	R. Alan Brooks	1	
+A_3409	R. Luke DuBois	1	"Artist, composer, engineer"
+A_3410	R. Saravanan	1	
+A_3411	R.A. Mashelkar	1	"Scientist, innovator"
+A_3412	Rv©becca Kleinberger	1	
+A_3413	Rabbi Lord Jonathan Sacks	1	Religious leader
+A_3414	Rabiaa El Garani	1	
+A_3415	Rach Ranton	1	
+A_3416	Rachel Armstrong	1	"Applied scientist, innovator"
+A_3417	Rachel Botsman	1	Trust researcher
+A_3418	Rachel Kleinfeld	1	
+A_3419	Rachel Kyte	1	
+A_3420	Rachel Pike	1	Atmospheric chemist
+A_3421	Rachel Sussman	1	"Artist, photographer"
+A_3422	Rachel Wurzman	1	
+A_3423	Rachelle Garniez	1	Musician
+A_3424	Radhika Nagpal	1	 Robotics engineer
+A_3425	Raffaello D'Andrea	1	Autonomous systems pioneer
+A_3426	Raghava KK	1	Artist
+A_3427	Raghuram Rajan	1	
+A_3428	Rahaf Harfoush	1	
+A_3429	Rahul Mehrotra	1	
+A_3430	"Rahwa Ghirmatzion , Zelalem Adefris"	2	
+A_3431	Rainer Strack	1	Human resources expert
+A_3432	Rainn Wilson	1	"Actor, writer"
+A_3433	Raj Jayadev	1	
+A_3434	Raj Panjabi	1	Physician
+A_3435	Rajesh Rao	1	Computational neuroscientist
+A_3436	Rajiv Maheswaran	1	Researcher
+A_3437	Ralitsa Petrova	1	
+A_3438	Ralph Langner	1	Security consultant
+A_3439	Ralph Nader	1	
+A_3440	Ram Neta	1	
+A_3441	Ramanan Laxminarayan	1	Drug-resistance economist
+A_3442	Ramesh Raskar	1	Femto-photographer
+A_3443	Ramon Glazov	1	
+A_3444	Ramona Pierson	1	Education innovator
+A_3445	Ramsey Musallam	1	Educator
+A_3446	Rana Abdelhamid	1	
+A_3447	Rana el Kaliouby	1	Computer scientist
+A_3448	Rana Novack	1	
+A_3449	Randall Hayes	1	
+A_3450	Randall Munroe	1	Cartoonist
+A_3451	Randy Pausch	1	Professor
+A_3452	Rania Bahaa	1	
+A_3453	Ranveer Chandra	1	
+A_3454	Raphael Arar	1	
+A_3455	Raphael Rose	1	
+A_3456	Rashad Robinson	1	
+A_3457	Raspyni Brothers	1	Jugglers
+A_3458	Raul Midon	1	Guitarist
+A_3459	Ravin Agrawal	1	Investor 
+A_3460	Ray Anderson	1	Sustainable-business pioneer
+A_3461	Ray Dalio	1	Hedge fund chair
+A_3462	Ray Kurzweil	1	"Inventor, futurist"
+A_3463	Ray Laurence	1	
+A_3464	Ray Zahab	1	Endurance runner
+A_3465	Raye Zaragoza	1	
+A_3466	Rayma Suprani	1	
+A_3467	Raymond Tang	1	
+A_3468	Raymond Wang	1	Inventor
+A_3469	Read Montague	1	Behavioral Neuroscientist
+A_3470	Rebeca Hwang	1	
+A_3471	Rebecca Brachman	1	"Neuroscientist, writer, entrepreneur"
+A_3472	Rebecca Firth	1	
+A_3473	Rebecca Galemba	1	
+A_3474	Rebecca Henderson	1	
+A_3475	"Rebecca J. Barthelmie , Sara C. Pryor"	2	
+A_3476	Rebecca Knill	1	
+A_3477	Rebecca Love	1	
+A_3478	Rebecca MacKinnon	1	Internet freedom activist
+A_3479	Rebecca Onie	1	Health services innovator
+A_3480	Rebecca Saxe	1	Cognitive neuroscientist
+A_3481	Rebecca Tarvin	1	
+A_3482	Rebekah Bergman	1	
+A_3483	Reed Hastings	1	
+A_3484	Reed Kroloff	1	Architecture critic
+A_3485	Refik Anadol	1	
+A_3486	Reggie Watts	1	"Vocalist, beatboxer, comedian"
+A_3487	Regina Dugan	1	Former director of DARPA
+A_3488	Regina Hartley	1	"Human Resources Manager, UPS"
+A_3489	Rei	1	
+A_3490	Renv©e Hlozek	1	
+A_3491	Renv©e Lertzman	1	
+A_3492	Renata di Tullio	1	
+A_3493	Renata Salecl	1	Theorist
+A_3494	Rene Laufer	1	
+A_3495	Renee Montgomery	1	
+A_3496	Reniqua Allen	1	
+A_3497	Renny Gleeson	1	Skeptimist
+A_3498	Renzo Piano	1	
+A_3499	Renzo Vitale	1	
+A_3500	Reshma Saujani	1	Education activist
+A_3501	Resistance Revival Chorus	1	
+A_3502	Reuben Jonathan Miller	1	
+A_3503	Reuben Margolin	1	Kinetic sculptor
+A_3504	"Rev. William Barber , Rev. Liz Theoharis"	2	
+A_3505	Reynaldo Lopes	1	
+A_3506	"Rha Goddess , Deepa Purushothaman"	2	
+A_3507	Rhiannon Giddens	1	Musician
+A_3508	Ric Elias	1	Entrepreneur
+A_3509	Ricardo Iacub	1	
+A_3510	Ricardo Semler	1	Organizational changemaker
+A_3511	Riccardo Sabatini	1	"Scientist, entrepreneur"
+A_3512	Rich Benjamin	1	Social observer
+A_3513	Rich Lesser	1	
+A_3514	Richv© D. Richardson	1	
+A_3515	Richard Baraniuk	1	Education visionary
+A_3516	Richard Bona	1	
+A_3517	Richard Branson	1	Entrepreneur
+A_3518	Richard Browning	1	"Founder, Gravity"
+A_3519	Richard Coffin	1	
+A_3520	Richard Dawkins	1	Evolutionary biologist
+A_3521	Richard E. Cytowic	1	
+A_3522	Richard Feynman	1	Physicist
+A_3523	Richard J. Berry	1	Mayor of Albuquerque
+A_3524	Richard J. Wood	1	
+A_3525	Richard Ledgett	1	"Deputy director, NSA"
+A_3526	Richard Neville	1	
+A_3527	Richard Preston	1	Writer
+A_3528	Richard Pyle	1	Ichthyologist
+A_3529	Richard Resnick	1	Entrepreneur
+A_3530	Richard Sears	1	Geophysicist
+A_3531	Richard Seymour	1	Designer
+A_3532	Richard St. John	1	"Marketer, success analyst"
+A_3533	Richard Thompson Ford	1	
+A_3534	Richard Turere	1	Inventor
+A_3535	Richard Weller	1	Dermatologist
+A_3536	Richard Wilkinson	1	Public health researcher
+A_3537	Rick Doblin	1	
+A_3538	Rick Falkvinge	1	
+A_3539	Rick Guidotti	1	Photographer
+A_3540	Rick Smolan	1	Photographer
+A_3541	Rick Warren	1	"Pastor, author"
+A_3542	"Riitta Ikonen , Karoline Hjorth"	2	
+A_3543	Risa Wechsler	1	
+A_3544	Rishi Manchanda	1	Physician
+A_3545	Rita Pierson	1	Educator
+A_3546	Rives	1	"Performance poet, multimedia artist"
+A_3547	Rob Cooke	1	
+A_3548	Rob Dunbar	1	"Oceanographer, biogeochemist"
+A_3549	Rob Forbes	1	Designer
+A_3550	Rob Harmon	1	Natural resources expert
+A_3551	Rob Hopkins	1	Resilience leader
+A_3552	Rob Knight	1	Microbial ecologist
+A_3553	Rob Legato	1	Visual Effects Guru
+A_3554	Rob Reid	1	"Author, entrepreneur"
+A_3555	Robb Willer	1	Social psychologist
+A_3556	Robert A. Belle	1	
+A_3557	Robert Ballard	1	Oceanographer
+A_3558	Robert Chang	1	
+A_3559	Robert Fischell	1	Biomedical inventor
+A_3560	Robert Frost	1	
+A_3561	Robert Full	1	Biologist
+A_3562	Robert Gordon	1	Economist
+A_3563	Robert Gupta	1	Violinist
+A_3564	"Robert Gupta , Joshua Roman"	2	
+A_3565	Robert Hakiza	1	
+A_3566	Robert Hammond	1	Friend of the High Line
+A_3567	Robert Lang	1	Origamist
+A_3568	Robert Lustig	1	
+A_3569	Robert Muggah	1	Megacities expert
+A_3570	Robert Neuwirth	1	Author
+A_3571	Robert Palmer	1	"Campaign leader, Global Witness"
+A_3572	Robert Prill	1	
+A_3573	Robert Reffkin	1	
+A_3574	Robert Sapolsky	1	"Neuroscientist, primatologist, writer"
+A_3575	Robert Siddall	1	
+A_3576	Robert Swan	1	Polar explorer
+A_3577	Robert Thurman	1	Buddhist scholar
+A_3578	Robert Waldinger	1	"Psychiatrist, psychoanalyst and Zen priest"
+A_3579	Robert Wright	1	"Journalist, philosopher"
+A_3580	"Roberto D'Angelo , Francesca Fedeli"	2	
+A_3581	Robin Chase	1	Transport networker
+A_3582	Robin Hanson	1	"Futurist, social scientist"
+A_3583	Robin Hauser	1	
+A_3584	Robin Hooker	1	
+A_3585	Robin Ince	1	Comedian
+A_3586	Robin Morgan	1	Poet and activist
+A_3587	Robin Murphy	1	Disaster roboticist
+A_3588	Robin Nagle	1	Trash anthropologist
+A_3589	Robin Steinberg	1	
+A_3590	"Robin Steinberg , Manoush Zomorodi"	2	
+A_3591	Robyn J. Crook	1	
+A_3592	Robyn Stein DeLuca	1	Psychologist
+A_3593	Rocv?o Lorenzo	1	
+A_3594	Rochelle King	1	
+A_3595	Rod Phillips	1	
+A_3596	Rodin Lyasoff	1	
+A_3597	Rodney Brooks	1	Roboticist
+A_3598	Rodney Mullen	1	Skater
+A_3599	Rodrigo Bijou	1	Security researcher 
+A_3600	Rodrigo Canales	1	Business professor
+A_3601	Rodrigo y Gabriela	1	
+A_3602	Roey Tzezana	1	
+A_3603	Roger Antonsen	1	"Logician, mathematician, computer scientist"
+A_3604	Roger Doiron	1	Gardening activist
+A_3605	Roger Ebert	1	Film critic and blogger
+A_3606	Roger Hanlon	1	
+A_3607	Roger McNamee	1	Tech investor
+A_3608	Roger Stein	1	Financial management expert
+A_3609	Rogier van der Heide	1	Lighting designer
+A_3610	Rohan Pavuluri	1	
+A_3611	Rokia Traore	1	Singer-songwriter
+A_3612	Rola Hallam	1	
+A_3613	Rolf Landua	1	
+A_3614	Romain Lacombe	1	
+A_3615	Romaine Seguin	1	
+A_3616	Roman Krznaric	1	
+A_3617	Roman Mars	1	Digital storyteller
+A_3618	Romina Libster	1	Medical researcher
+A_3619	Romulus Whitaker	1	Herpetologist
+A_3620	Ron Eglash	1	Mathematician
+A_3621	Ron Finley	1	Gardener
+A_3622	Ron Gutman	1	Entrepreneur
+A_3623	Ron McCallum	1	Labor lawyer and activist
+A_3624	Ron Shaneyfelt	1	
+A_3625	Ronald Murray	1	
+A_3626	Ronald Rael	1	
+A_3627	Ronald Sullivan	1	Clinical professor of law
+A_3628	Ronny Edry	1	Graphic Designer
+A_3629	Rory Bremner	1	
+A_3630	Rory Stewart	1	Politician
+A_3631	Rory Sutherland	1	Advertising guru
+A_3632	Rosalind G. Brewer	1	
+A_3633	Rosalind Picard	1	
+A_3634	Rosamund Adoo-Kissi-Debrah	1	
+A_3635	Rosario Perazolo Masjoan	1	
+A_3636	Rose Eveleth	1	
+A_3637	Rose George	1	Curious journalist
+A_3638	Rose Goslinga	1	Microinsurer
+A_3639	Rose M. Mutiso	1	
+A_3640	Roselinde Torres	1	Leadership expert
+A_3641	Rosie King	1	Storytelling activist
+A_3642	Ross Lovegrove	1	Industrial designer
+A_3643	"Rowan Fitzpatrick , Heart of Mind"	2	
+A_3644	Roxane Gay	1	Writer
+A_3645	"Roy Bahat , Bryn Freedman"	2	
+A_3646	"Roy Gould , Curtis Wong"	2	
+A_3647	Roz Savage	1	Ocean rower
+A_3648	Ruby Sales	1	
+A_3649	Ruby Wax	1	Comedian and Mental Health Activist
+A_3650	Ruchi Shah	1	
+A_3651	Ruchi Sinha	1	
+A_3652	"Rufus Griscom , Alisa Volkman"	2	
+A_3653	Rufus Wainwright	1	
+A_3654	Rumaitha Al Busaidi	1	
+A_3655	Rupal Patel	1	Speech scientist
+A_3656	Rusha Modi	1	
+A_3657	Russ Altman	1	Big data techno-­optimist and internist
+A_3658	Russell Foster	1	Circadian neuroscientist
+A_3659	Russell Wilson	1	
+A_3660	Rutger Bregman	1	Historian
+A_3661	Ruth Chang	1	Philosopher
+A_3662	Ryan Gravel	1	"Urban planner, designer, author"
+A_3663	Ryan Holladay	1	
+A_3664	Ryan Lobo	1	Photographer
+A_3665	Ryan Martin	1	
+A_3666	Ryan Merkley	1	"COO, Mozilla Foundation"
+A_3667	Ryan Pfluger	1	
+A_3668	Ryan Phelan	1	
+A_3669	So Percussion	1	Percussion ensemble
+A_3670	Sabine Doebel	1	
+A_3671	Sadasivan Shankar	1	
+A_3672	Safeena Husain	1	
+A_3673	Safia Elhillo	1	
+A_3674	Safwat Saleem	1	"Artist, graphic designer, filmmaker"
+A_3675	Sahaj Kaur Kohli	1	
+A_3676	Sahil Sethi	1	
+A_3677	Sajan Saini	1	
+A_3678	Sajay Samuel	1	Educator
+A_3679	Sakena Yacoobi	1	Education activist
+A_3680	Saki Mafundikwa	1	Graphic designer
+A_3681	Sakinah Hofler	1	
+A_3682	Sal Khan	1	Educator and social entrepreneur
+A_3683	Salil Dudani	1	Legal activist
+A_3684	Sally Kohn	1	Political pundit
+A_3685	Salvatore Iaconesi	1	Open-source engineer and artist
+A_3686	Sam Berns	1	
+A_3687	Sam Harris	1	"Neuroscientist, philosopher"
+A_3688	Sam Hester	1	
+A_3689	Sam Kass	1	Food entrepreneur
+A_3690	Sam Kean	1	
+A_3691	Sam Martin	1	Writer
+A_3692	Sam Richards	1	Sociologist
+A_3693	Sam Rodriques	1	
+A_3694	Sam Van Aken	1	
+A_3695	Samantha Agoos	1	
+A_3696	Samantha Nutt	1	"Doctor, writer and humanitarian"
+A_3697	Samantha Power	1	Political scientist and journalist
+A_3698	Samuel Cohen	1	Research scientist
+A_3699	Samy Nour Younes	1	
+A_3700	Sana Amanat	1	
+A_3701	Sandeep Jauhar	1	
+A_3702	Sandi Toksvig	1	"Broadcast personality, politician, author"
+A_3703	Sandra Aamodt	1	Neuroscientist and science writer
+A_3704	Sandra Fisher-Martins	1	"Translator, plain language activist"
+A_3705	Sandra Rey	1	
+A_3706	Sandrine Dixson-Decleve	1	
+A_3707	Sandrine Thuret	1	Neural stem cell researcher
+A_3708	Sanford Biggers	1	Conceptual artist
+A_3709	Sangeeta Bhatia	1	"Physician, bioengineer and entrepreneur "
+A_3710	Sangu Delle	1	Entrepreneur
+A_3711	Sanjay Dastoor	1	Roboticist
+A_3712	Sanjay Pradhan	1	Development Leader
+A_3713	Sara C. Mednick	1	
+A_3714	Sara DeWitt	1	
+A_3715	Sara Garofalo	1	
+A_3716	Sara Jones	1	
+A_3717	Sara Lewis	1	Firefly specialist
+A_3718	Sara Menker	1	
+A_3719	Sara Ramirez	1	"Singer, songwriter, actress"
+A_3720	Sara Sanford	1	
+A_3721	Sara Seager	1	Exoplanet expert
+A_3722	Sara Valencia Botto	1	
+A_3723	Sara-Jane Dunn	1	
+A_3724	Sarah Barmak	1	
+A_3725	Sarah Bergbreiter	1	Microroboticist
+A_3726	Sarah Brosnan	1	
+A_3727	Sarah Cairns-Smith	1	
+A_3728	Sarah Corbett	1	
+A_3729	Sarah Donnelly	1	
+A_3730	Sarah Dudas	1	
+A_3731	Sarah E. Tracy	1	
+A_3732	"Sarah Ellis , Helen Tupper"	2	
+A_3733	Sarah Gray	1	Researchers' dream donator
+A_3734	Sarah Jones	1	Polymorphic playwright
+A_3735	Sarah Kaminsky	1	Actor and writer
+A_3736	Sarah Kay	1	Poet
+A_3737	Sarah Kessans	1	
+A_3738	Sarah Klein	1	
+A_3739	Sarah Kurnick	1	
+A_3740	Sarah Lewis	1	Writer
+A_3741	Sarah Montana	1	
+A_3742	Sarah Murray	1	
+A_3743	Sarah Parcak	1	Satellite archaeologist + TED Prize winner
+A_3744	Sarah Rugheimer	1	
+A_3745	Sarah Sze	1	
+A_3746	Sarah T. Stewart	1	
+A_3747	Sarah Willersdorf	1	
+A_3748	Sarah-Jayne Blakemore	1	Cognitive Neuroscientist
+A_3749	Sarthak Sinha	1	
+A_3750	Sarvesh Subramanian	1	
+A_3751	Sasa Vucinic	1	Nonprofit venture capitalist
+A_3752	Sascha Morrell	1	
+A_3753	Sasha Dichter	1	Nonprofit VC
+A_3754	Sasha Sarago	1	
+A_3755	Saul Griffith	1	Inventor
+A_3756	Sauti Sol	1	
+A_3757	Sayu Bhojwani	1	Immigration scholar
+A_3758	Schuyler Bailar	1	
+A_3759	Scilla Elworthy	1	Peace builder
+A_3760	Scott A. Mellor	1	
+A_3761	Scott Dinsmore	1	"Writer, traveler"
+A_3762	Scott Fraser	1	"Forensic psychologist, expert witness"
+A_3763	Scott Galloway	1	
+A_3764	Scott Gass	1	
+A_3765	Scott Kim	1	Puzzlemaster
+A_3766	Scott McCloud	1	Cartoonist
+A_3767	Scott Nguyen	1	
+A_3768	Scott Peeples	1	
+A_3769	Scott Rickard	1	Mathematician
+A_3770	Scott Summit	1	Industrial Designer
+A_3771	Scott Szwast	1	
+A_3772	Scott Williams	1	
+A_3773	Sean Carroll	1	"Physicist, cosmologist"
+A_3774	Sean Davis	1	
+A_3775	Sean Follmer	1	Human-computer interaction researcher and designer
+A_3776	Sean Gourley	1	Physicist and military theorist
+A_3777	Sean Sherman	1	
+A_3778	Sebastiv°n Bortnik	1	
+A_3779	Sebastiv£o Salgado	1	
+A_3780	Sebastian Deterding	1	Designer
+A_3781	Sebastian Guo	1	
+A_3782	Sebastian Junger	1	Journalist and documentarian
+A_3783	Sebastian Kraves	1	Biotech entrepreneur
+A_3784	Sebastian Seung	1	Computational neuroscientist
+A_3785	Sebastian Thrun	1	Engineer
+A_3786	"Sebastian Thrun , Chris Anderson"	2	
+A_3787	Sebastian Wernicke	1	Data scientist
+A_3788	Sebastien de Halleux	1	
+A_3789	Seema Bansal	1	Education innovator
+A_3790	Seena Mathew	1	
+A_3791	Sendhil Mullainathan	1	Behavioral economist
+A_3792	"Serena Williams , Gayle King"	2	
+A_3793	Sergei Lupashin	1	Aerial robotics researcher
+A_3794	Sergey Brin	1	"Computer scientist, entrepreneur and philanthropist"
+A_3795	"Sergey Brin , Larry Page"	2	
+A_3796	Sergio Feferovich	1	
+A_3797	Seth Berkley	1	Vaccine visionary
+A_3798	Seth Darling	1	
+A_3799	Seth Godin	1	Marketer and author
+A_3800	Seth Priebatsch	1	Entrepreneur
+A_3801	Seth Shostak	1	Astronomer
+A_3802	Sethembile Msezane	1	Artist
+A_3803	Severine Autesserre	1	Peace and conflict researcher
+A_3804	Severn Cullis-Suzuki	1	
+A_3805	Seyi Oyesola	1	Doctor
+A_3806	Shabana Basij-Rasikh	1	Educator
+A_3807	Shad Begum	1	
+A_3808	"Shadv© Zahrai , Aric Yegudkin"	2	
+A_3809	Shaffi Mather	1	"Social entrepreneur, lawyer"
+A_3810	Shah Rukh Khan	1	"Actor, producer, activist"
+A_3811	Shai Agassi	1	Green auto pioneer
+A_3812	Shai Marcu	1	
+A_3813	Shai Reshef	1	Education entrepreneur
+A_3814	Shaka Senghor	1	Author
+A_3815	Shalini Unnikrishnan	1	
+A_3816	Shameem Akhtar	1	
+A_3817	Shameran Abed	1	
+A_3818	Shane Griffin	1	
+A_3819	Shane Koyczan	1	Poet
+A_3820	Shane Wickes	1	
+A_3821	Shannon Lee	1	
+A_3822	Shantell Martin	1	
+A_3823	ShaoLan	1	"Technologist, entrepreneur"
+A_3824	Shari Davis	1	
+A_3825	Sharmeen Obaid-Chinoy	1	Filmmaker
+A_3826	Sharon Brous	1	Rabbi
+A_3827	Sharon Horesh Bergquist	1	
+A_3828	Sharon Terry	1	Citizen biomedical researcher
+A_3829	Sharon Weinberger	1	
+A_3830	Shashi Tharoor	1	Politician and writer
+A_3831	Shawn Achor	1	Psychologist
+A_3832	Shawn Martinbrough	1	
+A_3833	Shawnee	1	
+A_3834	Shaylin Schundler	1	
+A_3835	Shea Hembrey	1	Artist and curator
+A_3836	Sheena Iyengar	1	Psycho-economist
+A_3837	Sheikha Al Mayassa	1	"Founder, Doha Film Institute"
+A_3838	Sheila Marie Orfano	1	
+A_3839	"Sheila Marie Orfano , Densho"	2	
+A_3840	Sheila Nirenberg	1	Neuroscientist
+A_3841	Sheila Patek	1	"Biologist, biomechanics researcher"
+A_3842	Shekhar Kapur	1	Director and writer
+A_3843	Shekinah Elmore	1	
+A_3844	"Sheku Kanneh-Mason , Isata Kanneh-Mason"	2	
+A_3845	Shelley Shott	1	
+A_3846	Sheperd Doeleman	1	
+A_3847	Shereen El Feki	1	Arab sexuality expert
+A_3848	Sherry Turkle	1	Cultural analyst
+A_3849	Sherwin Nuland	1	Doctor
+A_3850	Sheryl Sandberg	1	"COO, Facebook"
+A_3851	Sheryl WuDunn	1	"Author, journalist"
+A_3852	Shigeru Ban	1	Architect
+A_3853	Shih Chieh Huang	1	Artist
+A_3854	Shilo Shiv Suleman	1	Artist
+A_3855	Shilpa Ravella	1	
+A_3856	Shimon Schocken	1	"Computer Scientist, Educator"
+A_3857	Shimon Steinberg	1	Entomologist
+A_3858	Shimpei Takahashi	1	Toy designer
+A_3859	Shirin Neshat	1	Iranian visual artist
+A_3860	Shivani Siroya	1	Mobile finance entrepreneur
+A_3861	Shlomo Benartzi	1	Economist
+A_3862	Shoel Perelman	1	
+A_3863	Shohini Ghose	1	
+A_3864	Shonda Rhimes	1	Writer and producer
+A_3865	"Shonda Rhimes , Cyndi Stivers"	2	
+A_3866	Shrabani Basu	1	
+A_3867	Shravan S K	1	
+A_3868	Shu Matsuo Post	1	
+A_3869	Shubhendu Sharma	1	Eco-entrepreneur
+A_3870	Shukla Bose	1	Education activist
+A_3871	Shunan Teng	1	
+A_3872	Shweta Narayan	1	
+A_3873	Shyam Sankar	1	Data Intelligence Agent
+A_3874	Siamak Hariri	1	Architect
+A_3875	Sian Leah Beilock	1	
+A_3876	Siawn Ou	1	
+A_3877	Siddhartha Mukherjee	1	Cancer physician and writer
+A_3878	Siddhartha Roy	1	Environmental engineer
+A_3879	Siddharthan Chandran	1	Regenerative neurologist
+A_3880	Siegfried Woldhek	1	Illustrator
+A_3881	Sierra Hull	1	
+A_3882	Sigrid	1	
+A_3883	Silk Road Ensemble	1	
+A_3884	"Silk Road Ensemble , Rhiannon Giddens"	2	
+A_3885	Silvia Moreno-Garcv?a	1	
+A_3886	Simon Anholt	1	Policy advisor
+A_3887	Simon Berrow	1	Marine biologist
+A_3888	Simon Lewis	1	"Author, producer"
+A_3889	Simon Sinek	1	Leadership expert
+A_3890	Simona Abdallah	1	
+A_3891	Simona Francese	1	
+A_3892	"Simone Bianco , Tom Zimmerman"	2	
+A_3893	Simone Giertz	1	
+A_3894	Sinv©ad Burke	1	
+A_3895	Sinan Aral	1	
+A_3896	Sir Ken Robinson	1	
+A_3897	Sirena Huang	1	Violinist
+A_3898	Sisonke Msimang	1	"Writer, activist"
+A_3899	Sister True Dedication	1	
+A_3900	Sitawa Wafula	1	Mental health advocate
+A_3901	Sivamani	1	Percussionist
+A_3902	Siyanda Mohutsiwa	1	Writer
+A_3903	Skye C. Cleary	1	
+A_3904	Skylar Tibbits	1	Inventor
+A_3905	Sleepy Man Banjo Boys	1	Bluegrass musicians
+A_3906	Smruti Jukur Johari	1	
+A_3907	Sofi Tukker	1	
+A_3908	Sofia Jawed-Wessel	1	Sex researcher
+A_3909	Soka Moses	1	
+A_3910	Solomon Goldstein-Rose	1	
+A_3911	Sonaar Luthra	1	
+A_3912	Sonia Livingstone	1	
+A_3913	Sonia Shah	1	Science writer
+A_3914	Sophal Ear	1	Development economist
+A_3915	Sophia Kianni	1	
+A_3916	Sophia Wallace	1	
+A_3917	Sophie Andrews	1	
+A_3918	Sophie Howe	1	
+A_3919	Sophie Hunger	1	Singer
+A_3920	Sophie Rose	1	
+A_3921	Sophie Scott	1	"Neuroscientist, stand-up comic"
+A_3922	Sophie Williams	1	
+A_3923	Sophie Zadeh	1	
+A_3924	Soraya Chemaly	1	
+A_3925	Soraya Field Fiorio	1	
+A_3926	Sougwen Chung	1	
+A_3927	Soyapi Mumba	1	
+A_3928	Srdja Popovic	1	Organizer
+A_3929	Srikumar Rao	1	Happiness teacher
+A_3930	Stacey Abrams	1	
+A_3931	Stacey Kramer	1	Brand strategist
+A_3932	Stacie Bosley	1	
+A_3933	Stacy Smith	1	Media researcher
+A_3934	Stan Lee	1	
+A_3935	Stanley McChrystal	1	Military leader
+A_3936	Stefaan Verhulst	1	
+A_3937	Stefan Al	1	
+A_3938	Stefan C. Dombrowski	1	
+A_3939	Stefan Gross-Selbeck	1	
+A_3940	Stefan Larsson	1	Value-based health care advocate
+A_3941	Stefan Sagmeister	1	Graphic designer
+A_3942	Stefan Wolff	1	Ethnic conflicts scholar
+A_3943	Stefana Broadbent	1	Tech anthropologist
+A_3944	Stefano Mancuso	1	Plant neurobiologist
+A_3945	Stefen Chow	1	
+A_3946	Stefon Harris	1	Jazz vibraphonist
+A_3947	Stella Young	1	"Comedian, journalist, activist"
+A_3948	Stephanie Braccini Slade	1	
+A_3949	Stephanie Busari	1	Journalist
+A_3950	Stephanie Kelton	1	
+A_3951	Stephanie Sardelis	1	
+A_3952	Stephanie Warren	1	
+A_3953	Stephen Bax	1	
+A_3954	Stephen Burt	1	Poetry critic
+A_3955	Stephen Cave	1	Philosopher
+A_3956	Stephen Coleman	1	Ethicist
+A_3957	Stephen DeBerry	1	
+A_3958	Stephen Doyle	1	
+A_3959	Stephen Friend	1	Open-science advocate
+A_3960	Stephen Hawking	1	Theoretical physicist
+A_3961	Stephen Lawler	1	General manager of Microsoft's Virtual Earth
+A_3962	Stephen Lawrence	1	
+A_3963	Stephen Palumbi	1	Marine biologist
+A_3964	Stephen Petranek	1	Technology forecaster 
+A_3965	Stephen Ritz	1	Teacher
+A_3966	Stephen Trzeciak	1	
+A_3967	Stephen Webb	1	
+A_3968	Stephen Wilkes	1	Narrative photographer
+A_3969	Stephen Wolfram	1	"Scientist, inventor"
+A_3970	Steve Boyes	1	
+A_3971	Steve Brown	1	
+A_3972	Steve Howard	1	Corporate innovator
+A_3973	Steve Jobs	1	Visionary
+A_3974	Steve Jurvetson	1	Venture capitalist
+A_3975	Steve Keil	1	Entrepreneur
+A_3976	Steve McCarroll	1	
+A_3977	"Steve Ramirez , Xu Liu"	2	
+A_3978	Steve Rothstein	1	
+A_3979	Steve Silberman	1	Writer and editor
+A_3980	Steve Simpson	1	
+A_3981	Steve Truglia	1	Stuntman
+A_3982	Steven Addis	1	Brand strategist
+A_3983	Steven Allison	1	
+A_3984	Steven Anderson	1	
+A_3985	Steven Cowley	1	
+A_3986	Steven Johnson	1	Writer
+A_3987	Steven Levitt	1	Economist
+A_3988	Steven Petrow	1	
+A_3989	Steven Pinker	1	Psychologist
+A_3990	"Steven Pinker , Rebecca Newberger Goldstein"	2	
+A_3991	Steven Schwaitzberg	1	Surgeon and technologist
+A_3992	Steven Sharp Nelson	1	
+A_3993	Steven Strogatz	1	Mathematician
+A_3994	Steven Wise	1	Animal rights lawyer
+A_3995	Steven Zheng	1	
+A_3996	Stew	1	Singer/songwriter
+A_3997	Stewart Brand	1	"Environmentalist, futurist"
+A_3998	"Stewart Brand , Chris Anderson"	2	
+A_3999	"Stewart Brand , Mark Z. Jacobson"	2	
+A_4000	Sting	1	"Composer, singer, author, actor, activist"
+A_4001	Stuart Brown	1	"Play researcher, psychiatrist"
+A_4002	Stuart Duncan	1	
+A_4003	Stuart Firestein	1	Neuroscientist
+A_4004	Stuart Oda	1	
+A_4005	Stuart Russell	1	AI expert
+A_4006	Su Kahumbu	1	
+A_4007	Su Santidad el Papa Francisco	1	
+A_4008	Suchitra Krishnan-Sarin	1	
+A_4009	Sue Austin	1	Performance artist
+A_4010	Sue Desmond-Hellmann	1	"CEO, Gates Foundation"
+A_4011	Sue Jaye Johnson	1	
+A_4012	Sue Klebold	1	Activist
+A_4013	Sugata Mitra	1	Education researcher
+A_4014	Suheir Hammad	1	"Poet, playwright"
+A_4015	Suki Kim	1	Writer
+A_4016	Suleika Jaouad	1	
+A_4017	Sunil Prashara	1	
+A_4018	Sunitha Krishnan	1	Anti-trafficking crusader
+A_4019	Sunni Brown	1	Visualizer and gamestorming
+A_4020	Sunni Patterson	1	
+A_4021	Supasorn Suwajanakorn	1	
+A_4022	Susan Blackmore	1	Memeticist
+A_4023	Susan Cain	1	Quiet revolutionary
+A_4024	Susan Colantuono	1	Leadership expert
+A_4025	Susan David	1	
+A_4026	Susan Emmett	1	
+A_4027	Susan Etlinger	1	Data analyst
+A_4028	Susan Graham	1	
+A_4029	Susan Lim	1	Surgeon
+A_4030	Susan Lupack	1	
+A_4031	Susan M. Reverby	1	
+A_4032	Susan Pinker	1	Developmental psychologist
+A_4033	Susan Robinson	1	"Business executive, entrepreneur"
+A_4034	Susan Ruffo	1	
+A_4035	Susan Savage-Rumbaugh	1	Primate authority
+A_4036	Susan Shaw	1	Marine toxicologist
+A_4037	Susan Solomon	1	Stem cell research advocate
+A_4038	Susannah Temko	1	
+A_4039	Suzana Herculano-Houzel	1	Neuroscientist
+A_4040	Suzanne Barakat	1	Physician
+A_4041	Suzanne Case	1	
+A_4042	Suzanne Duncan	1	
+A_4043	Suzanne Lee	1	Designer
+A_4044	Suzanne Simard	1	Forest ecologist
+A_4045	Suzanne Talhouk	1	Poet and language advocate
+A_4046	Suzie Sheehy	1	
+A_4047	Svante Pv§v§bo	1	
+A_4048	Sviatlana Tsikhanouskaya	1	
+A_4049	Swizz Beatz	1	
+A_4050	"Sxip Shirey , Rachelle Garniez"	2	
+A_4051	Sydney Chaffee	1	
+A_4052	Sydney Iaukea	1	
+A_4053	Sydney Jensen	1	
+A_4054	Sylvain Duranton	1	
+A_4055	Sylvia Earle	1	Oceanographer
+A_4056	T. Boone Pickens	1	Entrepreneur and energy theorist
+A_4057	"T. Morgan Dixon , Vanessa Garrison"	2	
+A_4058	Tabetha Boyajian	1	Astronomer
+A_4059	Tai Simpson	1	
+A_4060	Taika Waititi	1	
+A_4061	Taiye Selasi	1	Author
+A_4062	Takaharu Tezuka	1	Architect
+A_4063	Taken for Granted	1	
+A_4064	Takis S. Pappas	1	
+A_4065	Tal Danino	1	Synthetic biologist
+A_4066	Tal Golesworthy	1	Engineer and artist
+A_4067	Tal Zaks	1	
+A_4068	Tali Sharot	1	Cognitive neuroscientist
+A_4069	Talithia Williams	1	Statistician
+A_4070	Tamas Kocsis	1	
+A_4071	Tamekia MizLadi Smith	1	
+A_4072	Tammy Lally	1	
+A_4073	Tan Le	1	Entrepreneur
+A_4074	Taneka Jones	1	
+A_4075	Tania Douglas	1	
+A_4076	Tania Luna	1	Surprisologist
+A_4077	Tania Simoncelli	1	Policy expert
+A_4078	Tanmay Bakshi	1	
+A_4079	Tanya Berger-Wolf	1	
+A_4080	Tanya Boucicaut	1	
+A_4081	Tanya Khovanova	1	
+A_4082	Tanya Menon	1	
+A_4083	Tapiwa Chiwewe	1	
+A_4084	Tara Djokic	1	
+A_4085	Tara Houska	1	
+A_4086	Tara Winkler	1	" Child protection leader, activist, author "
+A_4087	Tarana Burke	1	
+A_4088	Taryn Simon	1	Photographer
+A_4089	Tasha Eurich	1	
+A_4090	"Tashka , Laura Yawanawa"	2	
+A_4091	Tasos Frantzolas	1	Entrepreneur
+A_4092	Tasso Azevedo	1	Forester and sustainability activist
+A_4093	Tavi Gevinson	1	Blogger and fashion icon
+A_4094	Tawanda Kanhema	1	
+A_4095	Taylor Mali	1	Slam poet
+A_4096	Taylor Wilson	1	Nuclear scientist
+A_4097	Tea Uglow	1	Designer
+A_4098	TED	1	
+A_4099	TED Audio Collective	1	
+A_4100	TED Business	1	
+A_4101	Ted Dintersmith	1	
+A_4102	Ted Halstead	1	"Policy entrepreneur, climate expert, author"
+A_4103	TED Radio Hour	1	
+A_4104	TED staff	1	Amateur musicians
+A_4105	TED-Ed	1	
+A_4106	Teddy Cruz	1	Architect and urbanist
+A_4107	TEDx SHORTS	1	
+A_4108	Teitur	1	Singer-songwriter
+A_4109	Temple Grandin	1	"Livestock handling designer, autism activist"
+A_4110	Teresa Bejan	1	
+A_4111	Teresa Njoroge	1	
+A_4112	Terisa Folaron	1	
+A_4113	Terri Conley	1	
+A_4114	Terry Moore	1	Thinker
+A_4115	Thandiswa Mazwai	1	
+A_4116	Thandiwe Newton	1	
+A_4117	Thasunda Duckett	1	
+A_4118	The Bloom Twins	1	
+A_4119	The Ferocious Few	1	
+A_4120	The Hartford	1	
+A_4121	The Holladay Brothers	1	
+A_4122	The Lady Lifers	1	Inmates
+A_4123	The LXD	1	Dance adventurers
+A_4124	The Nature Conservancy	1	
+A_4125	The Soul Rebels	1	
+A_4126	The TED Interview	1	
+A_4127	Thea Holcomb	1	
+A_4128	Thea Knight	1	
+A_4129	Theaster Gates	1	"Artist, potter, community builder"
+A_4130	Thelma Golden	1	Curator
+A_4131	Theo E.J. Wilson	1	Public intellectual
+A_4132	Theo Jansen	1	Artist
+A_4133	Theresa A. Yugar	1	
+A_4134	They Might Be Giants	1	Band
+A_4135	Thom Mayne	1	Architect
+A_4136	Thomas Abt	1	
+A_4137	Thomas Barnett	1	Military strategist
+A_4138	Thomas Boothby	1	
+A_4139	Thomas Crowther	1	
+A_4140	Thomas Curran	1	
+A_4141	Thomas Dolby	1	Electronic music pioneer
+A_4142	Thomas Goetz	1	Healthcare communicator
+A_4143	Thomas Heatherwick	1	Designer
+A_4144	Thomas Hellum	1	Slow television advocate
+A_4145	Thomas Insel	1	Neuroscientist and psychiatrist
+A_4146	Thomas L. Dawson	1	
+A_4147	Thomas Lloyd	1	
+A_4148	Thomas Madrecki	1	
+A_4149	Thomas P. Campbell	1	Museum director
+A_4150	Thomas Peschak	1	Conservation photographer
+A_4151	Thomas Piketty	1	Economist
+A_4152	Thomas Pogge	1	Philosopher
+A_4153	Thomas Suarez	1	"Developer, 12 year old"
+A_4154	Thomas Thwaites	1	Designer
+A_4155	Thomas W. Cronin	1	
+A_4156	"Thordis Elva , Tom Stranger"	2	
+A_4157	Thulasiraj Ravilla	1	Vision activist
+A_4158	Tiana Epps-Johnson	1	
+A_4159	Tierney Thys	1	Marine biologist
+A_4160	"Tierney Thys , Plankton Chronicles Project"	2	
+A_4161	"Tiffany Kagure Mugo , Siphumeze Khundayi"	2	
+A_4162	Tiffany Watt Smith	1	
+A_4163	Tilak Mandadi	1	
+A_4164	Tim Adams	1	
+A_4165	Tim Berners-Lee	1	Inventor
+A_4166	Tim Birkhead	1	Ornithologist
+A_4167	Tim Brown	1	Designer
+A_4168	Tim Dunn	1	
+A_4169	Tim Exile	1	
+A_4170	Tim Ferriss	1	"Investor, human guinea pig, author"
+A_4171	Tim Flannery	1	
+A_4172	Tim Hansen	1	
+A_4173	Tim Harford	1	"Economist, journalist and broadcaster"
+A_4174	Tim Jackson	1	Economist
+A_4175	Tim Kruger	1	
+A_4176	Tim Leberecht	1	Business romantic
+A_4177	Tim Nevius	1	
+A_4178	Tim Seibles	1	
+A_4179	Tim Smith	1	
+A_4180	Tim Urban	1	Blogger
+A_4181	Timothy Bartik	1	Economist
+A_4182	Timothy Graf	1	
+A_4183	Timothy Ihrig	1	Palliative care physician
+A_4184	Timothy Prestero	1	Designer
+A_4185	Tina Arrowood	1	
+A_4186	Tina Seelig	1	
+A_4187	"Tiq Milan , Kim Katrin Milan"	2	
+A_4188	Tito Deler	1	
+A_4189	Titus Kaphar	1	Artist
+A_4190	tobacco brown	1	
+A_4191	Toby Eccles	1	Social investment visionary
+A_4192	Toby Kiers	1	
+A_4193	Toby Shapshak	1	Technology writer
+A_4194	"Tod Machover , Dan Ellsey"	2	
+A_4195	Todd Coleman	1	Bioelectronics innovator?
+A_4196	Todd Dufresne	1	
+A_4197	Todd Gershkowitz	1	
+A_4198	Todd Humphreys	1	Assistant Professor
+A_4199	Todd Kuiken	1	Biomedical engineer
+A_4200	Todd Scott	1	First aid instructor
+A_4201	Tom Chatfield	1	Gaming theorist
+A_4202	Tom Griffiths	1	
+A_4203	Tom Gruber	1	AI product designer
+A_4204	Tom Honey	1	Priest
+A_4205	Tom Hulme	1	"Designer, venturer"
+A_4206	Tom Nash	1	
+A_4207	Tom Osborn	1	
+A_4208	Tom Rielly	1	Satirist
+A_4209	Tom Rivett-Carnac	1	
+A_4210	Tom Schuler	1	
+A_4211	Tom Shannon	1	Sculptor
+A_4212	"Tom Shannon , John Hockenberry"	2	
+A_4213	Tom Teves	1	
+A_4214	Tom Thum	1	Beatboxer
+A_4215	"Tom Thum , Matthew Broadhurst"	2	
+A_4216	Tom Whyntie	1	
+A_4217	Tom Wujec	1	Designer
+A_4218	Tomv°s Chor	1	
+A_4219	TomaÃÅs Saraceno	1	
+A_4220	Tomas Elemans	1	
+A_4221	Tomer Garzberg	1	
+A_4222	Tommy McCall	1	
+A_4223	Toni Griffin	1	Place maker
+A_4224	Tony Buffington	1	
+A_4225	Tony Fadell	1	Product creator
+A_4226	Tony Luciani	1	
+A_4227	Tony Porter	1	"Author, educator, activist"
+A_4228	Tony Salvador	1	
+A_4229	Tony Wyss-Coray	1	Brain scientist
+A_4230	Topher White	1	Conservation technologist
+A_4231	Torsten Reil	1	Animating neurobiologist
+A_4232	Touria El Glaoui	1	
+A_4233	Tracee Ellis Ross	1	
+A_4234	Tracey McNamara	1	
+A_4235	Tracie Keesee	1	
+A_4236	Tracy Chevalier	1	Author
+A_4237	Tracy Edwards	1	
+A_4238	Tracy Young	1	
+A_4239	Travis Kalanick	1	Entrepreneur
+A_4240	Travis Rieder	1	
+A_4241	Trebor Scholz	1	
+A_4242	Trevor Aaronson	1	Journalist
+A_4243	"Trevor Copp , Jeff Fox"	2	
+A_4244	Trevor Maber	1	
+A_4245	Trevor Timm	1	"Writer, activist and legal analyst?"
+A_4246	Tricia Wang	1	Technology ethnographer
+A_4247	Triona McGrath	1	Chemical oceanographer
+A_4248	Tristan Harris	1	Design thinker
+A_4249	Tristram Stuart	1	Author and Activist
+A_4250	Tristram Wyatt	1	Zoologist
+A_4251	Trita Parsi	1	Political scientist
+A_4252	Truls Nord	1	
+A_4253	Tshering Tobgay	1	Prime Minister of Bhutan
+A_4254	Tucker Hiatt	1	
+A_4255	Tyler Cowen	1	Economist
+A_4256	Tyler DeWitt	1	Science enthusiast
+A_4257	Tyrone Davis Jr.	1	
+A_4258	"Tyrone Hayes , Penelope Jagessar Chaffer"	2	
+A_4259	Tzeporah Berman	1	
+A_4260	Ueli Gegenschatz	1	Aerialist
+A_4261	"Uƒüur ˜ûahin , vñzlem Tvºreci"	2	
+A_4262	Uldus Bakhtiozina	1	photographer + visual artist
+A_4263	Uma Adwani	1	
+A_4264	Uri Alon	1	Systems biologist
+A_4265	Uri Hasson	1	Neuroscientist
+A_4266	Ursula von der Leyen	1	
+A_4267	Ursus Wehrli	1	Comedian
+A_4268	"Usman Riaz , Preston Reed"	2	
+A_4269	Vv?ctor Demarv?a Pesce	1	
+A_4270	Valarie Kaur	1	
+A_4271	Valentin Hammoudi	1	
+A_4272	Valerie June	1	
+A_4273	Valerie Purdie-Greenaway	1	
+A_4274	Valorie Kondos Field	1	
+A_4275	Van Jones	1	Social justice and green energy activist
+A_4276	Vance Kite	1	
+A_4277	Vanessa Ruiz	1	Anatomical artist
+A_4278	Varun Sivaram	1	
+A_4279	Veerle Provoost	1	Bioethicist
+A_4280	Venus Keus	1	
+A_4281	VernƒÅ Myers	1	
+A_4282	Veronica Barassi	1	
+A_4283	Vicki Arroyo	1	Environmental policy influencer
+A_4284	Victor Rios	1	"Educator, author"
+A_4285	Victor Vescovo	1	
+A_4286	Victoria Gill	1	
+A_4287	Victoria Pratt	1	
+A_4288	Vijay Kumar	1	Roboticist
+A_4289	Vik Muniz	1	Artist
+A_4290	Vikas Jaitely	1	
+A_4291	Vikram Bhalla	1	
+A_4292	Vikram Patel	1	Mental health care advocate
+A_4293	Vikram Sharma	1	
+A_4294	Viktor Frankl	1	"Psychiatrist, neurologist, author"
+A_4295	Vilayanur Ramachandran	1	Brain expert
+A_4296	Villy Wang	1	
+A_4297	Vinay Shandal	1	
+A_4298	Vinay Venkatraman	1	Designer
+A_4299	Vincent Cochetel	1	Humanitarian
+A_4300	"Vincent Moon , Nana Vasconcelos"	2	
+A_4301	Vinith Misra	1	
+A_4302	Viola Llewellyn	1	
+A_4303	Virginia Postrel	1	Journalist
+A_4304	Virginia Smith	1	
+A_4305	Virginia Wotring	1	
+A_4306	Vishaan Chakrabarti	1	
+A_4307	Vishal Sikka	1	
+A_4308	Vishal Vaid	1	Musician
+A_4309	Vittorio Loreto	1	
+A_4310	Vivek Maru	1	
+A_4311	Viviana Alvarez	1	
+A_4312	VS Ramachandran	1	Brain expert
+A_4313	Vusi Mahlasela	1	"Musician, activist"
+A_4314	W. Keith Campbell	1	
+A_4315	Wadah Khanfar	1	Journalist
+A_4316	Wade Davis	1	"Anthropologist, ethnobotanist"
+A_4317	Wael Ghonim	1	Internet activist and computer engineer
+A_4318	Wajahat Ali	1	
+A_4319	Wajdi Mohamed Ratemi	1	
+A_4320	Wale Oyejide	1	
+A_4321	Wale Elegbede	1	
+A_4322	Walter Hood	1	
+A_4323	Walter R. Tschinkel	1	
+A_4324	Wanda Diaz Merced	1	Sonic astrophysicist
+A_4325	Wanda Irving	1	
+A_4326	Wanis Kabbaj	1	Transportation geek
+A_4327	Wanjira Mathai	1	
+A_4328	Wanuri Kahiu	1	"Filmmaker, writer"
+A_4329	Warren Valdmanis	1	
+A_4330	Washington Wachira	1	
+A_4331	Wayne McGregor	1	Dancer and Choreographer
+A_4332	Wendell Pierce	1	
+A_4333	Wendy Chung	1	Geneticist
+A_4334	Wendy De La Rosa	1	
+A_4335	Wendy Freedman	1	Astronomer
+A_4336	Wendy Hawkins	1	
+A_4337	Wendy MacNaughton	1	
+A_4338	Wendy Suzuki	1	
+A_4339	Wendy Troxel	1	Sleep researcher
+A_4340	Wendy Woods	1	
+A_4341	Werner Reich	1	
+A_4342	Wes Moore	1	Author and advocate
+A_4343	Wesley Saint Clair	1	
+A_4344	Will Cathcart	1	
+A_4345	Will Hurd	1	
+A_4346	Will Jenkins	1	
+A_4347	Will MacAskill	1	
+A_4348	Will Marshall	1	Space scientist
+A_4349	Will Potter	1	Investigative journalist
+A_4350	Will Wright	1	Game designer
+A_4351	Willard Wigan	1	Micro-sculptor
+A_4352	William "Sandy" Darity	1	
+A_4353	William Black	1	Academic
+A_4354	William Butler Yeats	1	
+A_4355	William Collis	1	
+A_4356	William D. Desmond	1	
+A_4357	William Kamkwamba	1	Inventor
+A_4358	William Li	1	Cancer researcher
+A_4359	William McDonough	1	Architect
+A_4360	William Noel	1	"Curator, rare book scholar"
+A_4361	William Shakespeare	1	
+A_4362	William Ury	1	Mediator
+A_4363	Willie Smits	1	Conservationist
+A_4364	Wilton L. Virgo	1	
+A_4365	Wingham Rowan	1	Policy entrepreneur
+A_4366	Winnie Harlow	1	
+A_4367	Wisecrack	1	
+A_4368	Wobbly World	1	
+A_4369	WOLF	1	
+A_4370	Wolfgang Kessling	1	Physicist
+A_4371	Woody Norris	1	Inventor
+A_4372	Xavier De Kestelier	1	
+A_4373	Xavier Vilalta	1	Architect and urbanist
+A_4374	Xiye Bastida	1	
+A_4375	"Xiye Bastida , Shiv Soin , Latif Nasser"	3	
+A_4376	Yav´l Eisenstat	1	
+A_4377	Yale Fox	1	
+A_4378	Yami Joshi	1	
+A_4379	Yana Buhrer Tavanier	1	
+A_4380	Yang Lan	1	"Media mogul, TV host"
+A_4381	Yanis Varoufakis	1	Economist and professor
+A_4382	Yaniv Erlich	1	
+A_4383	Yann Arthus-Bertrand	1	Photographer
+A_4384	Yann Dall'Aglio	1	Philosopher
+A_4385	Yann LeCun	1	
+A_4386	Yannay Khaikin	1	
+A_4387	Yannick Roudaut	1	
+A_4388	Yasheng Huang	1	Political economist
+A_4389	Yasin Kakande	1	
+A_4390	Yasmin Green	1	
+A_4391	Yasmin Hurd	1	
+A_4392	Yassmin Abdel-Magied	1	"Mechanical engineer, social advocate"
+A_4393	Yelle	1	
+A_4394	Yemi Alade	1	
+A_4395	Yen Pham	1	
+A_4396	Yeonmi Park	1	
+A_4397	YeYoon Kim	1	
+A_4398	Yifat Susskind	1	
+A_4399	Yoav Medan	1	Medical inventor
+A_4400	Yochai Benkler	1	Legal expert
+A_4401	Yoruba Richen	1	Documentary filmmaker
+A_4402	Yossi Elran	1	
+A_4403	Yossi Vardi	1	Investor
+A_4404	Young-ha Kim	1	Writer
+A_4405	Yue Xiu Lim	1	
+A_4406	Yuko Morita	1	
+A_4407	Yuko Munakata	1	
+A_4408	Yusuf Nurbhai	1	
+A_4409	Yuval Noah Harari	1	Historian
+A_4410	Yve Blake	1	
+A_4411	Yves Bv©har	1	
+A_4412	Yves Morieux	1	Consultant
+A_4413	Yves Rossy	1	Jetman
+A_4414	Yvette Alberdingk Thijm	1	
+A_4415	Yvonne Aki-Sawyerr	1	
+A_4416	Yvonne van Amerongen	1	
+A_4417	Zac Goldsmith	1	
+A_4418	"Zach Kaplan , Keith Schacht"	2	
+A_4419	Zachariah Mampilly	1	
+A_4420	Zachary R. Wood	1	
+A_4421	Zahra Al-Mahdi	1	
+A_4422	Zahra' Langhi	1	Activist
+A_4423	Zainab Salbi	1	Activist and social entrepreneur
+A_4424	Zak Ebrahim	1	Peace activist
+A_4425	Zaria Forman	1	Artist
+A_4426	Ze Frank	1	"Humorist, web artist"
+A_4427	Zeresenay Alemseged	1	Paleoanthropologist
+A_4428	Zeynep Tufekci	1	Techno-sociologist
+A_4429	Ziauddin Yousafzai	1	Education activist
+A_4430	ZigZag	1	
+A_4431	Ziyah Gafic	1	
+A_4432	Zov´ Karl-Waithaka	1	
+A_4433	Zoe Pierrat	1	
+A_4434	Zohreh Davoudi	1	
+A_4435	Zubaida Bai	1	Women's health advocate
