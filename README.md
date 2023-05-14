@@ -1,2 +1,2 @@
-# Coursera_project
-loan_prediction
+# Master's in Data Science
+Projects
